@@ -1,0 +1,29 @@
+\documentclass[12pt]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.5em}
+\renewcommand{\baselinestretch}{1.15}
+
+\renewcommand*{\familydefault}{\sfdefault}
+
+\titleformat{\chapter}[display]{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{1pt}{\Huge}
+\titlespacing{\chapter}{0pt}{0pt}{10pt}
+\titlespacing{\section}{0pt}{5pt}{5pt}
+\titlespacing{\subsection}{0pt}{3pt}{3pt}
+
+\title{An Overview of History}
+\author{Aakash Patel}
+\date{}
+
+\begin{document}
+\maketitle
+
+\input{./tex/earlyhistory.tex}
+\input{./tex/greece-rome.tex}
+\input{./tex/india-china.tex}
+
+\end{document}
