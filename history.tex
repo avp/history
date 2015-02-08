@@ -3,6 +3,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[margin=1in]{geometry}
 \usepackage{titlesec}
+\usepackage{tocloft}
 
 \setlength{\parindent}{2em}
 \setlength{\parskip}{0.5em}
@@ -10,10 +11,16 @@
 
 \renewcommand*{\familydefault}{\sfdefault}
 
+% Formatting options
 \titleformat{\chapter}[display]{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{1pt}{\Huge}
 \titlespacing{\chapter}{0pt}{0pt}{10pt}
 \titlespacing{\section}{0pt}{5pt}{5pt}
 \titlespacing{\subsection}{0pt}{3pt}{3pt}
+
+% Table of Contents Options
+\setcounter{tocdepth}{0}
+\setlength\cftparskip{2pt}
+\setlength\cftbeforechapskip{0pt}
 
 \title{An Overview of History}
 \author{Aakash Patel}
@@ -26,5 +33,6 @@
 \input{./tex/earlyhistory.tex}
 \input{./tex/greece-rome.tex}
 \input{./tex/india-china.tex}
+\input{./tex/breaking-europe.tex}
 
 \end{document}
