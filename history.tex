@@ -1,15 +1,25 @@
 \documentclass[12pt]{report}
 
 \usepackage[utf8]{inputenc}
-\usepackage[margin=1in]{geometry}
+\usepackage[margin=1in, top=0.75in]{geometry}
 \usepackage{titlesec}
 \usepackage{tocloft}
+\usepackage{hyperref}
 
 \setlength{\parindent}{2em}
 \setlength{\parskip}{0.5em}
 \renewcommand{\baselinestretch}{1.15}
 
 \renewcommand*{\familydefault}{\sfdefault}
+
+\hypersetup{%
+    colorlinks,
+    linktocpage,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
 
 % Formatting options
 \titleformat{\chapter}[display]{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{1pt}{\Huge}
@@ -34,5 +44,6 @@
 \input{./tex/greece-rome.tex}
 \input{./tex/india-china.tex}
 \input{./tex/breaking-europe.tex}
+\input{./tex/high-middle-ages.tex}
 
 \end{document}
