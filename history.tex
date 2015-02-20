@@ -8,7 +8,7 @@
 \usepackage{hyperref}
 
 \setlength{\parindent}{2em}
-\setlength{\parskip}{0.3em}
+\setlength{\parskip}{0.4em}
 \renewcommand{\baselinestretch}{1.15}
 
 \renewcommand*{\familydefault}{\sfdefault}
@@ -32,8 +32,8 @@
 % Table of Contents Options
 \setcounter{tocdepth}{1}
 \setcounter{secnumdepth}{0}
-\setlength\cftparskip{2pt}
-\setlength\cftbeforechapskip{0pt}
+\addtocontents{toc}{\cftpagenumbersoff{section}}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
 
 \title{A Compendium of History}
 \author{Aakash Patel}
@@ -53,6 +53,10 @@
 \input{./tex/breaking-europe.tex}
 \input{./tex/middle-ages.tex}
 \input{./tex/renaissance.tex}
+\input{./tex/modern-asia.tex}
+\input{./tex/european-monarchy.tex}
+\input{./tex/colonialism-war.tex}
+\input{./tex/revolutions.tex}
 
 \clearpage
 \end{document}
