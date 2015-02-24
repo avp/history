@@ -6,10 +6,7 @@
 \usepackage{titlesec}
 \usepackage{tocloft}
 \usepackage{hyperref}
-
-\setlength{\parindent}{2em}
-\setlength{\parskip}{0.4em}
-\renewcommand{\baselinestretch}{1.15}
+\usepackage{enumitem}
 
 \renewcommand*{\familydefault}{\sfdefault}
 
@@ -24,10 +21,19 @@
 
 % Formatting options
 \titleformat{\chapter}[display]{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{1pt}{\Huge}
+\titleformat{\section}[display]{\normalfont\LARGE\bfseries}{\thesection}{1pt}{\LARGE}
+
 \titlespacing{\chapter}{0pt}{0pt}{10pt}
 \titlespacing{\section}{0pt}{20pt}{5pt}
 \titlespacing{\subsection}{0pt}{3pt}{3pt}
 \titlespacing{\subsubsection}{0pt}{2pt}{2pt}
+
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.4em}
+\renewcommand{\baselinestretch}{1.15}
+
+\setlist{nosep}
+
 
 % Table of Contents Options
 \setcounter{tocdepth}{1}
@@ -57,7 +63,9 @@
 \input{./tex/european-monarchy.tex}
 \input{./tex/colonies.tex}
 \input{./tex/european-expansion.tex}
+\input{./tex/american-independence.tex}
 \input{./tex/revolutions.tex}
+\input{./tex/first-presidents.tex}
 
 \clearpage
 \end{document}
