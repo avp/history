@@ -7,6 +7,7 @@
 \usepackage{tocloft}
 \usepackage{hyperref}
 \usepackage{enumitem}
+\usepackage{fancyhdr}
 
 \renewcommand*{\familydefault}{\sfdefault}
 
@@ -34,12 +35,19 @@
 
 \setlist{nosep}
 
-
 % Table of Contents Options
 \setcounter{tocdepth}{1}
 \setcounter{secnumdepth}{0}
 \addtocontents{toc}{\cftpagenumbersoff{section}}
 \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+% Header Options
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\lhead{Chapter~\thechapter}
+\rhead{\leftmark}
+\cfoot{\thepage}
 
 \title{A Compendium of History}
 \author{Aakash Patel}
@@ -66,6 +74,9 @@
 \input{./tex/american-independence.tex}
 \input{./tex/revolutions.tex}
 \input{./tex/first-presidents.tex}
+
+\appendix
+\input{./tex/court-cases.tex}
 
 \clearpage
 \end{document}
