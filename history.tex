@@ -8,19 +8,11 @@
 \usepackage{hyperref}
 \usepackage{enumitem}
 \usepackage{fancyhdr}
-
-\renewcommand*{\familydefault}{\sfdefault}
-
-\hypersetup{%
-    colorlinks,
-    linktocpage,
-    citecolor=black,
-    filecolor=black,
-    linkcolor=black,
-    urlcolor=black
-}
+\usepackage{etoc}
 
 % Formatting options
+\renewcommand*{\familydefault}{\sfdefault}
+
 \titleformat{\chapter}[display]{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{1pt}{\Huge}
 \titleformat{\section}[display]{\normalfont\LARGE\bfseries}{\thesection}{1pt}{\LARGE}
 
@@ -41,6 +33,16 @@
 \addtocontents{toc}{\cftpagenumbersoff{section}}
 \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
 
+\hypersetup{%
+    colorlinks,
+    linktocpage,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+
 % Header Options
 \pagestyle{fancy}
 \fancyhf{}
@@ -49,11 +51,16 @@
 \rhead{\leftmark}
 \cfoot{\thepage}
 
-\title{A Compendium of History}
+\renewcommand{\etocaftertitlehook}{\pagestyle{plain}}
+\renewcommand{\etocaftertochook}{\thispagestyle{plain}}
+
+\title{History}
 \author{Aakash Patel}
 \date{}
 
 \begin{document}
+\frontmatter{}
+
 \maketitle
 
 \pagenumbering{gobble}
@@ -61,6 +68,7 @@
 \cleardoublepage{}
 \pagenumbering{arabic}
 
+\mainmatter{}
 \input{./tex/earlyhistory.tex}
 \input{./tex/greece-rome.tex}
 \input{./tex/india-china.tex}
@@ -74,6 +82,13 @@
 \input{./tex/american-independence.tex}
 \input{./tex/revolutions.tex}
 \input{./tex/first-presidents.tex}
+\input{./tex/imperialism-europe.tex}
+\input{./tex/civil-war.tex}
+\input{./tex/wwi.tex}
+\input{./tex/interwar-europe.tex}
+\input{./tex/interwar-america.tex}
+\input{./tex/wwii.tex}
+\input{./tex/cold-war.tex}
 
 \appendix
 \input{./tex/court-cases.tex}
