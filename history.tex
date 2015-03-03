@@ -1,14 +1,17 @@
 \documentclass[12pt]{report}
 
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage[margin=1in, top=0.75in]{geometry}
 \usepackage{color}
+\usepackage{enumitem}
+\usepackage{etoc}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{ifthen}
+\usepackage{lmodern}
 \usepackage{titlesec}
 \usepackage{tocloft}
-\usepackage{hyperref}
-\usepackage{enumitem}
-\usepackage{fancyhdr}
-\usepackage{etoc}
 
 % Formatting options
 \renewcommand*{\familydefault}{\sfdefault}
@@ -46,6 +49,7 @@
 % Header Options
 \pagestyle{fancy}
 \fancyhf{}
+\setlength{\headheight}{15pt}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \lhead{Chapter~\thechapter}
 \rhead{\leftmark}
@@ -59,7 +63,6 @@
 \date{}
 
 \begin{document}
-\frontmatter{}
 
 \maketitle
 
@@ -68,7 +71,6 @@
 \cleardoublepage{}
 \pagenumbering{arabic}
 
-\mainmatter{}
 \input{./tex/earlyhistory.tex}
 \input{./tex/greece-rome.tex}
 \input{./tex/india-china.tex}
