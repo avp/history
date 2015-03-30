@@ -6,12 +6,13 @@
 \usepackage{color}
 \usepackage{enumitem}
 \usepackage{etoc}
+\usepackage{incgraph}
 \usepackage{fancyhdr}
-\usepackage{hyperref}
 \usepackage{ifthen}
 \usepackage{lmodern}
 \usepackage{titlesec}
 \usepackage[titles]{tocloft}
+\usepackage{hyperref}
 
 % Formatting options
 \renewcommand*{\familydefault}{\sfdefault}
@@ -66,7 +67,7 @@
 
 \begin{document}
 
-\maketitle
+\incgraph[documentpaper,width=\paperwidth,height=\paperheight]{cover.jpg}
 
 \pagenumbering{gobble}
 \tableofcontents
@@ -75,7 +76,7 @@
 
 \input{./tex/earlyhistory.tex}
 \input{./tex/greece-rome.tex}
-\input{./tex/india-china.tex}
+\input{./tex/ancient-asia.tex}
 \input{./tex/breaking-europe.tex}
 \input{./tex/middle-ages.tex}
 \input{./tex/african-empires.tex}
@@ -94,13 +95,13 @@
 \input{./tex/wwi.tex}
 \input{./tex/interwar-europe.tex}
 \input{./tex/interwar-america.tex}
-\input{./tex/wwii.tex}
 \addtocontents{toc}{\protect\newpage}
+\input{./tex/wwii.tex}
 \input{./tex/cold-war.tex}
 \input{./tex/recent-world.tex}
 
-\appendix
-\input{./tex/court-cases.tex}
+% \appendix
+% \input{./tex/court-cases.tex}
 
 \clearpage
 \end{document}

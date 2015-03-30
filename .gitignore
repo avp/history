@@ -1,4 +1,7 @@
 *.epub
+*.xcf
+*.jpg
+*.jpg.bak
 
 *.acn
 *.acr
