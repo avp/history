@@ -2,7 +2,7 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[margin=1in, top=0.75in]{geometry}
+\usepackage[margin=1in]{geometry}
 \usepackage{color}
 \usepackage{enumitem}
 \usepackage{etoc}
@@ -10,6 +10,7 @@
 \usepackage{fancyhdr}
 \usepackage{ifthen}
 \usepackage{lmodern}
+\usepackage{siunitx}
 \usepackage{titlesec}
 \usepackage[titles]{tocloft}
 \usepackage{hyperref}
@@ -20,7 +21,7 @@
 \titleformat{\chapter}[display]{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{1pt}{\Huge}
 \titleformat{\section}[display]{\normalfont\LARGE\bfseries}{\thesection}{1pt}{\LARGE}
 
-\titlespacing{\chapter}{0pt}{0pt}{10pt}
+\titlespacing{\chapter}{0pt}{-20pt}{10pt}
 \titlespacing{\section}{0pt}{20pt}{5pt}
 \titlespacing{\subsection}{0pt}{3pt}{3pt}
 \titlespacing{\subsubsection}{0pt}{2pt}{2pt}
@@ -36,7 +37,7 @@
 \setcounter{secnumdepth}{0}
 \addtocontents{toc}{\cftpagenumbersoff{section}}
 \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
-\setlength{\cftbeforechapskip}{0.2ex}
+\setlength{\cftbeforechapskip}{-0.2ex}
 \setlength{\cftbeforesecskip}{-0.2ex}
 
 \hypersetup{%
@@ -47,7 +48,6 @@
     linkcolor=black,
     urlcolor=black
 }
-
 
 % Header Options
 \pagestyle{fancy}
@@ -67,14 +67,14 @@
 
 \begin{document}
 
-\incgraph[documentpaper,width=\paperwidth,height=\paperheight]{cover.jpg}
+\incgraph[width=\textwidth, height=\textheight]{cover.jpg}
 
 \pagenumbering{gobble}
 \tableofcontents
 \cleardoublepage{}
 \pagenumbering{arabic}
 
-\input{./tex/earlyhistory.tex}
+\input{./tex/early-history.tex}
 \input{./tex/greece-rome.tex}
 \input{./tex/ancient-asia.tex}
 \input{./tex/breaking-europe.tex}
@@ -100,8 +100,8 @@
 \input{./tex/cold-war.tex}
 \input{./tex/recent-world.tex}
 
-% \appendix
-% \input{./tex/court-cases.tex}
+\appendix
+\input{./tex/court-cases.tex}
 
 \clearpage
 \end{document}
