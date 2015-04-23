@@ -6,7 +6,7 @@ epub: history.epub
 
 .PHONY: epub
 
-history.epub: history.tex cover.jpg
+history.epub: history.tex tex/*.tex cover.jpg
 	pandoc history.tex -o $@ --epub-cover-image cover.jpg
 
 clean:
