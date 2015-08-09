@@ -1,20 +1,26 @@
+DEPS=history.tex tex/*.tex cover.jpg
+
 all: epub pdf
 .PHONY: all
 
-upload: all
-	aws s3 cp history.pdf s3://history.avp42.com
-	aws s3 cp history.epub s3://history.avp42.com
+upload: upload-epub upload-pdf
 .PHONY: upload
 
-epub: history.tex tex/*.tex cover.jpg
-	pandoc history.tex -o history.epub --epub-cover-image cover.jpg
+upload-epub: epub
+	aws s3 cp history.epub s3://history.avp42.com
+.PHONY: upload-epub
 
-pdf: history.tex tex/*.tex cover.jpg
+upload-pdf: pdf
+	aws s3 cp history.pdf s3://history.avp42.com
+.PHONY: upload-pdf
+
+epub: $(DEPS)
+	pandoc history.tex -o history.epub --epub-cover-image cover.jpg
+.PHONY: upload-epub
+
+pdf: $(DEPS)
 	latexmk -pdf -quiet -pdflatex=pdflatex --shell-escape history.tex
-	gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 \
-		-dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH \
-		-sOutputFile=/tmp/history.pdf history.pdf
-	mv /tmp/history.pdf history.pdf
+.PHONY: upload-pdf
 
 clean:
 	$(RM) history.epub
