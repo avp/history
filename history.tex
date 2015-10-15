@@ -9,6 +9,7 @@
 \usepackage{epigraph}
 \usepackage{incgraph}
 \usepackage{fancyhdr}
+\usepackage[toc,page]{appendix}
 \usepackage{ifthen}
 \usepackage{lmodern}
 \usepackage{quoting}
@@ -58,9 +59,9 @@
 \fancyhf{}
 \setlength{\headheight}{15pt}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\lhead{Chapter~\thechapter}
-\rhead{\leftmark}
-\cfoot{\thepage}
+\lhead{\chaptername~\thechapter:~\leftmark}
+\rhead{\thepage}
+\cfoot{}
 
 \renewcommand{\etocaftertitlehook}{\pagestyle{plain}}
 \renewcommand{\etocaftertochook}{\thispagestyle{plain}}
@@ -107,8 +108,10 @@
 \addtocontents{toc}{\protect\newpage}
 \input{./tex/recent-world.tex}
 
-\appendix
-\input{./tex/court-cases.tex}
+\begin{appendix}
+  \lhead{Appendix~\thechapter~\chaptertitle}
+  \input{./tex/court-cases.tex}
+\end{appendix}
 
 \clearpage
 \end{document}
