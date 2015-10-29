@@ -15,7 +15,7 @@ upload-pdf: pdf
 .PHONY: upload-pdf
 
 epub: $(DEPS)
-	pandoc history.tex -o history.epub --epub-cover-image cover.jpg
+	pandoc -f latex history.tex -t epub3 -o history.epub --epub-cover-image cover.jpg
 .PHONY: upload-epub
 
 pdf: $(DEPS)
