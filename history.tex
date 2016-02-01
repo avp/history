@@ -1,7 +1,7 @@
 \documentclass[12pt]{report}
 
-\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
 \usepackage[margin=1in]{geometry}
 \usepackage{color}
 \usepackage{enumitem}
@@ -19,6 +19,8 @@
 \usepackage{caption}
 \usepackage[titles]{tocloft}
 \usepackage{hyperref}
+
+% chktex-file -2
 
 % Formatting options
 \renewcommand*{\familydefault}{\sfdefault}
@@ -111,7 +113,7 @@
 \input{./tex/recent-world.tex}
 
 \begin{appendix}
-  \lhead{Appendix~\thechapter~\chaptertitle}
+  % \lhead{Appendix~\thechapter~\chaptertitle}
   \input{./tex/court-cases.tex}
 \end{appendix}
 
