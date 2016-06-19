@@ -1,74 +1,8 @@
 \documentclass[12pt]{report}
 
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage[margin=1in]{geometry}
-\usepackage{color}
-\usepackage{enumitem}
-\usepackage{etoc}
-\usepackage{epigraph}
-\usepackage{incgraph}
-\usepackage{fancyhdr}
-\usepackage[toc,page]{appendix}
-\usepackage{ifthen}
-\usepackage{lmodern}
-\usepackage{quoting}
-\usepackage{siunitx}
-\usepackage{titlesec}
-\usepackage{wrapfig}
-\usepackage{caption}
-\usepackage[titles]{tocloft}
-\usepackage{hyperref}
+\usepackage{history}
 
 % chktex-file -2
-
-% Formatting options
-\renewcommand*{\familydefault}{\sfdefault}
-
-\titleformat{\chapter}[display]{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{1pt}{\Huge}
-\titleformat{\section}[display]{\normalfont\LARGE\bfseries}{\thesection}{1pt}{\LARGE}
-
-\titlespacing{\chapter}{0pt}{-30pt}{10pt}
-\titlespacing{\section}{0pt}{15pt}{5pt}
-\titlespacing{\subsection}{0pt}{3pt}{3pt}
-\titlespacing{\subsubsection}{0pt}{2pt}{2pt}
-
-\setlength{\parindent}{2em}
-\setlength{\parskip}{0.4em}
-\renewcommand{\baselinestretch}{1.15}
-
-\setlist{nosep}
-
-\quotingsetup{vskip=0pt}
-
-% Table of Contents Options
-\setcounter{tocdepth}{1}
-\setcounter{secnumdepth}{0}
-\addtocontents{toc}{\cftpagenumbersoff{section}}
-\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
-\setlength{\cftbeforechapskip}{-0.2ex}
-\setlength{\cftbeforesecskip}{-0.2ex}
-
-\hypersetup{%
-    colorlinks,
-    linktocpage,
-    citecolor=black,
-    filecolor=black,
-    linkcolor=black,
-    urlcolor=black
-}
-
-% Header Options
-\pagestyle{fancy}
-\fancyhf{}
-\setlength{\headheight}{15pt}
-\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\lhead{\chaptername~\thechapter:~\leftmark}
-\rhead{\thepage}
-\cfoot{}
-
-\renewcommand{\etocaftertitlehook}{\pagestyle{plain}}
-\renewcommand{\etocaftertochook}{\thispagestyle{plain}}
 
 \title{History}
 \author{Aakash Patel}
@@ -88,28 +22,24 @@
 \input{tex/breaking-europe.tex}
 \input{tex/middle-ages.tex}
 \input{tex/african-empires.tex}
-\addtocontents{toc}{\protect\newpage}
 \input{tex/renaissance.tex}
 \input{tex/modern-asia.tex}
 \input{tex/european-monarchy.tex}
 \input{tex/colonies.tex}
 \input{tex/european-expansion.tex}
 \input{tex/american-independence.tex}
-\addtocontents{toc}{\protect\newpage}
 \input{tex/revolutions.tex}
 \input{tex/early-usa.tex}
 \input{tex/nationalism-europe.tex}
 \input{tex/expansion-civil-war.tex}
 \input{tex/imperialism-usa.tex}
 \input{tex/wwi.tex}
-\addtocontents{toc}{\protect\newpage}
 \input{tex/interwar-usa.tex}
 \input{tex/interwar-europe.tex}
 \input{tex/wwii.tex}
 \input{tex/cold-war.tex}
 \input{tex/recent-usa.tex}
 \input{tex/recent-europe.tex}
-\addtocontents{toc}{\protect\newpage}
 \input{tex/recent-world.tex}
 
 \begin{appendices}

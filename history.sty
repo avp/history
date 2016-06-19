@@ -1,0 +1,86 @@
+\ProvidesPackage{history}
+
+% Formatting options
+% \renewcommand*{\familydefault}{\sfdefault}
+
+\usepackage{palatino}
+% \usepackage{ebgaramond}
+\normalfont%
+\usepackage[T1]{fontenc}
+
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{epigraph}
+\usepackage{incgraph}
+\usepackage{fancyhdr}
+\usepackage[toc,page]{appendix}
+\usepackage{ifthen}
+% \usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{quoting}
+\usepackage{siunitx}
+\usepackage{titlesec}
+\usepackage{wrapfig}
+\usepackage{caption}
+\usepackage{tikz}
+\usepackage{adforn}
+
+\usepackage{tocloft}
+\usepackage{etoc}
+
+\usepackage{hyperref}
+
+% \titleformat{\chapter}[display]{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{1pt}{\Huge}
+
+\newcommand{\chapnumfont}{\fontsize{36}{0}\selectfont}
+\newcommand{\chaptitlefont}{\fontsize{30}{0}\selectfont}
+\titleformat{\chapter}[display]{\centering\scshape\bfseries}%
+{\chapnumfont\adfsharpflourishleft~\thechapter~\adfsharpflourishright}
+{2em}{\chaptitlefont}
+
+\titleformat{\section}[display]{\normalfont\LARGE\bfseries}{\thesection}{1pt}{\LARGE}
+
+% \titlespacing{\chapter}{0pt}{-30pt}{10pt}
+\titlespacing{\section}{0pt}{15pt}{5pt}
+\titlespacing{\subsection}{0pt}{10pt}{5pt}
+\titlespacing{\subsubsection}{0pt}{5pt}{3pt}
+
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.4em}
+\renewcommand{\baselinestretch}{1.20}
+
+\setlist{nosep}
+
+\quotingsetup{vskip=0pt}
+
+% Table of Contents Options
+\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{0}
+% \addtocontents{toc}{\cftpagenumbersoff{section}}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+% \setlength{\cftbeforechapskip}{1.0em plus 0.3em minus 0.1em}
+\setlength{\cftbeforechapskip}{0.4em}
+\setlength{\cftbeforesecskip}{0.1em}
+
+\hypersetup{%
+    colorlinks,
+    linktocpage,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+% Header Options
+\pagestyle{fancy}
+\fancyhf{}
+\setlength{\headheight}{15pt}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\lhead{\chaptername~\thechapter:~\leftmark}
+\rhead{\thepage}
+\cfoot{}
+
+\renewcommand{\etocaftertitlehook}{\pagestyle{plain}}
+\renewcommand{\etocaftertochook}{\thispagestyle{plain}}
