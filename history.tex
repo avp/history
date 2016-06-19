@@ -4,14 +4,45 @@
 
 % chktex-file -2
 
-\title{History}
-\author{Aakash Patel}
-\date{}
+\newcommand{\Title}{History}
+\newcommand{\Author}{Aakash Patel}
+\newcommand{\Date}{}
+\title{\Title}
+\author{\Author}
+\date{\Date}
+
+\newcommand{\titlefont}{\fontsize{50}{0}\selectfont}
+\newcommand{\authorfont}{\fontsize{30}{0}\selectfont}
 
 \begin{document}
 
 % \incgraph{cover.jpg}
-\maketitle
+% \maketitle
+\begin{titlepage}
+  % \pagecolor{black!10!green}
+  \begin{tikzpicture}[remember picture, overlay]
+    \draw[fill=brown!20,draw=black,very thick] (current page.north west) rectangle +(0.4\paperwidth,-\paperheight);
+  \end{tikzpicture}
+
+  \flushright%
+
+  \rule{\textwidth}{2.0pt}
+
+  \vspace*{-\baselineskip}
+  % \vspace*{0.5pt}
+  \rule{\textwidth}{0.6pt}
+  \vspace*{-\baselineskip}
+  \vspace*{10.0pt}
+
+  \titlefont\textsc{\Title}%
+
+  \vspace*{10.0pt}
+  \vspace*{-\baselineskip}
+  \vspace*{3.0pt}
+
+  \authorfont\Author%
+\end{titlepage}
+\normalfont%
 
 \tableofcontents
 \cleardoublepage{}

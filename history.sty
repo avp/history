@@ -15,24 +15,21 @@
 \usepackage{epigraph}
 \usepackage{incgraph}
 \usepackage{fancyhdr}
-\usepackage[toc,page]{appendix}
 \usepackage{ifthen}
-% \usepackage{lmodern}
 \usepackage{microtype}
 \usepackage{quoting}
 \usepackage{siunitx}
-\usepackage{titlesec}
 \usepackage{wrapfig}
 \usepackage{caption}
 \usepackage{tikz}
 \usepackage{adforn}
 
 \usepackage{tocloft}
+\usepackage{titlesec}
 \usepackage{etoc}
+\usepackage[toc,page]{appendix}
 
 \usepackage{hyperref}
-
-% \titleformat{\chapter}[display]{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{1pt}{\Huge}
 
 \newcommand{\chapnumfont}{\fontsize{36}{0}\selectfont}
 \newcommand{\chaptitlefont}{\fontsize{30}{0}\selectfont}
@@ -42,7 +39,6 @@
 
 \titleformat{\section}[display]{\normalfont\LARGE\bfseries}{\thesection}{1pt}{\LARGE}
 
-% \titlespacing{\chapter}{0pt}{-30pt}{10pt}
 \titlespacing{\section}{0pt}{15pt}{5pt}
 \titlespacing{\subsection}{0pt}{10pt}{5pt}
 \titlespacing{\subsubsection}{0pt}{5pt}{3pt}
@@ -63,6 +59,8 @@
 % \setlength{\cftbeforechapskip}{1.0em plus 0.3em minus 0.1em}
 \setlength{\cftbeforechapskip}{0.4em}
 \setlength{\cftbeforesecskip}{0.1em}
+\renewcommand{\etocaftertitlehook}{\pagestyle{plain}}
+\renewcommand{\etocaftertochook}{\thispagestyle{plain}}
 
 \hypersetup{%
     colorlinks,
@@ -81,6 +79,3 @@
 \lhead{\chaptername~\thechapter:~\leftmark}
 \rhead{\thepage}
 \cfoot{}
-
-\renewcommand{\etocaftertitlehook}{\pagestyle{plain}}
-\renewcommand{\etocaftertochook}{\thispagestyle{plain}}
