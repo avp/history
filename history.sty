@@ -3,13 +3,12 @@
 % Formatting options
 % \renewcommand*{\familydefault}{\sfdefault}
 
-\usepackage{cinzel}
 \usepackage{mathpazo}
 \normalfont%
 \usepackage[T1]{fontenc}
 
 \usepackage[utf8]{inputenc}
-\usepackage[margin=1in]{geometry}
+\usepackage[margin=0.75in, bottom=1in, paperwidth=7in, paperheight=10in]{geometry}
 \usepackage{xcolor}
 \usepackage{enumitem}
 \usepackage{epigraph}
@@ -27,25 +26,29 @@
 \usepackage{tocloft}
 \usepackage{titlesec}
 \usepackage{etoc}
-\usepackage[toc,page]{appendix}
+\usepackage[toc]{appendix}
 
 \usepackage{hyperref}
 
-\newcommand{\chapnumfont}{\fontsize{36}{0}\selectfont}
-\newcommand{\chaptitlefont}{\fontsize{30}{0}\selectfont}
+\newcommand{\chapnumfont}{\fontsize{30}{0}\selectfont}
+\newcommand{\chaptitlefont}{\fontsize{26}{0}\selectfont}
 \titleformat{\chapter}[display]{\centering\scshape\bfseries}%
 {\chapnumfont\adfsharpflourishleft~\thechapter~\adfsharpflourishright}
 {2em}{\chaptitlefont}
 
-\titleformat{\section}[display]{\normalfont\LARGE\bfseries}{\thesection}{1pt}{\LARGE}
+\titleformat{\section}[display]{\normalfont\LARGE\bfseries}{\thesection}{1pt}{}
+\titleformat{\subsection}[display]{\normalfont\Large}{\thesection}{1pt}{}
+\titleformat{\subsubsection}[display]{\normalfont\large}{\thesection}{1pt}{}
 
-\titlespacing{\section}{0pt}{10pt}{3pt}
-\titlespacing{\subsection}{0pt}{10pt}{5pt}
-\titlespacing{\subsubsection}{0pt}{5pt}{3pt}
+\titlespacing{\section}{0pt}{10pt}{5pt}
+\titlespacing{\subsection}{0pt}{5pt}{3pt}
+\titlespacing{\subsubsection}{0pt}{3pt}{1pt}
 
 \setlength{\parindent}{2em}
-\setlength{\parskip}{0.4em}
+\setlength{\parskip}{0.1em}
 \renewcommand{\baselinestretch}{1.20}
+
+\setlength{\epigraphwidth}{2.5in}
 
 \setlist{nosep}
 
@@ -73,8 +76,8 @@
 % Header Options
 \pagestyle{fancy}
 \fancyhf{}
-\setlength{\headheight}{15pt}
+\setlength{\headheight}{20pt}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\lhead{\chaptername~\thechapter:~\leftmark}
+\lhead{\leftmark}
 \rhead{\thepage}
 \cfoot{}
