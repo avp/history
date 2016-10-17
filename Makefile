@@ -1,4 +1,4 @@
-DEPS=history.tex tex/*.tex cover.jpg
+DEPS=history.tex tex/*.tex
 
 all: epub pdf
 .PHONY: all
