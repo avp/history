@@ -1,12 +1,5 @@
 == Popes
 
-\newcommand{\papacy}[2]{\noindent__Pontificate: #1--#2__}
-
-\newcommand{\pope}[3]{%
-  ==== #1
-  \papacy{#2}{#3}
-}
-
 The Catholic Church crops up fairly often in our survey of history.
 Almost every time they've been mentioned, we've been acquainted with new popes,
 but we haven't really taken the time to describe the exploits of all of them,
