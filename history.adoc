@@ -12,6 +12,10 @@
 :toclevels: 2
 :toc-title: Contents
 
+:AE: &#198;
+:Ouml: &#246;
+:aflex: &#226;
+
 include::adoc/early-history.adoc[]
 
 include::adoc/greece-rome.adoc[]

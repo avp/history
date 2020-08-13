@@ -151,23 +151,23 @@ Schechter v. US ruled the NIRA unconstitutional.
 The New Deal was composed of many different projects,
 most of which have a 3 letter acronym associated with them.
 
-- **NRA**:
+**NRA**::
 The NRA was symbolized by a Blue Eagle with the words "`We Do Our Part`".
 It allowed a "`blanket code`" and was originally directed by General Hugh S. Johnson.
 The NRA also regulated business practices and set up "`codes of fair competition`".
 Clarence Darrow and the FTC would investigate the NRA for monopolistic practices.
 
-- **WPA**:
+**WPA**::
 The Works Progress Administration, or Works Project Administration,
 was a federal agency that employed people to carry out public projects.
 It was run by Harry Hopkins, and employed over 8.5 million people.
 It was preceded by the FERA.
 
-- **CCC**:
+**CCC**::
 The Civilian Conservation Corps was a program that employed and trained younger men.
 The CCC planted millions of trees and did outdoor work projects.
 
-- **TVA**:
+**TVA**::
 The Tennessee Valley Authority was a government entity
 that provided power to the Tennessee Valley.
 The first chairman of the TVA was **David Lilienthal**,

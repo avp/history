@@ -733,6 +733,8 @@ b.conum * { color: inherit !important; }
 #header h1 { font-size: 3.5em; }
 #header .author { font-size: 1em; }
 
+#footer { background: rgba(118, 84, 50, 0.8); }
+
 .verseblock { margin: 0 1em 1.25em 1em; }
 .verseblock pre { font-family: inherit; font-size: 1.15rem; color: rgba(0, 0, 0, 0.9); font-weight: 300; text-rendering: optimizeLegibility; }
 .verseblock pre strong { font-weight: 400; }
@@ -740,10 +742,10 @@ b.conum * { color: inherit !important; }
 
 .quoteblock blockquote::before { content: ''; display: none; }
 
-.quoteblock, .verseblock { padding: 0 20% 0 3%; border-left: 3px solid rgba(0, 0, 0, 0.3); }
+.quoteblock:not(.epigraph), .verseblock:not(.epigraph) { padding: 0 20% 0 3%; border-left: 3px solid rgba(0, 0, 0, 0.3); }
 
-.quoteblock.epigraph { border: none; width: 100%; padding-left: 30%; }
-.quoteblock.epigraph > blockquote { text-align: right; }
+.quoteblock.epigraph { border: none; width: 100%; padding: 0 40% 0 10%; }
+.quoteblock.epigraph > blockquote { font-size: 1.05rem; text-align: left; }
 
 .print-only { display: none !important; }
 
@@ -1147,8 +1149,7 @@ They plunder, they slaughter, and they steal:
 this they falsely name Empire, and where they make a wasteland, they call it peace.
 </blockquote>
 <div class="attribution">
-&#8212; Calgacus<br>
-<cite>on the Romans</cite>
+&#8212; Calgacus, on the Romans
 </div>
 </div>
 <div class="sect2">
@@ -2743,7 +2744,7 @@ Other Viking leaders of the invading forces included Ivar the Boneless, son of R
 They subdued East Anglia, capturing York.</p>
 </div>
 <div class="paragraph">
-<p><strong>Alfred the Great</strong>, king of <strong>Wessex</strong>, son of &AElig;thelwulf,
+<p><strong>Alfred the Great</strong>, king of <strong>Wessex</strong>, son of &#198;thelwulf,
 fought back against Guthrum.
 He created a network of fortified towns called burhs
 (these would be turned into boroughs eventually)
@@ -2765,7 +2766,7 @@ the issue of who should succeed to the throne was thrown into doubt.
 Edgar&#8217;s son Edward was crowned king, but he was quickly assassinated.</p>
 </div>
 <div class="paragraph">
-<p>He was followed by Edgar&#8217;s half-brother, <strong>&AElig;thelred the Unready</strong>.
+<p>He was followed by Edgar&#8217;s half-brother, <strong>&#198;thelred the Unready</strong>.
 As his name may suggest, his reign didn&#8217;t go very well, even though he did rule for a long time.
 It&#8217;s been written that he defecated in his baptismal font,
 leading to a prophecy that the English crown would fall under his reign;
@@ -2773,31 +2774,31 @@ however, that story is probably entirely fake (entertaining, though).
 It&#8217;s now believed that he was simply the victim of bad counsel, and wasn&#8217;t actually particularly &#8220;unready&#8221;.
 He married Emma, a princess of Normandy.
 While he was king, England was invaded by Danes again, led by Sweyn Forkbeard,
-provoked by &AElig;thelred&#8217;s St Brice&#8217;s Day massacre.
+provoked by &#198;thelred&#8217;s St Brice&#8217;s Day massacre.
 The Vikings pillaged through Essex, an action that resulted in the <strong>Battle of Maldon</strong>,
 where the Vikings easily crushed the English.
 From that point forward, the Vikings roamed the countryside,
 apparently free to take whatever they pleased,
-while &AElig;thelred simply hid in his basement.
-Sweyn found &AElig;thelred and forced him into exile.
-Soon after, though, Sweyn died, and &AElig;thelred was able to come back to England.</p>
+while &#198;thelred simply hid in his basement.
+Sweyn found &#198;thelred and forced him into exile.
+Soon after, though, Sweyn died, and &#198;thelred was able to come back to England.</p>
 </div>
 <div class="paragraph">
-<p>Angered at &AElig;thelred, <strong>Cnut</strong>, son of Sweyn, invaded England.
-&AElig;thelred&#8217;s son, Edmund Ironside, abandoned his father,
+<p>Angered at &#198;thelred, <strong>Cnut</strong>, son of Sweyn, invaded England.
+&#198;thelred&#8217;s son, Edmund Ironside, abandoned his father,
 and multiple English nobles took Cnut&#8217;s side.
-But &AElig;thelred died and Edmund was forced to fight the Danes.
+But &#198;thelred died and Edmund was forced to fight the Danes.
 At the battle of Ashingdon, the Danes overpowered the English and Cnut and Edmund split England;
 Edmund took Wessex, and Cnut took everything else.
 When Edmund died (probably murdered), the English witan council declared Cnut king of England.
-Cnut married &AElig;thelred&#8217;s widow Emma,
+Cnut married &#198;thelred&#8217;s widow Emma,
 who agreed only because he agreed to allow her children to be heirs to the throne.
 However, Cnut had had a previous wife, and her children also wanted the throne.</p>
 </div>
 <div class="paragraph">
 <p>When Cnut died in 1035, the throne was disputed.
 The claimants were Harold Harefoot (Harold I, son of Cnut) and Emma&#8217;s son by Cnut, Harthacnut.
-Emma&#8217;s son by &AElig;thelred, Edward, tried to raid Southampton, but failed,
+Emma&#8217;s son by &#198;thelred, Edward, tried to raid Southampton, but failed,
 and his brother Alfred was killed later.
 Harthacnut became king on the death of Harold Harefoot, but he was unpopular,
 and nobody wanted his heirs to become king.
@@ -2854,7 +2855,7 @@ He led a massive and bloody expedition through the north of England,
 killing those who stood in his way, called the <strong>Harrying of the North</strong>.
 He commissioned a census of the country, and recorded it in the <strong>Domesday Book</strong>.
 At the <strong>Trial of Penenden Heath</strong>, William investigated Odo of Bayeux for stealing lands.
-His archbishop was Lanfranc, and he stopped Edward &AElig;theling, Harold Godwinson&#8217;s successor.
+His archbishop was Lanfranc, and he stopped Edward &#198;theling, Harold Godwinson&#8217;s successor.
 Orderic Vitalis, when chronicling William&#8217;s rule, says that William admitted to being a &#8220;barbarous murderer&#8221;
 when he died in 1087 after falling off his horse at the Siege of Mantes.</p>
 </div>
@@ -3338,7 +3339,7 @@ Erik was made ruler of all three kingdoms.</p>
 <div class="paragraph">
 <p>The Union often came into conflict with the concurrent Hanseatic League.
 In the 1420s and 1430s, the Danes became embroiled in the Dano-Hanseatic War,
-after Erik introduced a tax on ships passing through the &Ouml;resund.</p>
+after Erik introduced a tax on ships passing through the &#246;resund.</p>
 </div>
 <div class="paragraph">
 <p>The union began to fall apart, having to deal with insurrections like the Engelbrecht Rebellion.
@@ -6922,7 +6923,7 @@ Spain had claimed West Florida as a consequence of the 1783 Treaty of Paris.</p>
 <div class="paragraph">
 <p>In 1820, <strong>Henry Clay</strong> passed the <strong>Missouri Compromise</strong>.
 It temporarily reconciled the pro-slavery and anti-slavery factions in Congress.
-The compromise prohibited slavery north of 36&deg;30' N, except in Missouri.
+The compromise prohibited slavery north of 36&#176;30' N, except in Missouri.
 Because Missouri was admitted as a slave state,
 Maine was split from Massachusetts and admitted as a free state.
 A follow-up passed to the compromise added an exclusionary clause for mulattoes.
@@ -8011,45 +8012,48 @@ and was promptly fired on returning to Washington.</p>
 killing and robbing town all over the frontier.
 In this section, we look at some of the most famous of these people and the ones who chased them.</p>
 </div>
-<div class="ulist">
-<ul>
-<li>
-<p><strong>Jesse James</strong> (1847&#8212;&#8203;1882)
-was an outlaw from Missouri who associated with the James-Younger Gang.
+<div class="dlist">
+<dl>
+<dt class="hdlist1"><strong>Jesse James</strong></dt>
+<dd>
+<p>James (1847-1882) was an outlaw from Missouri who associated with the James-Younger Gang.
 During the Civil War,
 James and his brother were Bushwhackers (guerrillas)
 who may have participated in the Centralia Massacre.
 In 1882, James was shot by <strong>Robert Ford</strong>, a member of his own gang, for reward money.</p>
-</li>
-<li>
-<p><strong>Wild Bill Hickok</strong> was a legendary figure of the Wild West,
-who had become a fugitive as a teenager.
+</dd>
+<dt class="hdlist1"><strong>Wild Bill Hickok</strong></dt>
+<dd>
+<p>Now a legend, he had become a fugitive as a teenager.
 He fought for the Union during the Civil War, and he was involved in lots of shootouts.
 He was killed by Jack McCall in Deadwood (in the Black Hills),
 while holding a poker hand including black aces and eights.
 The hand would come to be called the &#8220;Dead Man&#8217;s Hand&#8221;.</p>
-</li>
-<li>
-<p><strong>Wyatt Earp</strong> was a sheriff who served in Tombstone, Arizona.
+</dd>
+<dt class="hdlist1"><strong>Wyatt Earp</strong></dt>
+<dd>
+<p>A sheriff who served in Tombstone, Arizona.
 He&#8217;s most well known for participating in the <strong>Gunfight at the O.K. Corral</strong>,
 a 30-second gunfight at which Tom and Frank McLaury and Billy Clanton were killed.</p>
-</li>
-<li>
-<p><strong>Doc Holliday</strong> was also at O.K. Corral, as a temporary deputy.
+</dd>
+<dt class="hdlist1"><strong>Doc Holliday</strong></dt>
+<dd>
+<p>Also at O.K. Corral, as a temporary deputy.
 Holliday had become a dentist when he was young, but then he got tuberculosis and moved west,
 where he became friends with Earp.
 Following the shootout, Earp took Holliday as part of his Vendetta Ride posse,
 and the local sheriff issued a arrest warrants for the posse.
 Holliday eventually died in Colorado from the tuberculosis.</p>
-</li>
-<li>
-<p><strong>Billy the Kid</strong> is perhaps the most infamous of the Wild West gunmen.
+</dd>
+<dt class="hdlist1"><strong>Billy the Kid</strong></dt>
+<dd>
+<p>Perhaps the most infamous of the Wild West gunmen.
 His real name was William H. Bonney, and it&#8217;s said that he killed 21 men,
 even though it was probably more like 8.
 In 1881, a bounty was placed on his head by the governor of New Mexico, Lew Wallace.
 He was shot and killed when he was 21.</p>
-</li>
-</ul>
+</dd>
+</dl>
 </div>
 </div>
 <div class="sect3">
@@ -9849,38 +9853,38 @@ Schechter v. US ruled the NIRA unconstitutional.
 The New Deal was composed of many different projects,
 most of which have a 3 letter acronym associated with them.</p>
 </div>
-<div class="ulist">
-<ul>
-<li>
-<p><strong>NRA</strong>:
-The NRA was symbolized by a Blue Eagle with the words &#8220;We Do Our Part&#8221;.
+<div class="dlist">
+<dl>
+<dt class="hdlist1"><strong>NRA</strong></dt>
+<dd>
+<p>The NRA was symbolized by a Blue Eagle with the words &#8220;We Do Our Part&#8221;.
 It allowed a &#8220;blanket code&#8221; and was originally directed by General Hugh S. Johnson.
 The NRA also regulated business practices and set up &#8220;codes of fair competition&#8221;.
 Clarence Darrow and the FTC would investigate the NRA for monopolistic practices.</p>
-</li>
-<li>
-<p><strong>WPA</strong>:
-The Works Progress Administration, or Works Project Administration,
+</dd>
+<dt class="hdlist1"><strong>WPA</strong></dt>
+<dd>
+<p>The Works Progress Administration, or Works Project Administration,
 was a federal agency that employed people to carry out public projects.
 It was run by Harry Hopkins, and employed over 8.5 million people.
 It was preceded by the FERA.</p>
-</li>
-<li>
-<p><strong>CCC</strong>:
-The Civilian Conservation Corps was a program that employed and trained younger men.
+</dd>
+<dt class="hdlist1"><strong>CCC</strong></dt>
+<dd>
+<p>The Civilian Conservation Corps was a program that employed and trained younger men.
 The CCC planted millions of trees and did outdoor work projects.</p>
-</li>
-<li>
-<p><strong>TVA</strong>:
-The Tennessee Valley Authority was a government entity
+</dd>
+<dt class="hdlist1"><strong>TVA</strong></dt>
+<dd>
+<p>The Tennessee Valley Authority was a government entity
 that provided power to the Tennessee Valley.
 The first chairman of the TVA was <strong>David Lilienthal</strong>,
 who also served on the Atomic Energy Commission.
 It used the Wilson Dam and the Tellico Dam, and was ruled to be legal in Ashwander v. TVA.
 Reagan would eventually criticize the TVA in &#8220;A Time for Choosing&#8221;,
 and Barry Goldwater said that he would sell it &#8220;for a dollar&#8221;.</p>
-</li>
-</ul>
+</dd>
+</dl>
 </div>
 <div class="paragraph">
 <p>In an attempt to improve the chances of New Deal legislation winning in the Supreme Court,
@@ -11744,7 +11748,7 @@ On September 12, 1962, he gave a speech at Rice University:</p>
   not because they are easy, but because they are hard,
   because that goal will serve to organize and measure the best of our energies and skills,
   because that challenge is one that we are willing to accept,
-  one we are unwilling to postpone, and one which we intend to win\dots{}
+  one we are unwilling to postpone, and one which we intend to win&#8230;&#8203;
   It is for these reasons that I regard the decision last year
   to shift our efforts in space from low to high gear
   as among the most important decisions that will be made during my incumbency
@@ -13197,7 +13201,7 @@ nationalism, democracy, and the people&#8217;s livelihood.
 He also put forward the Five-Power Constitution.</p>
 </div>
 <div class="paragraph">
-<p>On Sun&#8217;s death, his prot\`eg\`e <strong>Chiang Kai-shek</strong> took control of the KMT.
+<p>On Sun&#8217;s death, his protege <strong>Chiang Kai-shek</strong> took control of the KMT.
 He&#8217;d been the first commander of the KMT Whampoa Military Academy that Sun had set up,
 and in 1926 he led the Northern Expedition against the <strong>Beiyang Government</strong>
 (which had been created by Yuan Shikai)
@@ -14217,7 +14221,7 @@ as well as the first to vigorously push celibacy policy on the clergy.</p>
 <p><em>Pontificate: 1088-1099</em></p>
 </div>
 <div class="paragraph">
-<p>The Frenchman Odo of Ch\^atillon went on to become one of the most famous popes of all time.
+<p>The Frenchman Odo of Ch&#226;tillon went on to become one of the most famous popes of all time.
 He originally studied under Bruno of Cologne (founder of the Carthusian Order of monks),
 and Gregory VII named him Bishop of Ostia in 1080;
 Odo was one of the most prominent supporters of Gregory&#8217;s extensive reforms.</p>
@@ -14479,7 +14483,7 @@ during which he invoked papal infallibility.</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2020-08-13 00:13:55 PDT
+Last updated 2020-08-13 07:57:01 PDT
 </div>
 </div>
 </body>

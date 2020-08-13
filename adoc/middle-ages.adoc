@@ -31,7 +31,7 @@ whom we don't know much about before he seized control of the Danes.
 Other Viking leaders of the invading forces included Ivar the Boneless, son of Ragnar Lodbrok.
 They subdued East Anglia, capturing York.
 
-**Alfred the Great**, king of **Wessex**, son of &AElig;thelwulf,
+**Alfred the Great**, king of **Wessex**, son of {AE}thelwulf,
 fought back against Guthrum.
 He created a network of fortified towns called burhs
 (these would be turned into boroughs eventually)
@@ -51,7 +51,7 @@ When Edgar died only two years after being crowned at Bath,
 the issue of who should succeed to the throne was thrown into doubt.
 Edgar's son Edward was crowned king, but he was quickly assassinated.
 
-He was followed by Edgar's half-brother, **&AElig;thelred the Unready**.
+He was followed by Edgar's half-brother, **{AE}thelred the Unready**.
 As his name may suggest, his reign didn't go very well, even though he did rule for a long time.
 It's been written that he defecated in his baptismal font,
 leading to a prophecy that the English crown would fall under his reign;
@@ -59,29 +59,29 @@ however, that story is probably entirely fake (entertaining, though).
 It's now believed that he was simply the victim of bad counsel, and wasn't actually particularly "`unready`".
 He married Emma, a princess of Normandy.
 While he was king, England was invaded by Danes again, led by Sweyn Forkbeard,
-provoked by &AElig;thelred's St Brice's Day massacre.
+provoked by {AE}thelred's St Brice's Day massacre.
 The Vikings pillaged through Essex, an action that resulted in the **Battle of Maldon**,
 where the Vikings easily crushed the English.
 From that point forward, the Vikings roamed the countryside,
 apparently free to take whatever they pleased,
-while &AElig;thelred simply hid in his basement.
-Sweyn found &AElig;thelred and forced him into exile.
-Soon after, though, Sweyn died, and &AElig;thelred was able to come back to England.
+while {AE}thelred simply hid in his basement.
+Sweyn found {AE}thelred and forced him into exile.
+Soon after, though, Sweyn died, and {AE}thelred was able to come back to England.
 
-Angered at &AElig;thelred, **Cnut**, son of Sweyn, invaded England.
-&AElig;thelred's son, Edmund Ironside, abandoned his father,
+Angered at {AE}thelred, **Cnut**, son of Sweyn, invaded England.
+{AE}thelred's son, Edmund Ironside, abandoned his father,
 and multiple English nobles took Cnut's side.
-But &AElig;thelred died and Edmund was forced to fight the Danes.
+But {AE}thelred died and Edmund was forced to fight the Danes.
 At the battle of Ashingdon, the Danes overpowered the English and Cnut and Edmund split England;
 Edmund took Wessex, and Cnut took everything else.
 When Edmund died (probably murdered), the English witan council declared Cnut king of England.
-Cnut married &AElig;thelred's widow Emma,
+Cnut married {AE}thelred's widow Emma,
 who agreed only because he agreed to allow her children to be heirs to the throne.
 However, Cnut had had a previous wife, and her children also wanted the throne.
 
 When Cnut died in 1035, the throne was disputed.
 The claimants were Harold Harefoot (Harold I, son of Cnut) and Emma's son by Cnut, Harthacnut.
-Emma's son by &AElig;thelred, Edward, tried to raid Southampton, but failed,
+Emma's son by {AE}thelred, Edward, tried to raid Southampton, but failed,
 and his brother Alfred was killed later.
 Harthacnut became king on the death of Harold Harefoot, but he was unpopular,
 and nobody wanted his heirs to become king.
@@ -132,7 +132,7 @@ He led a massive and bloody expedition through the north of England,
 killing those who stood in his way, called the **Harrying of the North**.
 He commissioned a census of the country, and recorded it in the **Domesday Book**.
 At the **Trial of Penenden Heath**, William investigated Odo of Bayeux for stealing lands.
-His archbishop was Lanfranc, and he stopped Edward &AElig;theling, Harold Godwinson's successor.
+His archbishop was Lanfranc, and he stopped Edward {AE}theling, Harold Godwinson's successor.
 Orderic Vitalis, when chronicling William's rule, says that William admitted to being a "`barbarous murderer`"
 when he died in 1087 after falling off his horse at the Siege of Mantes.
 
@@ -546,7 +546,7 @@ Erik was made ruler of all three kingdoms.
 
 The Union often came into conflict with the concurrent Hanseatic League.
 In the 1420s and 1430s, the Danes became embroiled in the Dano-Hanseatic War,
-after Erik introduced a tax on ships passing through the &Ouml;resund.
+after Erik introduced a tax on ships passing through the {Ouml}resund.
 
 The union began to fall apart, having to deal with insurrections like the Engelbrecht Rebellion.
 Erik was deposed, and succeeded by Christopher of Bavaria.
