@@ -106,32 +106,35 @@ Certainly you know about the numerous outlaws and renegades that wandered the Ol
 killing and robbing town all over the frontier.
 In this section, we look at some of the most famous of these people and the ones who chased them.
 
-- **Jesse James** (1847--1882)
-  was an outlaw from Missouri who associated with the James-Younger Gang.
+**Jesse James**::
+  James (1847-1882) was an outlaw from Missouri who associated with the James-Younger Gang.
   During the Civil War,
   James and his brother were Bushwhackers (guerrillas)
   who may have participated in the Centralia Massacre.
   In 1882, James was shot by **Robert Ford**, a member of his own gang, for reward money.
 
-- **Wild Bill Hickok** was a legendary figure of the Wild West,
-  who had become a fugitive as a teenager.
+**Wild Bill Hickok**::
+  Now a legend, he had become a fugitive as a teenager.
   He fought for the Union during the Civil War, and he was involved in lots of shootouts.
   He was killed by Jack McCall in Deadwood (in the Black Hills),
   while holding a poker hand including black aces and eights.
   The hand would come to be called the "`Dead Man's Hand`".
 
-- **Wyatt Earp** was a sheriff who served in Tombstone, Arizona.
+**Wyatt Earp**::
+  A sheriff who served in Tombstone, Arizona.
   He's most well known for participating in the **Gunfight at the O.K. Corral**,
   a 30-second gunfight at which Tom and Frank McLaury and Billy Clanton were killed.
 
-- **Doc Holliday** was also at O.K. Corral, as a temporary deputy.
+**Doc Holliday**::
+  Also at O.K. Corral, as a temporary deputy.
   Holliday had become a dentist when he was young, but then he got tuberculosis and moved west,
   where he became friends with Earp.
   Following the shootout, Earp took Holliday as part of his Vendetta Ride posse,
   and the local sheriff issued a arrest warrants for the posse.
   Holliday eventually died in Colorado from the tuberculosis.
 
-- **Billy the Kid** is perhaps the most infamous of the Wild West gunmen.
+**Billy the Kid**::
+  Perhaps the most infamous of the Wild West gunmen.
   His real name was William H. Bonney, and it's said that he killed 21 men,
   even though it was probably more like 8.
   In 1881, a bounty was placed on his head by the governor of New Mexico, Lew Wallace.

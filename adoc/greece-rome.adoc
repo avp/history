@@ -1,6 +1,6 @@
 == Ancient Europe
 
-[quote.epigraph, Calgacus, on the Romans]
+[quote.epigraph, "Calgacus, on the Romans"]
 They plunder, they slaughter, and they steal:
 this they falsely name Empire, and where they make a wasteland, they call it peace.
 

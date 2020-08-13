@@ -235,7 +235,7 @@ Spain had claimed West Florida as a consequence of the 1783 Treaty of Paris.
 
 In 1820, **Henry Clay** passed the **Missouri Compromise**.
 It temporarily reconciled the pro-slavery and anti-slavery factions in Congress.
-The compromise prohibited slavery north of 36&deg;30' N, except in Missouri.
+The compromise prohibited slavery north of 36{deg}30' N, except in Missouri.
 Because Missouri was admitted as a slave state,
 Maine was split from Massachusetts and admitted as a free state.
 A follow-up passed to the compromise added an exclusionary clause for mulattoes.

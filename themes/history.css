@@ -723,6 +723,8 @@ b.conum * { color: inherit !important; }
 #header h1 { font-size: 3.5em; }
 #header .author { font-size: 1em; }
 
+#footer { background: rgba(118, 84, 50, 0.8); }
+
 .verseblock { margin: 0 1em 1.25em 1em; }
 .verseblock pre { font-family: inherit; font-size: 1.15rem; color: rgba(0, 0, 0, 0.9); font-weight: 300; text-rendering: optimizeLegibility; }
 .verseblock pre strong { font-weight: 400; }
@@ -730,10 +732,10 @@ b.conum * { color: inherit !important; }
 
 .quoteblock blockquote::before { content: ''; display: none; }
 
-.quoteblock, .verseblock { padding: 0 20% 0 3%; border-left: 3px solid rgba(0, 0, 0, 0.3); }
+.quoteblock:not(.epigraph), .verseblock:not(.epigraph) { padding: 0 20% 0 3%; border-left: 3px solid rgba(0, 0, 0, 0.3); }
 
-.quoteblock.epigraph { border: none; width: 100%; padding-left: 30%; }
-.quoteblock.epigraph > blockquote { text-align: right; }
+.quoteblock.epigraph { border: none; width: 100%; padding: 0 40% 0 10%; }
+.quoteblock.epigraph > blockquote { font-size: 1.05rem; text-align: left; }
 
 .print-only { display: none !important; }
 
