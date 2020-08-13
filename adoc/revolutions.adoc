@@ -123,7 +123,8 @@ stripped of his title.
 His final words were drowned out by a National Guard drum roll ordered by Antoine-Joseph Santerre.
 Marie Antoinette would be killed in the same way nine months later.
 
-Sidebar: Let's talk about the guillotine.
+[sidebar]
+Let's talk about the guillotine.
 It wasn't the first beheading machine in Europe;
 the Halifax Gibbet and the Scottish Maiden had been used in the past.
 After Louis XVI banned the breaking wheel in France,
