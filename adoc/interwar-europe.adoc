@@ -1,13 +1,10 @@
 == Interwar Europe
 
-[quote.epigraph, Vladimir Lenin]
-
+[quote.epigraph, Benito Mussolini]
   Fascism is a religion. The twentieth century will be known in history as the century of Fascism.
-}{Benito Mussolini}
 
-\epigraph{%
+[quote.epigraph, Vladimir Lenin]
   Fascism is capitalism in decay.
-
 
 === From Tsar to Stalin
 
