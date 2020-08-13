@@ -12,7 +12,9 @@ This will be a short chapter, but it's important as a transitional period in his
 === Tsars of Russia
 
 Russia is in both Asia and Europe,
-and because the Renaissance and Reformation chapter doesn't really deal with Russia,
+and because the Renaissance and Reformation chapter doesn't really deal with Russia
+(due to a continuing strict adherence to Eastern Orthodoxy and reverence
+for Byzantine culture in the 15th and 16th centuries),
 it's in this chapter on Asia.
 
 ==== Background
@@ -86,10 +88,10 @@ despite the Russo-Polish war and the Ingrian war.
 We'll look at the reemergence of the Tsars later ---
 Russia will be more a part of European history from now on.
 
-=== Shoguns of Japan
+=== Japan: Rise of the Shogun
 
 Conspicuously missing from topics thus far,
-Japan actually did things happening before the 16th century.
+there really were things happening in Japan prior to the 16th century.
 A lot of ancient Japanese history doesn't come up too often,
 so we'll start with classical Japan, for which we'll go back in time a bit.
 
