@@ -6,6 +6,8 @@
 :sectnumlevels: 1
 :sectlinks:
 :sectnums:
+:stylesdir: themes/
+:stylesheet: history.css
 :toc: left
 :toclevels: 2
 
