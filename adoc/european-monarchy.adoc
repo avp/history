@@ -1,0 +1,399 @@
+== European Monarchy
+
+[quote.epigraph, Louis XIV]
+
+  I am the state.
+
+
+The 17th century was full of war and crisis.
+The monarchs were powerful, and there's no question history from now on gets a bit more complicated.
+
+=== Thirty Years' War
+
+==== Background
+
+Remember that France had just been through a lot with its wars of religion.
+Protestantism was still making waves, and even though the Peace of Augsburg helped a little bit,
+there was still quite a bit of unease running through Europe.
+Additionally, Calvinism still wasn't really recognized in the Peace.
+
+At this point,
+Spain wanted the German states because of territory in the Netherlands,
+France was uneasy about its proximity to Habsburg Spain and the Holy Roman Empire,
+and Sweden and Denmark felt like they wanted some more land.
+The Holy Roman Empire was all over the place (par for the course), but was heavily fragmented.
+
+The **Thirty Years' War** is generally thought of as having four phases:
+the Bohemian Revolt,
+the Danish intervention,
+the Swedish intervention,
+and the French intervention.
+
+==== Bohemian Revolt
+
+Archduke **Ferdinand II** of Austria was the Crown Prince in Bohemia.
+He was Catholic, and the Protestants in Bohemia weren't particularly pleased with that.
+In 1618,
+they tossed some of his representatives out of a window in the **Defenestration of Prague**.
+
+The Defenestration of Prague started the Bohemian revolt,
+which would move across the entirety of Europe.
+Protestant leaders moved the war to western Germany, and Philip IV of Spain was called to assist.
+
+The Ottoman Empire decided to help out the Bohemian Protestants
+after they elected **Frederick V** as king,
+because the Ottomans were never particularly fond of Catholics in the first place.
+This triggered the minor Polish-Ottoman War (1620--1621),
+and the Ottomans defeated the Poles at the Battle of Cecora.
+But, the Ottomans didn't help the Bohemians at the **Battle of White Mountain** (near Prague)
+where Christian of Anhalt
+was defeated by Holy Roman Emperor Frederick II and the **Count of Tilly**.
+
+==== Danish Intervention
+
+In 1625, **Christian IV** of Denmark decided to help the Lutherans,
+resulting in the Low Saxon War.
+In response, Ferdinand II hired **Albrecht von Wallenstein**,
+a rich Bohemian who let Ferdinand use his army.
+Wallenstein and Tilly pushed Christian back.
+
+Wallenstein moved north and took parts of Denmark, but wasn't able to take Copenhagen.
+So after a bit more fighting,
+a small **Treaty of Lubeck** put the Danish Intervention mostly to rest.
+
+After the War of Mantuan Succession between France and the Habsburgs in Italy,
+another black death swept across northern Italy.
+
+==== Swedish Intervention
+
+In 1630, Lutheran **Gustavus Adolphus**, king of Sweden, the Lion of the North, invaded Europe.
+The Swedish armies pushed the Catholics back,
+and Gustavus Adolphus took much of the land for himself.
+France and Bavaria allied with the 1631 **Treaty of Fontainebleau**.
+At the **Battle of Breitenfeld**, the Swedes defeated Tilly, who would end up dead soon.
+Other notable Swedish victories around this time included the Battle of the Rain.
+
+Now that Tilly was dead, Ferdinand II asked Wallenstein for help again.
+The Swedes met Wallenstein at the **Battle of Lutzen**;
+even though the Swedes won, Gustavus Adolphus died.
+Near the end of this phase, Ferdinand II signed the Peace of Prague.
+Later, because of treachery against the Holy Roman Emperor,
+Ferdinand II would have Wallenstein assassinated.
+
+==== French Intervention
+
+France was a Catholic state; recall their difficulties with the Protestant Huguenots.
+However, their hatred of the Holy Roman Empire, the Habsburgs,
+and Spain transcended religious boundaries.
+**Cardinal Richelieu**, Chief Minister (more on him later),
+had already subsidized Gustavus Adolphus's invasion.
+
+Emperor Ferdinand II died in 1637, and was succeeded by Ferdinand III.
+The new emperor wanted to end the war using negotiation, so he convened the Imperial Diet.
+In Flanders,
+the French defeated the Spanish at the **Battle of Rocroi**
+(soon after the death of Louis XIII),
+and proceeded to take the rest of the region.
+
+In 1642, Richelieu died, but his war continued.
+The French continued to push through, winning battles such as Nordlingen (1645).
+By 1648, battles were coming all the way to Prague, where the final battle was fought.
+
+==== Peace of Westphalia
+
+It took four years for the war to be resolved.
+Much of the work was done at Osnabruck and Munster, in Westphalia.
+Other treaties that were part of the final **Peace of Westphalia** (1648)
+included the Treaty of Hamburg.
+The war was decided in favor of letting countries deal with religion for themselves.
+
+=== Stuart England and the Protectorate
+
+==== James I
+
+When Elizabeth I died in 1603, her closest Protestant relative was
+James VI of Scotland, who was crowned **James I** of England in the Union of the Crowns.
+He quickly made peace with the Spanish,
+and the English didn't really deal with the rest of Europe for a good part of the 17th century.
+In the **Spanish Match**,
+he tried to find a Habsburg Infanta wife for his son Charles, but that failed.
+He was called the "`wisest fool in Christendom`" because he was educated but kind of foolish.
+He wrote the The True Law of Free Monarchies and the Basilikon Doron.
+James also started the North Berwick witch trials.
+
+There were people who weren't particularly happy with the Protestant James as king,
+and they tried to kill him every once in a while,
+notably with the Main Plot and the Bye Plot in 1603.
+He was held hostage during the Ruthven Raid, and he set up the Treaty of Berwick.
+
+On the fifth of November, 1605,
+a group of Catholics led by **Sir Robert Catesby** schemed to kill James I.
+This **Gunpowder Plot** aimed to blow up Parliament.
+**Guy Fawkes**, a conspirator, rented a room in the Whynniard House
+under the name "`John Johnson`" from Thomas Percy in preparation for the event.
+When Robert Cecil found a warning letter from Francis Tresham
+to his brother-in-law William Parker, Lord Monteagle,
+they looked around a bit
+and found Fawkes with 36 barrels of gunpowder under the Houses of Parliament.
+In the aftermath, the principal Jesuit in England, Henry Garnet,
+was convicted of treason and killed.
+These days, Guy Fawkes Day is commemorated with fireworks and bells and such.
+
+==== Charles I
+
+James I was succeeded by **Charles I** in 1625.
+At this point,
+the Parliament didn't really have a lot of power and it was summoned whenever the king felt like it.
+However, it was particularly useful in that it could raise taxes,
+which the king was particularly fond of.
+In 1628, a new Parliament drafted the Petition of Right, which further restricted Charles's power.
+
+For the next ten years, Charles didn't call Parliament in a period called the "`Personal Rule`".
+He believed in High Anglicanism,
+which he supported through his appointment of William Laud as Archbishop of Canterbury.
+
+Let's talk about ship money.
+England is on an island, and as such, often needs a good navy to handle war.
+So when the country was at war,
+the king generally could levy a "`ship money`" tax without approval of Parliament,
+in order to raise a navy for defense.
+Usually, the only people that had to pay ship money were people on the coastal areas of the island,
+seeing how they would be affected if a marauding band of killers decided to land on Great Britain.
+In 1634, Charles decided to start asking inland residents for ship money, making everyone mad.
+
+In 1640, Charles's religious beliefs resulted in the Bishops' War, an uprising in Scotland,
+which he managed to stop with the Pacification of Berwick.
+It didn't take, and the Scots started another war.
+Charles didn't have enough money to fight the Scots,
+so he had to call a new Parliament in 1640, led by John Pym.
+Parliament wasn't nice enough to Charles, so he disbanded them after a few weeks,
+so it's now called the **Short Parliament**.
+Then, Charles went back into Scotland but didn't do very well.
+
+In November 1640, he called another Parliament under pressure: the **Long Parliament**.
+They started to air their grievances
+and made it so a Parliament must convene at least every 3 years (Triennial Act).
+They also passed the Ship Money Act,
+stopping the ridiculous ship money taxes that Charles had put into effect.
+They accused Thomas Wentworth, Earl of Strafford, of treason.
+Charles tried to capture five members of Parliament but he failed.
+
+==== English Civil War
+
+In 1642, after the failed capture by Charles,
+an **English Civil War** broke out between Parliament and the crown.
+Parliament armies were known as the **Roundheads**,
+and Charles's forces were the **Cavaliers**.
+The first battle of the war was fought at Edgehill in 1642, which ended inconclusively.
+After the Battle of Turnham Green, Charles was pushed back to Oxford.
+
+At the **Battle of Marston Moor** in 1644,
+Parliament won with the help of the Scots under the strong leadership of **Oliver Cromwell**.
+Parliament proceeded to create a **New Model Army**
+under Sir **Thomas Fairfax** and Cromwell.
+
+At the **Battle of Naseby** in 1645, Parliament destroyed Charles's forces.
+The First English Civil War ended with the imprisonment of Charles.
+In 1647, Cromwell and others argued in the Putney Debates against the Levellers,
+who wanted more political equality.
+
+Charles escaped, and the Second English Civil War was a short conflict,
+which ended with the New Model Army securing the country.
+The Long Parliament was disbanded in a coup known as **Pride's Purge**,
+and Charles was tried at the **Rump Parliament**,
+after which his head was taken from him in 1649 at Whitehall Gate in London.
+
+==== Oliver Cromwell, Lord Protector
+
+Having killed Charles I, Cromwell proceeded to subjugate Scotland, Ireland, and the rest of England.
+In Ireland, he won the **Siege of Drogheda** in 1649, killing 3,500 people.
+In 1653, John Lambert wrote the Institution of Government,
+giving Cromwell the title of Lord Protector for life,
+making him "`king in all but name`".
+Cromwell disbanded the Rump Parliament and established the Barebones Parliament.
+
+Cromwell ended the First Anglo-Dutch War and died in 1658.
+Power passed to his son Richard Cromwell,
+but Richard was ineffective and his father's Protectorate crumbled around him.
+
+==== Restoration: Charles II
+
+In 1659, Richard Cromwell was forced to abdicate.
+The newly elected Parliament let the exiled king back from the Netherlands,
+and he sailed back from Scheveningen in 1660.
+The monarchy was restored to England, and **Charles II** (The "`Merry Monarch`") became king.
+He had many mistresses, including the "`pretty, witty`" Nell Gwyn;
+he had at least twelve children, but none by his wife, Catherine of Braganza.
+
+Parliament passed the Clarendon Code, which was comprised of
+the Conventicle Act,
+the Corporation Act
+and the Act of Uniformity.
+It aimed to make the Church of England the dominant faith in Britain.
+In 1665, the Great Plague of London swept through the city,
+and Charles and his family fled to Salisbury.
+
+In 1666, the **Great Fire of London** started in a bakery in Pudding Lane.
+It burned down much of the city including St. Paul's Cathedral,
+which was restored by **Christopher Wren**.
+The fire was chronicled, along with much of Charles's reign,
+in the journal of **Samuel Pepys**.
+
+Charles's brother James was the heir because of Catherine's inability to have kids.
+In 1678, Titus Oates, a priest, warned Charles of the "`Popish Plot`" which aimed to kill him.
+He was making it all up, but Charles had his minister Lord Danby investigate, causing panic.
+Charles would later have Lord Danby imprisoned for treason and other crimes.
+
+==== James II and the Glorious Revolution
+
+Charles died in 1685 and his Catholic brother **James II** took the crown.
+James's wife was Mary of Modena.
+After James Scott tried to overthrow James II in the Monmouth Rebellion,
+the king had Judge Jeffrys begin a set of trials called the **Bloody Assizes**
+following the Battle of Sedgemoor.
+He set out the Declaration of Indulgence, a step toward religious freedom,
+but it was opposed by seven Anglican bishops, who were upset by it.
+
+People weren't happy with James,
+so a group called the Immortal Seven asked his Protestant daughter
+**Mary** and her husband **William III of Orange** to take power in the country.
+In the **Glorious Revolution**, beginning in 1688, William landed in England and was crowned.
+James tried to fight back in the Williamite War,
+but William defeated James at the **Battle of the Boyne** in Ireland in 1690.
+
+In 1689, the **English Bill of Rights** was passed.
+It stated that monarchs could not be Catholic, and it gave the Parliament more power.
+But, Catholics loyal to James were still trying to take the throne back.
+This resulted in 1692 at the Massacre of Glencoe.
+Jacobite rebellions continued until the forces of
+**Bonnie Prince Charlie** were defeated at the Battle of Culloden in 1746.
+
+=== France: Louis, Louis, and Louis
+
+==== Louis XIII and Cardinal Richelieu
+
+When Henry IV was killed in 1610, **Louis XIII** succeeded him.
+He was only nine, so his mother **Marie de' Medici** was his regent.
+But she wasn't very competent so she got exiled by the king in 1617
+while he proceeded to kill a bunch of her followers, such as Concino Concini.
+
+Louis then worked closely with chief minister **Cardinal Richelieu**,
+who had succeeded the Duke Charles de Luynes in the position.
+Richelieu had previously implemented the reforms of the Council of Trent in France.
+
+At one point, Richelieu was exiled to Avignon,
+and in another event, he had to run to Blois after Concino Concini was killed.
+He created the Company of One Hundred Associates
+and started the "`reformation of the third order of the realm`".
+
+In 1627, in an attempt to defeat the Huguenots, Richelieu ordered the **Siege of La Rochelle**.
+The city, led by Jean Guiton,
+stood for a whole year before surrendering in 1628 with the Peace of Al\`es.
+In 1630, Marie and enemies of Richelieu tried to get the king to dismiss Richelieu.
+They thought they were successful,
+but Louis kept Richelieu and the event came to be called the Day of the Dupes.
+This is important because it shows how reliant Richelieu was on Louis for his power.
+
+While Louis XIII was in power, the French won at Veillane against the Spanish,
+and he helped Charles Gonzaga, Duke of Nevers, secure Mantua.
+His brother Gaston, working with Counts of Montresor and Soissons,
+tried to overthrow Louis, but he failed.
+
+Louis died in 1543, just a few days before the Battle of Rocroi.
+His son succeeded him.
+
+==== Louis XIV
+
+===== Rise and Domestic Affairs
+
+**Louis XIV**, the "`Sun King`", was one of the most important French kings.
+He reigned from 1643 to 1715, the longest reign of any monarch so far in European history.
+When his father died,
+Louis's mother **Anne of Austria** was in charge, being advised Richelieu's successor,
+**Cardinal Mazarin**.
+
+Louis's minority included dealing with the **Fronde**
+immediately after the Peace of Westphalia,
+in which a bunch of nobles rebelled against Mazarin.
+The event was named after the slings people used to smash windows during it.
+There were two phases to the Fronde: the phase of the Parlements and the phase of the Princes.
+The first phase was put to rest by the Peace of Rueil,
+and the Battle of Rethel was the decisive battle of the second.
+The 1652 Battle of Faubourg St. Antoine took place next to the Bastille.
+
+Louis XIV truly came to the crown in 1661 when Mazarin died.
+He started fiscal reform by appointing **Jean-Baptiste Colbert** as his finance minister.
+He first neutralized the Superintendent of Finances, Nicolas Fouquet,
+by convicting him of embezzlement after a feast at the Chateau of Vaux-le-Vicomte.
+Colbert proceeded to lessen national debt and improve taxation.
+Louis's other advisors included Michel Le Tellier and Hugues de Lionne.
+
+Under Louis XIV, the Midi Canal was built while he was at Languedoc.
+He also built the Royal Mirror-Glass Factory.
+In 1685, Louis issued the **Edict of Fontainebleau**,
+revoking the Edict of Nantes and the privileges it gave Protestants.
+
+===== War and Foreign Policy
+
+While he was young, Louis's France fought in some wars with other countries as well.
+During the Franco-Spanish War,
+France and Britain won a big victory at the Battle of the Dunes under the command of Turenne.
+
+Early in his rule, Louis XIV participated in the War of Devolution,
+in which he fought with Habsburgs in the Spanish Netherlands.
+The war was ended by the Treaty of Aix-la-Chapelle.
+
+Louis was also involved in the **War of the League of Augsburg**,
+also called the Nine Years' War (1688--1697).
+In 1685, the Elector Palatine Charles II died,
+and Maximilian of Bavaria, an ally of France, died in 1688.
+In order to stop Louis from becoming too powerful,
+the Holy Roman Emperor organized a League of Augsburg.
+When William and Mary took the throne in England,
+they took up arms against the French
+and the League of Augsburg became known as the **Grand Alliance**.
+The war ended with the **Treaty of Ryswick** in 1697
+when France was mostly exhausted by war.
+
+**Charles II of Spain** ruled a large empire,
+encompassing Spain, Milan, parts of the Netherlands, etc.
+But, he had no children, and when he died, he reneged on an agreed will,
+giving the entirety of the empire to Philip, Duke of Anjou.
+Louis XIV decided to accept the new will, and Philip became King **Philip V** of Spain.
+
+Naturally, this triggered some tensions in Europe,
+starting the **War of the Spanish Succession** (1701--1714).
+The French started winning,
+but the work of John Churchill, Duke of Marlboro, and Eugene of Savoy repelled him.
+The Austrians and the Palatinate took Bavaria after the **Battle of Blenheim**,
+which ended with many French troops drowning in the Danube
+and a victory for the Duke of Marlborough.
+Maximilian II, Elector of Bavaria, fled.
+Other important battles included Ramillies, Turin, and Oudenarde.
+France and Spain won at Villaviciosa and Brihuega,
+while the Allies won a Pyrrhic victory at the Battle of Malplaquet.
+France eventually won at Denain and regained their momentum.
+The **Treaty of Utrecht** in 1713 brought peace to France, Spain, Britain, and the Dutch.
+Afterwards, the Holy Roman Emperor made peace in the Treaties of Rastatt and Baden.
+Spain would later stop its attempts at conquest after losing the War of the Quadruple Alliance,
+long after Louis was dead.
+
+Louis XIV died of gangrene at Versailles, the palace he built, in 1715.
+He was succeeded by his great-grandson, the five year old Louis XV.
+
+==== Louis XV
+
+**Louis XV** (1710--1774), the Beloved, took the throne when he was only five.
+While he was a child, his great-uncle Philippe II, Duke of Orleans, was regent,
+and **Cardinal Fleury** was his chief minister.
+Philippe dealt with the Mississippi bubble,
+in which there was a lot of investor interest in the Mississippi Company.
+Philippe was targeted in the **Cellamare Conspiracy**,
+in which Antonio del Guidice, Spanish Ambassador, tried to put Philip V of Spain in power.
+
+After Philippe's death, Louis married Maria, daughter of Stanislaw Leszczynski,
+although Madame de Pompadour is probably his better known lover.
+
+He participated in the Battle of Fontenoy in the War of the Austrian Succession,
+and he returned the Austrian Netherlands to Austria in 1748.
+During the Seven Years' War, Louis lost a good chunk of French India and New France.

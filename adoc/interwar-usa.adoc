@@ -1,0 +1,199 @@
+== Boom and Bust
+
+[quote.epigraph, Secretary of Labor James Davis \June 19, 1930]
+
+  The worst is over without a doubt.
+
+
+=== Roaring Twenties
+
+==== 1920's Republicans
+
+===== Warren G. Harding
+
+In 1920, **Warren G. Harding** was elected to the Presidency,
+promising a "`return to normalcy`" following the First World War.
+Harding had defeated Leonard Wood to get the Republican nomination,
+which he'd won in a "`smoke-filled room`" thanks to his campaign manager Harry Daugherty;
+he proceeded to use a front-porch campaign to win the general election.
+Notably, Harding was the first Senator to be elected to president.
+His Vice President was Calvin Coolidge, and his closest advisors were called the "`Ohio Gang`".
+While Harding was president, 10,000 West Virginia mine workers went on strike,
+and they fought with the Logan Defenders in the **Battle of Blair Mountain**.
+
+Harding established the General Accounting Office,
+and he appointed William Howard Taft and Edward Sanford to the Supreme Court.
+He also signed the Budget and Accounting Act and Sheppard-Towney Act.
+
+Harding's administration was also part of the **Teapot Dome** scandal.
+The scandal centered around Harding's Interior Secretary **Albert Fall**.
+Fall was favored by companies such as Pan American Petroleum
+to give rights to oil fields such as Elk Hills.
+Robert La Follette ordered investigation of the scandal,
+and Thomas Walsh headed the investigation,
+asking for the resignation of Secretary of the Navy Edwin Denby.
+The Supreme Court heard the case McGrain v. Daugherty,
+and Edward Doheny was one of the others implicated in the investigation.
+
+===== Calvin Coolidge
+
+When Harding died in office, **Calvin Coolidge** became president.
+While governor of Massachusetts, Coolidge had put down a police trike in Boston, calling on the militia.
+He was called "`Silent Cal`", known for his laconic wit.
+Coolidge signed the Indian Citizenship Act into law,
+and his Secretary of State Frank Kellogg signed the **Kellogg-Briand Pact**,
+prohibiting the use of war to resolve disputes (it didn't work very well).
+Coolidge was reelected to office over Robert La Follette and John W. Davis,
+and his running mate was Charles Dawes.
+He appointed J. Edgar Hoover head of the FBI.
+He then declined renomination, saying "`I do not choose to run`".
+
+==== Prohibition
+
+In the early 20th century, a good number of people were following the **temperance movement**.
+People like Carrie Nation had been opposing alcohol use for some time,
+enforcing beliefs with a hatchet.
+The Women's Christian Temperance Union (WCTU)
+was founded by Frances Willard to promote prohibition of alcohol.
+The Anti-Saloon League also supported banning alcohol.
+
+In 1920, the "`Noble Experiment`" of Prohibition was put into effect by the **18th Amendment**.
+The **Volstead Act** enforced Prohibition, setting the law that actually banned alcohol itself.
+Prohibition would remain in effect until 1933 until it was repealed by the **21st Amendment**.
+
+==== Gangs and Gangsters
+
+The start of Prohibition led to the rise of all sorts of unsavory people.
+Chief among these was **Al Capone**, a gangster on the south side of Chicago.
+At one point, Capone had been slashed in the face while working for Frankie Yale in the Harvard Inn,
+leading to his nickname: "`Scarface`".
+When William Emmett Dever forced Capone out of the city,
+Capone made a deal with mayor Big Bill Thompson,
+and got himself a new headquarters at the Lexington Hotel.
+
+At the **St. Valentine's Day Massacre** in 1929,
+Capone's agents attacked North Side Gang members who worked for Bugs Moran.
+The victims had been lured to the SMC Cartage Co. building for a fake shipment of whiskey.
+Six of Moran's men were killed, but Moran lived.
+After the massacre, there was an attack on the Barker compound.
+
+Capone was targeted by the Department of Justice's Prohibition Bureau.
+The bureau was led by **Eliot Ness**,
+who formed the **Untouchables** in Chicago to go after gangsters.
+Capone was eventually sent to prison for tax evasion,
+based on precedent set in United States v. Sullivan.
+
+=== Great Depression
+
+==== Hoover's Crash
+
+**Herbert Hoover** was the last president of the roaring twenties.
+Born in Iowa (the first President who hailed from west of the Mississippi),
+he'd made his fortune directing Australia's Consolidated Zinc Inc.
+Hoover won the election of 1928 by defeating Al Smith,
+promising "`a chicken in every pot and a car in every garage`".
+Hoover signed the Norris-LaGuardia act,
+ending "`yellow-dog`" labor contracts that prevented employees from unionizing.
+
+On October 29, 1929, **Black Tuesday**, the New York Stock Exchange crashed, starting the Great Depression.
+Hoover's worst mistake was signing the **Smoot-Hawley Tariff** in 1930,
+claiming that "`Prosperity is just around the corner`".
+He also created the Reconstruction Finance Corporation to try to stabilize the economy.
+
+The **Bonus Army** was a group of World War I veterans, led by Walter Waters,
+that traveled to Washington to force payment of their insurance certificates.
+Others that supported the army included Evelyn McLean and General Pelham Glassford.
+They camped out in Anacostia Flats,
+in a collection of tents some described as an "`immense hobo jungle`".
+Hoover sent Douglas MacArthur to break up the army.
+MacArthur, of course, did this using artillery and tear gas,
+but Hoover never reprimanded him for it.
+
+Of course,
+Hoover's failure to deal with the situation correctly led to people not to like him very much.
+Small shantytowns called "`Hoovervilles`" sprung up all over the place.
+As the Depression grew worse,
+feelings toward Hoover were summed up by the "`1932nd Psalm`" by E.J. Sullivan:
+[quote]
+  Hoover is my Shepherd, I am in want, \\
+  He maketh me to lie down on park benches, \\
+  He leadeth me by still factories, \\
+  He restoreth my doubt in the Republican Party. \\
+  He guided me in the path of the Unemployed for his party's sake, \\
+  Yea, though I walk through the alley of soup kitchens, I am hungry. \\
+  I do not fear evil, for thou art against me; \\
+  Thy Cabinet and thy Senate, they do discomfort me; \\
+  Thou didst prepare a reduction in my wages; \\
+  In the presence of my creditors thou anointed my income with taxes, \\
+  So my expenses overrunneth my income. \\
+  Surely poverty and hard times will follow me \\
+  All the days of the Republican administration. \\
+  And I shall dwell in a rented house forever. \\
+  Amen.
+
+
+==== A New Deal
+
+The election of 1932 wasn't great for Herbert Hoover.
+He lost all but six states to the Democratic candidate, **Franklin Delano Roosevelt**.
+FDR's running mate was John Nance Garner.
+
+Shortly after the election,
+Giuseppe Zangara shot at Roosevelt while he was meeting with Chicago mayor Anton Cermak.
+Zangara missed because he was standing on a wobbly chair,
+killing Cermak but leaving Roosevelt unscathed.
+
+Roosevelt proposed a **New Deal** to help get the country through the Depression.
+An important piece of New Deal legislation was the
+**National Industrial Recovery Act** (NIRA),
+which would set up the PWA and the NRA (see below).
+Schechter v. US ruled the NIRA unconstitutional.
+The New Deal was composed of many different projects,
+most of which have a 3 letter acronym associated with them.
+
+\begin{itemize}
+  \item
+    **NRA**:
+    The NRA was symbolized by a Blue Eagle with the words "`We Do Our Part`".
+    It allowed a "`blanket code`" and was originally directed by General Hugh S. Johnson.
+    The NRA also regulated business practices and set up "`codes of fair competition`".
+    Clarence Darrow and the FTC would investigate the NRA for monopolistic practices.
+
+  \item
+    **WPA**:
+    The Works Progress Administration, or Works Project Administration,
+    was a federal agency that employed people to carry out public projects.
+    It was run by Harry Hopkins, and employed over 8.5 million people.
+    It was preceded by the FERA.
+
+  \item
+    **CCC**:
+    The Civilian Conservation Corps was a program that employed and trained younger men.
+    The CCC planted millions of trees and did outdoor work projects.
+
+  \item
+    **TVA**:
+    The Tennessee Valley Authority was a government entity
+    that provided power to the Tennessee Valley.
+    The first chairman of the TVA was **David Lilienthal**,
+    who also served on the Atomic Energy Commission.
+    It used the Wilson Dam and the Tellico Dam, and was ruled to be legal in Ashwander v. TVA.
+    Reagan would eventually criticize the TVA in "`A Time for Choosing`",
+    and Barry Goldwater said that he would sell it "`for a dollar`".
+\end{itemize}
+
+In an attempt to improve the chances of New Deal legislation winning in the Supreme Court,
+FDR tried **court packing**.
+He wanted to add extra justices and fundamentally change the makeup of the court.
+The court packing plan also called for a ten year term limit and mandatory retirement of justices.
+The conservative justices were called the "`Four Horsemen`",
+and the liberal justices were the "`Three Musketeers`".
+On "`White Monday`", Owen Roberts changed his mind on a Washington state minimum wage case,
+tipping the court to a 5--4 ruling.
+Now that Roberts was considered to be on the Democratic side,
+the change of opinion is called "`the switch in time that saved nine`".
+
+Another piece of important New Deal era legislation is the **National Labor Relations Act**,
+or Wagner Act.
+It set up the National Labor Relations Board and was quite pro-union.
+However, the act eventually was gutted by the later Taft-Hartley Act (more on that later).
