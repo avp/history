@@ -14,9 +14,8 @@ upload-pdf: pdf
 	aws s3 cp history.pdf s3://history.avp42.com
 .PHONY: upload-pdf
 
-epub: $(DEPS) pdf
-	convert history.pdf[0] pdfcover.jpg
-	pandoc -f latex history.tex -t epub3 -o history.epub --epub-cover-image pdfcover.jpg
+epub: $(DEPS)
+	asciidoctor-epub3 history.adoc
 .PHONY: epub
 
 pdf: $(DEPS)

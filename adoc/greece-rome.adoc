@@ -23,7 +23,7 @@ He was also victorious over **Croesus of Lydia** at Thymbra and at Sardis,
 Now, having built this empire, some Persian kings wanted to also conquer Greece.
 Obviously, the Greeks weren't very pleased with this proposition, and fought back.
 
-Sidebar:
+[sidebar]
 Croesus, son of Alyattes II and last king of Lydia,
 had also fought the Medes at the Battle of the Eclipse,
 where a total solar eclipse was notably predicted by **Thales of Miletus**
@@ -124,7 +124,8 @@ Other notable battles include Notium, Sphacteria, and Delium.
 Halfway through the war, the Peace of Nicias interrupted it.
 Thucydides ended up writing a history of the war.
 
-Sidebar: The **Sacred Band of Thebes** was an elite force of 150 male lovers under Epimonandas.
+[sidebar]
+The **Sacred Band of Thebes** was an elite force of 150 male lovers under Epimonandas.
 The band fought at the battle of Leuctra against Cleombrotus of Sparta,
 during one of the local post-Peloponnesian conflicts.
 
