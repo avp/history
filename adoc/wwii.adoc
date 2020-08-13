@@ -163,20 +163,20 @@ A large number of Allied forces were quickly encircled and beaten.
 In June, Italy attacked France, declaring war on the Allies.
 By June 14, Paris was occupied, and France quickly surrendered to the German and Italians.
 During the Battle of France, Churchill gave his "`We shall fight on the beaches speech`":
-\begin{quoting}
+[quote]
   Even though large tracts of Europe and many old and famous States have fallen
   or may fall into the grip of the Gestapo and all the odious apparatus of Nazi rule,
-  \textbf{%
-    we shall not flag or fail.
-    We shall go on to the end.
-    We shall fight in France, we shall fight on the seas and oceans,
-    we shall fight with growing confidence and growing strength in the air,
-    we shall defend our island, whatever the cost may be.
-    We shall fight on the beaches,
-    we shall fight on the landing grounds,
-    we shall fight in the fields and in the streets,
-    we shall fight in the hills; we shall never surrender,
-  }
+  **
+  we shall not flag or fail.
+  We shall go on to the end.
+  We shall fight in France, we shall fight on the seas and oceans,
+  we shall fight with growing confidence and growing strength in the air,
+  we shall defend our island, whatever the cost may be.
+  We shall fight on the beaches,
+  we shall fight on the landing grounds,
+  we shall fight in the fields and in the streets,
+  we shall fight in the hills; we shall never surrender,
+  **
   and if, which I do not for a moment believe,
   this island or a large part of it were subjugated and starving,
   then our Empire beyond the seas,
@@ -184,7 +184,6 @@ During the Battle of France, Churchill gave his "`We shall fight on the beaches 
   would carry on the struggle,
   until, in God's good time, the New World, with all its power and might,
   steps forth to the rescue and the liberation of the old.
-\end{quoting}
 
 France was occupied by Axis forces,
 and the authoritarian **Vichy France** was established,
@@ -203,9 +202,9 @@ De Gaulle gave the **Appeal of June 18**, a radio broadcast which originated the
 ===== Battle of Britain
 
 After offering peace to Britain and getting rejected again,
-Hitler launched an air campaign against the UK\@.
+Hitler launched an air campaign against the UK.
 Churchill commented on the coming battle in his "`finest hour speech`":
-\begin{quoting}
+[quote]
   What General Weygand has called the Battle of France is over;
   the Battle of Britain is about to begin.
   Upon this battle depends the survival of Christian civilization.
@@ -221,7 +220,6 @@ Churchill commented on the coming battle in his "`finest hour speech`":
   Let us therefore brace ourselves to our duties, and so bear ourselves,
   that if the British Empire and its Commonwealth last for a thousand years, men will still say:
   **This was their finest hour.**
-\end{quoting}
 
 Hitler's Luftwaffe began battling the Royal Air Force for superiority in the skies over the island.
 The British were greatly aided by the new radar systems that they had developed,
@@ -233,13 +231,13 @@ which involved taking the English Channel and launching a full scale invasion of
 However, they weren't successful enough during the Battle of Britain to carry it out,
 and Operation Sea Lion was indefinitely postponed.
 Churchill had this to say in the aftermath of the Battle of Britain:
-\begin{quoting}
+[quote]
   The gratitude of every home in our Island, in our Empire, and indeed throughout the world,
   except in the abodes of the guilty, goes out to the British airmen who,
   undaunted by odds, unwearied in their constant challenge and mortal danger,
   are turning the tide of the World War by their prowess and by their devotion.
   **Never in the field of human conflict was so much owed by so many to so few.**
-\end{quoting}
+
 
 The loss of the Battle of Britain prompted Germany
 to begin a large scale bombing offensive against British cities
@@ -317,10 +315,10 @@ The policy allowed for the selling of materiel to belligerents,
 provided that the buyers transported the goods themselves and paid in cash.
 
 By March 11, 1941, the US enacted a new **Lend-Lease** policy for selling arms to the Allies.
-Aid was free to the Free French, Great Britain, China, and the USSR\@.
+Aid was free to the Free French, Great Britain, China, and the USSR.
 In exchange, the US was given some leases on bases in Allied territory.
 Roosevelt justified the policy by likening it to a garden hose:
-\begin{quoting}
+[quote]
   Well, let me give you an illustration:
   Suppose my neighbor's home catches fire,
   and I have a length of garden hose four or five hundred feet away.
@@ -328,9 +326,9 @@ Roosevelt justified the policy by likening it to a garden hose:
   I may help him to put out his fire.
   Now, what do I do?
   I don't say to him before that operation,
-  "`Neighbor, my garden hose cost me \$15; you have to pay me \$15 for it.`"
+  "`Neighbor, my garden hose cost me $15; you have to pay me $15 for it.`"
   What is the transaction that goes on?
-  I don't want \$15, I want my garden hose back after the fire is over.
+  I don't want $15, I want my garden hose back after the fire is over.
   All right.
   If it goes through the fire all right, intact, without any damage to it,
   he gives it back to me and thanks me very much for the use of it.
@@ -342,7 +340,7 @@ Roosevelt justified the policy by likening it to a garden hose:
   I tell him, "`There were 150 feet of it.`"
   He says, "`All right, I will replace it.`"
   Now, if I get a nice garden hose back, I am in pretty good shape.
-\end{quoting}
+
 Eventually,
 the bill was passed when Everett Dirksen introduced it
 while a bunch of Congressmen were at a luncheon.
@@ -387,14 +385,14 @@ The Japanese fleets used the code words "`Tora, Tora, Tora`" to signal a success
 The next day,
 Roosevelt went in front of a Joint Session of Congress to ask for a declaration of war.
 He gave his famous Infamy Speech:
-\begin{quoting}
+[quote]
   Yesterday, December 7, 1941 --- **a date which will live in infamy** ---
   the United States of America
   was suddenly and deliberately attacked by naval and air forces of the Empire of Japan.
-\end{quoting}
+
 The only congressperson to vote against a declaration of war was Jeanette Rankin.
 As a result of alliances, Britain, China, and Australia also formally declared war on Japan,
-and Germany and the other Axis powers declared war on the US\@.
+and Germany and the other Axis powers declared war on the US.
 
 === European Theater
 
@@ -415,7 +413,7 @@ a means to cut accessible corridors through the Axis minefields.
 British tanks attacked Axis gasoline supplies at Tel el Aqqaqir.
 Rommel was forced to get past land mines and barbed wire that went to the Qattara Depression.
 The decisive defeat of the Germans at El Alamein led Churchill to say:
-\begin{quoting}
+[quote]
   The fight between the British and the Germans was intense and fierce in the extreme.
   It was a deadly grapple.
   The Germans have been outmatched and outfought with the very kind of weapons
@@ -426,12 +424,11 @@ The decisive defeat of the Germans at El Alamein led Churchill to say:
   which has come back into its own on the battlefield.
   The Germans have received back again that measure of fire and steel
   which they have so often meted out to others.
-  \textbf{%
+  **
     Now this is not the end.
     It is not even the beginning of the end.
     But it is, perhaps, the end of the beginning.
-  }
-\end{quoting}
+  **
 
 The US entered the war during **Operation Torch** in late November, 1942.
 **Dwight Eisenhower** commanded the troops in North Africa,
@@ -447,10 +444,10 @@ which Churchill called the "`soft underbelly`" of Europe.
 The Allies also decided to begin nonstop bombing of Germany from here on out (Operation Pointblank),
 and that they would accept no less than the "`unconditional surrender`" of the Axis powers.
 Roosevelt explained:
-\begin{quoting}
+[quote]
   We mean no harm to the common people of the Axis nations,
   but we do mean to impose punishment and retribution upon their guilty, barbaric leaders.
-\end{quoting}
+
 
 In July 1943, **Operation Husky** was launched,
 following a disinformation campaign against the Italians known as Operation Mincemeat.
@@ -469,12 +466,11 @@ Starting in 1942, RAF Bomber Command were helped by the US Air Force in raiding 
 The general strategy was one of "`Europe First`";
 the US would help take out Hitler and Germany before focusing on Japan.
 The meeting in Casablanca then issued the Casablanca directive:
-\begin{quoting}
+[quote]
 Your primary object will be the progressive destruction and dislocation
 of the German military, industrial and economic system
 and the undermining of the morale of the German people
 to a point where their capacity for armed resistance is fatally weakened.
-\end{quoting}
 
 ==== Invasion of France
 

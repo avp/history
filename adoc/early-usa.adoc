@@ -103,7 +103,7 @@ Notable political cartoons criticizing the act include one of a turtle biting a 
 
 In 1803, Jefferson doubled the size of the US by executing the **Louisiana Purchase**.
 Francois de Barbe-Marbois of France sold the territory
-to negotiator Robert Livingston for \$15 million
+to negotiator Robert Livingston for $15 million
 following the Haitian Revolution against Napoleon.
 The agreement was nearly stopped
 because it almost violated the Treaty of San Ildefonso between Spain and France.
@@ -235,7 +235,7 @@ Spain had claimed West Florida as a consequence of the 1783 Treaty of Paris.
 
 In 1820, **Henry Clay** passed the **Missouri Compromise**.
 It temporarily reconciled the pro-slavery and anti-slavery factions in Congress.
-The compromise prohibited slavery north of \ang{36;30;}N, except in Missouri.
+The compromise prohibited slavery north of 36&deg;30' N, except in Missouri.
 Because Missouri was admitted as a slave state,
 Maine was split from Massachusetts and admitted as a free state.
 A follow-up passed to the compromise added an exclusionary clause for mulattoes.

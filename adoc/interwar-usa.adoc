@@ -1,6 +1,6 @@
 == Boom and Bust
 
-[quote.epigraph, Secretary of Labor James Davis \June 19, 1930]
+[quote.epigraph, Secretary of Labor James Davis, "June 19, 1930"]
 
   The worst is over without a doubt.
 
@@ -113,22 +113,22 @@ Of course,
 Hoover's failure to deal with the situation correctly led to people not to like him very much.
 Small shantytowns called "`Hoovervilles`" sprung up all over the place.
 As the Depression grew worse,
-feelings toward Hoover were summed up by the "`1932nd Psalm`" by E.J. Sullivan:
-[quote]
-  Hoover is my Shepherd, I am in want, \\
-  He maketh me to lie down on park benches, \\
-  He leadeth me by still factories, \\
-  He restoreth my doubt in the Republican Party. \\
-  He guided me in the path of the Unemployed for his party's sake, \\
-  Yea, though I walk through the alley of soup kitchens, I am hungry. \\
-  I do not fear evil, for thou art against me; \\
-  Thy Cabinet and thy Senate, they do discomfort me; \\
-  Thou didst prepare a reduction in my wages; \\
-  In the presence of my creditors thou anointed my income with taxes, \\
-  So my expenses overrunneth my income. \\
-  Surely poverty and hard times will follow me \\
-  All the days of the Republican administration. \\
-  And I shall dwell in a rented house forever. \\
+feelings toward Hoover were summed up by a poem:
+[quote, E.J. Sullivan, The 1932nd Psalm]
+  Hoover is my Shepherd, I am in want, +
+  He maketh me to lie down on park benches, +
+  He leadeth me by still factories, +
+  He restoreth my doubt in the Republican Party. +
+  He guided me in the path of the Unemployed for his party's sake, +
+  Yea, though I walk through the alley of soup kitchens, I am hungry. +
+  I do not fear evil, for thou art against me; +
+  Thy Cabinet and thy Senate, they do discomfort me; +
+  Thou didst prepare a reduction in my wages; +
+  In the presence of my creditors thou anointed my income with taxes, +
+  So my expenses overrunneth my income. +
+  Surely poverty and hard times will follow me +
+  All the days of the Republican administration. +
+  And I shall dwell in a rented house forever. +
   Amen.
 
 
@@ -151,36 +151,30 @@ Schechter v. US ruled the NIRA unconstitutional.
 The New Deal was composed of many different projects,
 most of which have a 3 letter acronym associated with them.
 
-\begin{itemize}
-  \item
-    **NRA**:
-    The NRA was symbolized by a Blue Eagle with the words "`We Do Our Part`".
-    It allowed a "`blanket code`" and was originally directed by General Hugh S. Johnson.
-    The NRA also regulated business practices and set up "`codes of fair competition`".
-    Clarence Darrow and the FTC would investigate the NRA for monopolistic practices.
+- **NRA**:
+The NRA was symbolized by a Blue Eagle with the words "`We Do Our Part`".
+It allowed a "`blanket code`" and was originally directed by General Hugh S. Johnson.
+The NRA also regulated business practices and set up "`codes of fair competition`".
+Clarence Darrow and the FTC would investigate the NRA for monopolistic practices.
 
-  \item
-    **WPA**:
-    The Works Progress Administration, or Works Project Administration,
-    was a federal agency that employed people to carry out public projects.
-    It was run by Harry Hopkins, and employed over 8.5 million people.
-    It was preceded by the FERA.
+- **WPA**:
+The Works Progress Administration, or Works Project Administration,
+was a federal agency that employed people to carry out public projects.
+It was run by Harry Hopkins, and employed over 8.5 million people.
+It was preceded by the FERA.
 
-  \item
-    **CCC**:
-    The Civilian Conservation Corps was a program that employed and trained younger men.
-    The CCC planted millions of trees and did outdoor work projects.
+- **CCC**:
+The Civilian Conservation Corps was a program that employed and trained younger men.
+The CCC planted millions of trees and did outdoor work projects.
 
-  \item
-    **TVA**:
-    The Tennessee Valley Authority was a government entity
-    that provided power to the Tennessee Valley.
-    The first chairman of the TVA was **David Lilienthal**,
-    who also served on the Atomic Energy Commission.
-    It used the Wilson Dam and the Tellico Dam, and was ruled to be legal in Ashwander v. TVA.
-    Reagan would eventually criticize the TVA in "`A Time for Choosing`",
-    and Barry Goldwater said that he would sell it "`for a dollar`".
-\end{itemize}
+- **TVA**:
+The Tennessee Valley Authority was a government entity
+that provided power to the Tennessee Valley.
+The first chairman of the TVA was **David Lilienthal**,
+who also served on the Atomic Energy Commission.
+It used the Wilson Dam and the Tellico Dam, and was ruled to be legal in Ashwander v. TVA.
+Reagan would eventually criticize the TVA in "`A Time for Choosing`",
+and Barry Goldwater said that he would sell it "`for a dollar`".
 
 In an attempt to improve the chances of New Deal legislation winning in the Supreme Court,
 FDR tried **court packing**.
