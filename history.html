@@ -257,7 +257,7 @@ blockquote cite { display: block; font-size: 0.9375em; color: rgba(0, 0, 0, 0.6)
 blockquote cite:before { content: "\2014 \0020"; }
 blockquote cite a, blockquote cite a:visited { color: rgba(0, 0, 0, 0.6); }
 
-blockquote, blockquote p { line-height: 1.6; color: #005500; }
+blockquote, blockquote p { line-height: 1.6; color: rgba(0, 0, 0, 0.9); }
 
 /* Microformats */
 .vcard { display: inline-block; margin: 0 0 1.25em 0; border: 1px solid #dddddd; padding: 0.625em 0.75em; }
@@ -340,10 +340,10 @@ p a > code:hover { color: rgba(0, 0, 0, 0.9); }
 #header > h1:only-child, body.toc2 #header > h1:nth-last-child(2) { border-bottom: 1px solid #dddddf; padding-bottom: 8px; }
 #header .details { border-bottom: 1px solid #dddddf; line-height: 1.45; padding-top: 0.25em; padding-bottom: 0.25em; padding-left: 0.25em; color: rgba(0, 0, 0, 0.6); display: -ms-flexbox; display: -webkit-flex; display: flex; -ms-flex-flow: row wrap; -webkit-flex-flow: row wrap; flex-flow: row wrap; }
 #header .details span:first-child { margin-left: -0.125em; }
-#header .details span.email a { color: #005500; }
+#header .details span.email a { color: rgba(0, 0, 0, 0.9); }
 #header .details br { display: none; }
 #header .details br + span:before { content: "\00a0\2013\00a0"; }
-#header .details br + span.author:before { content: "\00a0\22c5\00a0"; color: #005500; }
+#header .details br + span.author:before { content: "\00a0\22c5\00a0"; color: rgba(0, 0, 0, 0.9); }
 #header .details br + span#revremark:before { content: "\00a0|\00a0"; }
 #header #revnumber { text-transform: capitalize; }
 #header #revnumber:after { content: "\00a0"; }
@@ -473,14 +473,14 @@ pre.pygments .lineno:before { content: ""; margin-right: -0.125em; }
 
 .quoteblock { margin: 0 1em 1.25em 1.5em; display: table; }
 .quoteblock:not(.excerpt) > .title { margin-left: -1.5em; margin-bottom: 0.75em; }
-.quoteblock blockquote, .quoteblock p { color: #005500; font-size: 1.15rem; line-height: 1.75; word-spacing: 0.1em; letter-spacing: 0; font-style: italic; text-align: justify; }
+.quoteblock blockquote, .quoteblock p { color: rgba(0, 0, 0, 0.9); font-size: 1.15rem; line-height: 1.75; word-spacing: 0.1em; letter-spacing: 0; font-style: italic; text-align: justify; }
 .quoteblock blockquote { margin: 0; padding: 0; border: 0; }
 .quoteblock blockquote:before { content: "\201c"; float: left; font-size: 2.75em; font-weight: bold; line-height: 0.6em; margin-left: -0.6em; color: #000800; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); }
 .quoteblock blockquote > .paragraph:last-child p { margin-bottom: 0; }
 .quoteblock .attribution { margin-top: 0.75em; margin-right: 0.5ex; text-align: right; }
 
 .verseblock { margin: 0 1em 1.25em 1em; }
-.verseblock pre { font-family: "Open Sans", "DejaVu Sans", sans; font-size: 1.15rem; color: #005500; font-weight: 300; text-rendering: optimizeLegibility; }
+.verseblock pre { font-family: "Open Sans", "DejaVu Sans", sans; font-size: 1.15rem; color: rgba(0, 0, 0, 0.9); font-weight: 300; text-rendering: optimizeLegibility; }
 .verseblock pre strong { font-weight: 400; }
 .verseblock .attribution { margin-top: 1.25rem; margin-left: 0.5ex; }
 
@@ -733,12 +733,17 @@ b.conum * { color: inherit !important; }
 #header h1 { font-size: 3.5em; }
 #header .author { font-size: 1em; }
 
+.verseblock { margin: 0 1em 1.25em 1em; }
+.verseblock pre { font-family: inherit; font-size: 1.15rem; color: rgba(0, 0, 0, 0.9); font-weight: 300; text-rendering: optimizeLegibility; }
+.verseblock pre strong { font-weight: 400; }
+.verseblock .attribution { margin-top: 1.25rem; margin-left: 0.5ex; }
+
 .quoteblock blockquote::before { content: ''; display: none; }
 
-.quoteblock blockquote { color: black; }
+.quoteblock, .verseblock { padding: 0 20% 0 3%; border-left: 3px solid rgba(0, 0, 0, 0.3); }
 
-.quoteblock.epigraph { padding-left: 30%; }
-.quoteblock.epigraph blockquote { text-align: right; }
+.quoteblock.epigraph { border: none; width: 100%; padding-left: 30%; }
+.quoteblock.epigraph > blockquote { text-align: right; }
 
 .print-only { display: none !important; }
 
@@ -788,7 +793,7 @@ b.conum * { color: inherit !important; }
 <span id="author" class="author">Aakash Patel</span><br>
 </div>
 <div id="toc" class="toc2">
-<div id="toctitle">Table of Contents</div>
+<div id="toctitle">Contents</div>
 <ul class="sectlevel1">
 <li><a href="#_dawn_of_civilization">1. Dawn of Civilization</a>
 <ul class="sectlevel2">
@@ -2556,7 +2561,7 @@ He was married to Clotilde, and he adopted Christianity, being baptized in 496.
 He united Gaul under his rule, and he defeated the remaining Romans
 (led by Syagrius, the last Roman official of Gaul),
 at the Battle of Soissons.
-At the Battle of Vouill'e (507), he allied with Anastasius I (Byzantine Emperor)
+At the Battle of Vouille (507), he allied with Anastasius I (Byzantine Emperor)
 and defeated the Visigoths under Alaric II, conquerer of Spain.
 Gregory of Tours would refer to Clovis as a &#8220;new Constantine&#8221; when he wrote his <em>Histories</em>.
 He would be buried in the Church of the Holy Apostles that he built in Paris.</p>
@@ -3007,7 +3012,7 @@ at the <strong>Battle of Bannockburn</strong>.</p>
 <p><strong>Edward III</strong> was a courageous and great ruler of England.
 He defeated the Scots at Halidon Hill, and took back a substantial portion of Scotland.
 He started the Hundred Years' War with France following the Battle of Sluys,
-and through outmaneuvering, won the <strong>Battle of Cr'ecy</strong> in 1346.
+and through outmaneuvering, won the <strong>Battle of Crecy</strong> in 1346.
 Edward also set up the Order of the Garter and won the Battle of Poitiers.
 The English lost at the disastrous naval Battle of La Rochelle.</p>
 </div>
@@ -4363,7 +4368,7 @@ as well as the &#8220;Spice Islands&#8221; in the Indian Ocean.</p>
 <div class="sect3">
 <h4 id="_pacific_ocean"><a class="link" href="#_pacific_ocean">Pacific Ocean</a></h4>
 <div class="paragraph">
-<p>In 1513, the Spanish explorer <strong>Vasco N'unez de Balboa</strong>,
+<p>In 1513, the Spanish explorer <strong>Vasco Nunez de Balboa</strong>,
 hearing of another sea, trekked across Panama.
 His crew fought battles, bushwhacked through dense jungle, and climbed mountains.
 Balboa became the first European to see the Pacific Ocean from the Americas.
@@ -4408,7 +4413,7 @@ The Aztecs thought that Cortes was their feathered snake god Quetzalcoatl.</p>
 <div class="paragraph">
 <p>When the Aztecs attacked the Spaniards on the coast, Cortes took the emperor hostage.
 The governor of Cuba, Diego Velazquez,
-sent forces in 1520 led by P'anfilo de Narv'aez to stop Cortes.
+sent forces in 1520 led by Panfilo de Narvaez to stop Cortes.
 Cortes left a couple hundred men in Tenochtitlan and stopped the group.
 When his men killed a bunch of people in Tenochtitlan,
 he tried to get back, but Moctezuma was already dead.
@@ -4468,9 +4473,9 @@ Pizarro proceeded to take Cuzco and found the city of Lima in Peru.</p>
 <p>Some other important explorers explored the northern parts of America.</p>
 </div>
 <div class="paragraph">
-<p>In 1512, Ferdinand of Spain asked <strong>Juan Ponce de Le'on</strong>,
+<p>In 1512, Ferdinand of Spain asked <strong>Juan Ponce de Leon</strong>,
 the governor of Puerto Rico, to explore the Americas.
-Le'on had to finance his own expeditions, but he could govern whatever he found.
+Leon had to finance his own expeditions, but he could govern whatever he found.
 He left from Puerto Rico in 1513 and he found Florida, thinking it was an island.
 He also discovered the Gulf Stream in his travels.
 Now, however, he&#8217;s probably most associated with his supposed obsession
@@ -5630,7 +5635,7 @@ and he wanted to take Azov, near the Black Sea.</p>
 he made an alliance with the Polish-Lithuanian commonwealth
 and started the <strong>Great Northern War</strong> against Charles XII of Sweden.
 Sweden was able to stop attacks at Travendal and the <strong>Battle of Narva</strong> (1700),
-and pushed back through to Saxony where, after the Battle of Klisz'ow,
+and pushed back through to Saxony where, after the Battle of Kliszow,
 it forced Augustus II of Poland-Lithuania to accept the Treaty of Altranstadt.
 The treaty ensured the execution of Johann Patkul, who&#8217;d made the alliance in the first place.</p>
 </div>
@@ -6520,7 +6525,7 @@ The French proceeded to occupy Vienna and Venice, and Napoleon grew even more co
 <div class="paragraph">
 <p>In 1807, Napoleon had signed the <strong>Treaty of Tilsit</strong> with Tsar Alexander I.
 But, in 1812, Napoleon and Alexander disagreed on the issue of Poland.
-Napoleon decided to invade Russia with 650,000 men in his <em>Grand Arm'ee</em>.
+Napoleon decided to invade Russia with 650,000 men in his <em>Grand Armee</em>.
 They won some victories, such as the Battle of Smolensk.
 For almost 3 months, the Russians retreated, burning the earth as they went.</p>
 </div>
@@ -7972,7 +7977,7 @@ was led by Philip Saint George Cooke.</p>
 <div class="paragraph">
 <p>At the Battle of Chapultapec, US Marines stormed a castle on a hill,
 the site of a Mexican military academy.
-They won, and in the process, they killed the six &#8220;Boy Heroes&#8221; (Los Ninos H'eroes),
+They won, and in the process, they killed the six &#8220;Boy Heroes&#8221; (Los Ninos Heroes),
 Mexican military cadets who wouldn&#8217;t fall back when ordered by General Bravo.</p>
 </div>
 <div class="paragraph">
@@ -9055,7 +9060,7 @@ and it was probably caused by a coal explosion, not a mine.</p>
 </div>
 <div class="paragraph">
 <p>Also at time, Senor Don Enrique Dupuy de Lome sent the <strong>De Lome Letter</strong>.
-The letter, sent to the Foreign Minister of Spain, Don Jos'e Canelejas,
+The letter, sent to the Foreign Minister of Spain, Don Jose Canelejas,
 was a huge insult to McKinley,
 filled with references to his effeminacy and his ineffective weakness as a leader.
 Hearst called it the &#8220;worst insult to the United States in its history&#8221;.
@@ -9479,7 +9484,7 @@ but Petain is often credited with the quote as well.</p>
 <p>General <strong>Erich von Falkenhayn</strong>, Chief of Staff of the Armed Forces of Germany,
 aimed to &#8220;bleed France white&#8221; at Verdun, having been stopped at the Marne.
 Germans went into battle with grenades, not rifles.
-During the battle, La Voie Sacr'ee,
+During the battle, La Voie Sacree,
 the Sacred Way, was used to channel supplies and reinforcements.
 Commanders included Emile Driant (killed), Fernand de Langle de Cary (removed),
 and Charles Mangin, who captured Fort Vaux and Douaumont.
@@ -11434,7 +11439,7 @@ but it was executed four months into Kennedy&#8217;s administration (more on Ken
 <div class="paragraph">
 <p>The CIA idea was to arm 1,400 Cuban exiles known as Brigade 2506
 and empower them to establish &#8220;a new government with which the United States can live in peace&#8221;.
-On April 15, the brigade got on a boat from Guatemala and landed on Playa Gir'on,
+On April 15, the brigade got on a boat from Guatemala and landed on Playa Giron,
 initially making some gains.
 Then, everything proceeded to go south.
 During Operation Falcon, the drop of 150 paratroopers failed to take their objective,
@@ -11559,7 +11564,7 @@ North Vietnam instituted agrarian reform, setting up a campaign against land own
 and <strong>Ngo Dinh Diem</strong> was appointed prime minister.
 Diem quickly moved to crush all his opponents in his pursuit of the destruction of communism,
 and he set himself up to win elections by the end of 1955.
-Winning as much as 133% of the vote in some places\footnote{Yes, he rigged the election.},
+Winning as much as 133% of the vote in some places (by rigging the election),
 Diem was elected president of a new independent Republic of Vietnam on October 26, 1955.
 Supported by the Americans (Eisenhower had no real alternative),
 Diem instituted his &#8220;Denounce the Communists&#8221; campaign,
@@ -11599,13 +11604,9 @@ Operation Commando Hunt targeted places such as the Ho Chi Minh trail,
 a supply route through Laos and Cambodia.
 The war proceeded to escalate,
 with the incompetence of the South Vietnamese military becoming more apparent.
-<strong>William Westmoreland</strong>, deputy commander of Military Assistance Command Vietnam said:</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-  I am convinced that U.S. troops with their energy, mobility, and firepower
-  can successfully take the fight to the NLF.
-</blockquote>
+<strong>William Westmoreland</strong>, deputy commander of Military Assistance Command Vietnam said,
+&#8220;I am convinced that U.S. troops with their energy, mobility, and firepower
+can successfully take the fight to the NLF.&#8221;</p>
 </div>
 <div class="paragraph">
 <p>In late 1967, Communists baited American troops out at Dak To
@@ -12229,7 +12230,7 @@ Now, CREEP, Nixon, and everyone was being investigated by the grand jury, the FB
 <p>Chief among the reporters looking into Watergate were two <em>Washington Post</em> reporters
 named <strong>Bob Woodward and Carl Bernstein</strong>.
 They were helped by a mysterious informant named <strong>Deepthroat</strong>
-(now revealed to be <strong>Mark Felt</strong>, the \#2 man at the FBI).
+(now revealed to be <strong>Mark Felt</strong>, the #2 man at the FBI).
 There was also a special prosecutor named Archibald Cox, who was looking into CREEP and friends.
 CREEP money was supposedly being channeled into covert operations.</p>
 </div>
@@ -12870,7 +12871,7 @@ and in the first quarter of the 1800&#8217;s, the wars of independence began.</p
 </div>
 <div class="paragraph">
 <p>In 1819, <strong>Simon Bolivar</strong> came up with a plan to take New Granada by crossing the Andes.
-He&#8217;d previously given his Decree of War to the Death during his Admirable Campaign through M'erida.
+He&#8217;d previously given his Decree of War to the Death during his Admirable Campaign through Merida.
 Bolivar aimed to create an army himself and invade Venezuela with the help of Antonio Jose de Sucre.
 After winning at the Battle of Carabobo, the Battle of Pinchincha,
 and finally at the Battle of Boyaca,
@@ -12921,7 +12922,7 @@ until Salgado targeted him in the Pajama Revolt.</p>
 but he returned, becoming a democratically elected president in 1951.
 When his bodyguard tried to kill his rival Carlos Lacerda on Rua Tonelero,
 people called for Vargas&#8217;s resignation.
-He killed himself in 1954 and was replaced by his Vice President Caf'e Filho.</p>
+He killed himself in 1954 and was replaced by his Vice President Cafe Filho.</p>
 </div>
 </div>
 <div class="sect3">
@@ -13105,10 +13106,10 @@ Nehru had given the <strong>Tryst with Destiny</strong> speech right before inde
 <blockquote>
   Long years ago we made a tryst with destiny, and now the time comes when we shall redeem our pledge,
   not wholly or in full measure, but very substantially.
-  \textbf{%
-    At the stroke of the midnight hour, when the world sleeps,
-    India will awake to life and freedom.
-  }
+  <strong>
+  At the stroke of the midnight hour, when the world sleeps,
+  India will awake to life and freedom.
+  </strong>
   A moment comes, which comes but rarely in history, when we step out from the old to the new,
   when an age ends, and when the soul of a nation, long suppressed, finds utterance.
 </blockquote>
@@ -13606,7 +13607,7 @@ Mengistu was convicted of genocide in 2006, having killed hundreds of thousands 
 <h4 id="_rwandan_genocide"><a class="link" href="#_rwandan_genocide">Rwandan Genocide</a></h4>
 <div class="paragraph">
 <p>On April 6, 1994,
-a plane carrying President <strong>Juv'enal Habyarimana</strong> and Burundian President Cyprien Ntaryamira
+a plane carrying President <strong>Juvenal Habyarimana</strong> and Burundian President Cyprien Ntaryamira
 was shot down on descent into the Rwandan capital of Kigali, and everyone on the plane died.
 Habyarimana was the head of the <strong>Hutu</strong>-led Rwandan government,
 which had come to power after overthrowing Gregoire Kayibanda.
@@ -13752,11 +13753,11 @@ When Carranza took power, Huerta fled to the United States
 </div>
 <div class="paragraph">
 <p><strong>Pancho Villa</strong> led an army called the Villistas and joined Madero&#8217;s movement.
-He&#8217;d led the attacks on Ciudad Jua'rez which took Diaz from power.
+He&#8217;d led the attacks on Ciudad Juarez which took Diaz from power.
 After Madero&#8217;s death, Villa amassed a sizable army (the Northern Division),
 and helped Carranza fight Huerta.
 However, Villa wanted to continue the revolution,
-and he deposed Carranza at the Convention of Aguascalientes in favor of Eulalio Guti'errez.
+and he deposed Carranza at the Convention of Aguascalientes in favor of Eulalio Gutierrez.
 He fought at Celaya against Carranza in a couple major battles.</p>
 </div>
 <div class="paragraph">
@@ -13800,7 +13801,7 @@ helped shape Canada by building the Dominion&#8217;s government and creating a s
 His protectionist economic program, the National Policy, included strong tariffs,</p>
 </div>
 <div class="paragraph">
-<p>In 1869, M'etis leader <strong>Louis Riel</strong> began the <strong>Red River Rebellion</strong>,
+<p>In 1869, Metis leader <strong>Louis Riel</strong> began the <strong>Red River Rebellion</strong>,
 which resulted in Manitoba entering the Canadian Confederation.
 He then spent a while as a fugitive in Montana and other places.
 Wildly popular with many different groups,
@@ -14145,15 +14146,6 @@ and said that officers need to read apprehended suspects their rights.</p>
 <h2 id="_popes"><a class="link" href="#_popes">Appendix B: Popes</a></h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>\newcommand{\papacy}[2]{\noindent<em>Pontificate: #1--#2</em>}</p>
-</div>
-<div class="paragraph">
-<p>\newcommand{\pope}[3]{%
-  ==== #1
-  \papacy{#2}{#3}
-}</p>
-</div>
-<div class="paragraph">
 <p>The Catholic Church crops up fairly often in our survey of history.
 Almost every time they&#8217;ve been mentioned, we&#8217;ve been acquainted with new popes,
 but we haven&#8217;t really taken the time to describe the exploits of all of them,
@@ -14487,7 +14479,7 @@ during which he invoked papal infallibility.</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2020-08-12 23:23:02 PDT
+Last updated 2020-08-13 00:13:55 PDT
 </div>
 </div>
 </body>

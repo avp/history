@@ -10,6 +10,7 @@
 :stylesheet: history.css
 :toc: left
 :toclevels: 2
+:toc-title: Contents
 
 include::adoc/early-history.adoc[]
 

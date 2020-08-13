@@ -244,7 +244,7 @@ but it was executed four months into Kennedy's administration (more on Kennedy l
 
 The CIA idea was to arm 1,400 Cuban exiles known as Brigade 2506
 and empower them to establish "`a new government with which the United States can live in peace`".
-On April 15, the brigade got on a boat from Guatemala and landed on Playa Gir\'on,
+On April 15, the brigade got on a boat from Guatemala and landed on Playa Giron,
 initially making some gains.
 Then, everything proceeded to go south.
 During Operation Falcon, the drop of 150 paratroopers failed to take their objective,
@@ -349,7 +349,7 @@ In the south, **Bao Dai** was instituted as emperor (he would be the last one),
 and **Ngo Dinh Diem** was appointed prime minister.
 Diem quickly moved to crush all his opponents in his pursuit of the destruction of communism,
 and he set himself up to win elections by the end of 1955.
-Winning as much as 133% of the vote in some places\footnote{Yes, he rigged the election.},
+Winning as much as 133% of the vote in some places (by rigging the election),
 Diem was elected president of a new independent Republic of Vietnam on October 26, 1955.
 Supported by the Americans (Eisenhower had no real alternative),
 Diem instituted his "`Denounce the Communists`" campaign,
@@ -385,11 +385,9 @@ Operation Commando Hunt targeted places such as the Ho Chi Minh trail,
 a supply route through Laos and Cambodia.
 The war proceeded to escalate,
 with the incompetence of the South Vietnamese military becoming more apparent.
-**William Westmoreland**, deputy commander of Military Assistance Command Vietnam said:
-[quote]
-  I am convinced that U.S. troops with their energy, mobility, and firepower
-  can successfully take the fight to the NLF.
-
+**William Westmoreland**, deputy commander of Military Assistance Command Vietnam said,
+"`I am convinced that U.S. troops with their energy, mobility, and firepower
+can successfully take the fight to the NLF.`"
 
 In late 1967, Communists baited American troops out at Dak To
 and at **Khe Sanh Marine Base** on the border with Laos.

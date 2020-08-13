@@ -247,7 +247,7 @@ blockquote cite { display: block; font-size: 0.9375em; color: rgba(0, 0, 0, 0.6)
 blockquote cite:before { content: "\2014 \0020"; }
 blockquote cite a, blockquote cite a:visited { color: rgba(0, 0, 0, 0.6); }
 
-blockquote, blockquote p { line-height: 1.6; color: #005500; }
+blockquote, blockquote p { line-height: 1.6; color: rgba(0, 0, 0, 0.9); }
 
 /* Microformats */
 .vcard { display: inline-block; margin: 0 0 1.25em 0; border: 1px solid #dddddd; padding: 0.625em 0.75em; }
@@ -330,10 +330,10 @@ p a > code:hover { color: rgba(0, 0, 0, 0.9); }
 #header > h1:only-child, body.toc2 #header > h1:nth-last-child(2) { border-bottom: 1px solid #dddddf; padding-bottom: 8px; }
 #header .details { border-bottom: 1px solid #dddddf; line-height: 1.45; padding-top: 0.25em; padding-bottom: 0.25em; padding-left: 0.25em; color: rgba(0, 0, 0, 0.6); display: -ms-flexbox; display: -webkit-flex; display: flex; -ms-flex-flow: row wrap; -webkit-flex-flow: row wrap; flex-flow: row wrap; }
 #header .details span:first-child { margin-left: -0.125em; }
-#header .details span.email a { color: #005500; }
+#header .details span.email a { color: rgba(0, 0, 0, 0.9); }
 #header .details br { display: none; }
 #header .details br + span:before { content: "\00a0\2013\00a0"; }
-#header .details br + span.author:before { content: "\00a0\22c5\00a0"; color: #005500; }
+#header .details br + span.author:before { content: "\00a0\22c5\00a0"; color: rgba(0, 0, 0, 0.9); }
 #header .details br + span#revremark:before { content: "\00a0|\00a0"; }
 #header #revnumber { text-transform: capitalize; }
 #header #revnumber:after { content: "\00a0"; }
@@ -463,14 +463,14 @@ pre.pygments .lineno:before { content: ""; margin-right: -0.125em; }
 
 .quoteblock { margin: 0 1em 1.25em 1.5em; display: table; }
 .quoteblock:not(.excerpt) > .title { margin-left: -1.5em; margin-bottom: 0.75em; }
-.quoteblock blockquote, .quoteblock p { color: #005500; font-size: 1.15rem; line-height: 1.75; word-spacing: 0.1em; letter-spacing: 0; font-style: italic; text-align: justify; }
+.quoteblock blockquote, .quoteblock p { color: rgba(0, 0, 0, 0.9); font-size: 1.15rem; line-height: 1.75; word-spacing: 0.1em; letter-spacing: 0; font-style: italic; text-align: justify; }
 .quoteblock blockquote { margin: 0; padding: 0; border: 0; }
 .quoteblock blockquote:before { content: "\201c"; float: left; font-size: 2.75em; font-weight: bold; line-height: 0.6em; margin-left: -0.6em; color: #000800; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); }
 .quoteblock blockquote > .paragraph:last-child p { margin-bottom: 0; }
 .quoteblock .attribution { margin-top: 0.75em; margin-right: 0.5ex; text-align: right; }
 
 .verseblock { margin: 0 1em 1.25em 1em; }
-.verseblock pre { font-family: "Open Sans", "DejaVu Sans", sans; font-size: 1.15rem; color: #005500; font-weight: 300; text-rendering: optimizeLegibility; }
+.verseblock pre { font-family: "Open Sans", "DejaVu Sans", sans; font-size: 1.15rem; color: rgba(0, 0, 0, 0.9); font-weight: 300; text-rendering: optimizeLegibility; }
 .verseblock pre strong { font-weight: 400; }
 .verseblock .attribution { margin-top: 1.25rem; margin-left: 0.5ex; }
 
@@ -723,12 +723,17 @@ b.conum * { color: inherit !important; }
 #header h1 { font-size: 3.5em; }
 #header .author { font-size: 1em; }
 
+.verseblock { margin: 0 1em 1.25em 1em; }
+.verseblock pre { font-family: inherit; font-size: 1.15rem; color: rgba(0, 0, 0, 0.9); font-weight: 300; text-rendering: optimizeLegibility; }
+.verseblock pre strong { font-weight: 400; }
+.verseblock .attribution { margin-top: 1.25rem; margin-left: 0.5ex; }
+
 .quoteblock blockquote::before { content: ''; display: none; }
 
-.quoteblock blockquote { color: black; }
+.quoteblock, .verseblock { padding: 0 20% 0 3%; border-left: 3px solid rgba(0, 0, 0, 0.3); }
 
-.quoteblock.epigraph { padding-left: 30%; }
-.quoteblock.epigraph blockquote { text-align: right; }
+.quoteblock.epigraph { border: none; width: 100%; padding-left: 30%; }
+.quoteblock.epigraph > blockquote { text-align: right; }
 
 .print-only { display: none !important; }
 
