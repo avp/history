@@ -24,9 +24,8 @@ pdf: $(DEPS)
 .PHONY: pdf
 
 html: $(DEPS)
-	asciidoctor -a pdf-themesdir=themes/ -a pdf-theme=history.yml -a fontsdir=fonts/ history.adoc
-.PHONY: pdf
-
+	asciidoctor history.adoc
+.PHONY: html
 
 clean:
 	$(RM) history.epub
