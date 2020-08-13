@@ -1,0 +1,66 @@
+= History
+:author: Aakash Patel
+:chapter-label:
+:doctype: book
+:icons: font
+:sectnumlevels: 1
+:sectlinks:
+:sectnums:
+:toc: left
+:toclevels: 2
+
+include::adoc/early-history.adoc[]
+
+include::adoc/greece-rome.adoc[]
+
+include::adoc/ancient-asia.adoc[]
+
+include::adoc/breaking-europe.adoc[]
+
+include::adoc/middle-ages.adoc[]
+
+include::adoc/african-empires.adoc[]
+
+include::adoc/renaissance.adoc[]
+
+include::adoc/modern-asia.adoc[]
+
+include::adoc/european-monarchy.adoc[]
+
+include::adoc/colonies.adoc[]
+
+include::adoc/european-expansion.adoc[]
+
+include::adoc/american-independence.adoc[]
+
+include::adoc/revolutions.adoc[]
+
+include::adoc/early-usa.adoc[]
+
+include::adoc/nationalism-europe.adoc[]
+
+include::adoc/expansion-civil-war.adoc[]
+
+include::adoc/imperialism-usa.adoc[]
+
+include::adoc/wwi.adoc[]
+
+include::adoc/interwar-usa.adoc[]
+
+include::adoc/interwar-europe.adoc[]
+
+include::adoc/wwii.adoc[]
+
+include::adoc/cold-war.adoc[]
+
+include::adoc/recent-usa.adoc[]
+
+include::adoc/recent-europe.adoc[]
+
+include::adoc/recent-world.adoc[]
+
+[appendix]
+include::adoc/court-cases.adoc[]
+
+[appendix]
+include::adoc/popes.adoc[]

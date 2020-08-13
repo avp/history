@@ -1,0 +1,576 @@
+== Cold War
+
+[quote.epigraph, Winston Churchill]
+
+  From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the Continent.
+
+
+=== Germany Divided
+
+The Second World War had killed almost 10\% of the German population.
+The place was in shambles.
+At Potsdam, the country had been divided into four zones by the Allies.
+The country didn't regain independence until 1949.
+
+In East Germany, Soviets ruled with an iron fist,
+employing the **Stasi** as the official state security.
+From 1950 to 1971, the party boss in the area was **Walter Ulbricht**.
+In 1953, Ulbricht's government had to put down an uprising using Soviet troops and tanks.
+The General Secretary after Ulbricht was **Erich Honecker** (1971--1989).
+
+Berlin, deep in the heart of East Germany, was itself divided into separate occupation zones.
+Stalin then decided to blockade West Berlin, disallowing any Allied supplies from reaching the city.
+The Soviets introduced the Ostmark in their zone to combat announcement of the new Deutsche Mark.
+As a result, Lucius Clay, deputy governor of Germany, put Operation Vittles into effect.
+The **Berlin Airlift**, as it was called,
+aimed to fly two million tons of supplies into the city and drop them to the people below.
+Construction for the bases occurred at places near Tempelhof and Lake Tegel.
+Albert Wedemeyer, a general who had commanded the airlift from India over the Himalayan Hump,
+helped the effort.
+The British contribution was codenamed Operation Plainfare,
+and the Australian operation was designated Operation Pelican.
+
+By 1961, 2.6 million people had fled from East Germany,
+and Ulbricht created the **Berlin Wall** to try and stop them.
+The wall was crossable in few locations, including Checkpoint Charlie,
+and abandoned subway stops past the wall were called "`ghost stations`".
+During the Berlin Wall crisis in 1961,
+Lucius Clay ordered tanks to a standoff to back up Albert Hemsing.
+
+=== Cold War Begins
+
+==== Truman and his Doctrine
+
+Following the victory in World War II, Truman and friends helped set up the **United Nations**.
+He also issued the **Truman Doctrine**, giving aid to Turkey and Greece,
+in an attempt to contain communism.
+Truman's policy of containment was inspired partly by **George F. Kennan** (Mr. X)
+and his writings talking about **containment** of communism.
+Kennan sent the **Long Telegram** from Soviet Russia,
+claiming that the Soviets were expansionist and needed to be contained in places that mattered to the US.
+
+In order to help rebuild Europe,
+Secretary of State **George Marshall** came up with a strategy.
+The **Marshall Plan** consisted of using \$13 billion to bring economies back on track,
+and William Clayton, Kennan,
+and Marshall unveiled the plan at a graduation speech at Harvard in 1947.
+To counter the Marshall Plan,
+the Soviets put their own Molotov Plan into effect to help Eastern European countries.
+
+==== NATO & the Warsaw Pact
+
+In 1949, the former Allies formed the **North Atlantic Treaty Organization (NATO)**.
+Headquartered in Brussels, NATO's goal was to stop the growing Soviet threat.
+They set up yearly readiness exercises named after Able Archer and Dean Rusk.
+
+In response, the Soviets set up the **Warsaw Pact** in 1955.
+Included in the organization were China and North Korea,
+and during Zapad 81, they would carry out the largest military exercise ever.
+
+=== Korean War
+
+Korea had been ruled by Japan since 1910 until the later parts of World War II.
+Then, the Soviets took control of the peninsula north of the **38th parallel**,
+and US forces occupied the south, and Japan surrendered, packed up, and left.
+
+Two separate governments were set up.
+The south elected **Syngman Rhee** president in July 1948.
+Rhee had converted to Christianity in High School, and he had spent time in America.
+He opposed Communism, and as soon as he took power,
+he started instituting laws against political dissent, smashing his leftist opponents.
+
+In Communist North Korea, a new regime was established under **Kim Il-Sung**.
+His symbol was a blue orchid that had been given to him by Sukarno,
+and he made it the official flower of the country.
+He set up the kwan li so labor camps,
+and he introduced the Juche (self-reliance) political ideology, displacing Stalin and Mao.
+In 1968, his government would capture **USS Pueblo**, commanded by Captain Lloyd Bucher.
+
+Now, both Rhee and Kim Il Sung wanted to unite Korea under their respective governments.
+Stalin set up the North Koreans with weapons,
+and they crossed the 38th parallel on June 25, 1950, fighting on the Ongjin peninsula.
+They came south,
+forcing Rhee to leave Seoul and drastically reducing the headcount of South Korean troops.
+
+At this point, the Truman administration wasn't really well prepared for military action in Korea.
+There were worries as to what the Soviets would do if the US intervened in Korea.
+Truman wrote:
+[quote]
+  There was complete, almost unspoken acceptance
+  on the part of everyone that whatever had to be done to meet this aggression had to be done.
+  There was no suggestion from anyone that either the United Nations
+  or the United States could back away from it.
+
+There was fear of a chain reaction allowing the Soviets to disregard the UN
+and create Communist aggression in any number of other places across the world.
+On June 27, after the UN Security Council ruled that the North Korean invasion was bad,
+Truman sent the 8th Army into the peninsula to help the South Koreans.
+
+The first significant American engagement came at the **Battle of Osan**.
+The battle was unsuccessful,
+and the North Korean KPA pushed the South Korean ROK and the US army back to **Pusan**.
+Battles around this time included Onjong.
+Kim Il-sung thought he would end the war by the end of August.
+
+To relieve the Pusan perimeter,
+General MacArthur ordered the planning of a landing at **Inchon**.
+The battle began with USS __Mansfield__, USS __Swenson__, and USS __Collett__
+bombarding a fortress.
+The X Corps then landed at Green, Blue, and Red beaches, and captured the Kimpo airstrip,
+allowing for a breakout from the Pusan perimeter.
+By the end of September, Seoul was back in South Korean hands.
+
+Continuing their momentum,
+MacArthur and the ROK went up western Korea and took Pyongyang in October.
+MacArthur then thought it was going to be a good idea to keep going straight on into China,
+but Truman disagreed.
+When China entered the war, it led to major Allied losses,
+and MacArthur was seriously considering using nuclear weapons to end the war.
+MacArthur's Home-by-Christmas Offensive was met with the Chinese Second Phase Offensive,
+ambushing and pushing the allied forces back from the Yalu River.
+
+While MacArthur wanted complete surrender from the North Koreans,
+Truman wasn't as optimistic about the land war in Asia (he realized it was a classic blunder).
+So, Truman relieved MacArthur of his command, and put **General Matthew Ridgway** in charge.
+
+The rest of the Korean War would mostly be spent in stalemate.
+Combat continued during armistice negotiations, which would take a very long time to go through.
+Negotiations were held at Kaesong and at Panmunjom.
+Battles during the stalemate included:
+Pork Chop Hill,
+Heartbreak Ridge,
+White Horse Mountain,
+Hill Eerie,
+and the siege of Outpost Harry.
+An armistice was agreed on in July 1953,
+setting up a **Demilitarized Zone (DMZ)** at the 38th parallel.
+The area is still patrolled by members of both sides, and clashes occur sometimes.
+
+Of course, the DMZ was not without its own problems.
+In 1976, for instance,
+two U.S. Army officers were killed while cutting down a poplar tree in the DMZ.
+This "`axe murder incident`" resulted in massive numbers of U.S. forces being deployed to the DMZ,
+codenamed Operation Paul Bunyan.
+This ended up intimidating North Korea into backing down.
+
+=== Soviet Union After Stalin
+
+==== Khrushchev's USSR
+
+In the US,
+the transfer of leadership from Truman to Eisenhower resulted in policy not changing much,
+even though the transition crossed party lines.
+The change from Stalin to his successor, **Nikita Khrushchev**, however, was big.
+Stalin died in 1953, and the Communist Party named Khrushchev, his right hand man, First Secretary.
+
+During some collective leadership, Khrushchev consolidated power.
+He gave his **secret speech**, "`On the Personality Cult and Its Consequences`",
+to the 20th Party Congress of the Communist Party,
+denouncing Stalin and the crimes that Stalin had committed:
+[quote]
+  We have to consider seriously and analyze correctly [the crimes of the Stalin era]
+  in order that we may preclude any possibility of a repetition in any form whatever
+  of what took place during the life of Stalin,
+  who absolutely did not tolerate collegiality in leadership and in work,
+  and who practiced brutal violence, not only toward everything which opposed him,
+  but also toward that which seemed to his capricious and despotic character,
+  contrary to his concepts.
+
+Even though his speech was supposed to be secret, it ended up getting leaked.
+Khrushchev ended up being named Premier of the USSR in 1958.
+
+While in power,
+Khrushchev used the Virgin Lands Campaign to try and improve agricultural productivity.
+He oversaw some liberalization and de-Stalinization, in a period known as the Khrushchev Thaw.
+At one point, Lazar Kaganovich and Vyacheslav Molotov, the Anti-Party group, tried to overthrow him
+and replace him with his Prime Minister, Nikolai Bulganin.
+
+==== The Cuban Situation
+
+===== Cuban Revolutions
+
+To contextualize this part,
+we need to go back a bit and take a look at where Cuba was at this point in time, and how it got there.
+In 1952, **Fulgencio Batista** became dictator of Cuba.
+Batista had been elected President after overthrowing Carlos Prio Socarras in 1940.
+Around this time,
+a young lawyer named **Fidel Castro**
+decided that he didn't like Batista and wanted to depose him.
+He teamed up with his brother **Raul Castro**
+and led an attack on Moncada Barracks in July 1953.
+They failed badly and ended up in prison in Model Prison on the Isle of Pines.
+In his own defense, Castro gave the "`History Will Absolve Me`" speech in court:
+[quote]
+  I know that imprisonment will be harder for me than it has ever been for anyone,
+  filled with cowardly threats and hideous cruelty.
+  But I do not fear prison,
+  as I do not fear the fury of the miserable tyrant who took the lives of 70 of my comrades.
+  Condemn me.
+  It does not matter.
+  **History will absolve me.**
+
+
+When they got out, the Castros went to Mexico, and met **Ernesto "`Che`" Guevara**.
+While they were there,
+they set up the **26th of July Movement** and prepared to take down Batista again,
+named after the date of the failed Moncada Barracks attack.
+
+In December 1956, Fidel and less than a hundred men took the yacht __Granma__
+(incidentally, the paper of the Cuban Communist Party would be named __Granma__ in its honor)
+to Cuba, landing with the intention of taking the island.
+They were promptly decimated by Batista's men, but Castro escaped into the Sierra Maestra mountains.
+From there, he and Guevara ran a guerrilla campaign against Batista.
+Every time Batista tried to take down the rebellion, he failed.
+At this point, the US imposed trade restrictions on Cuba and told Batista to get out of town,
+and Batista left the island in January 1959, allowing Castro to take over.
+
+===== American Relations
+
+Of course, the Americans weren't particularly happy with the fact that Cuba
+(only 90 miles from Key West)
+was under the dictatorial control of a Communist.
+So, the US severed diplomatic ties with Castro's Cuba.
+
+In May 1960, CIA U-2 pilot **Francis Gary Powers** was shot down over Cuba,
+attempting to photograph enemy military installations.
+The Cuban government convicted Powers of espionage.
+Eventually, Powers was exchanged for the captured Soviet spy Rudolf Abel in Berlin.
+For more information on the incident, watch __Bridge of Spies__.
+
+In April 1961, the CIA executed a plan to take down the Castro regime.
+The idea for the **Bay of Pigs invasion** (Operation Zapata)
+had been created under the Eisenhower administration,
+but it was executed four months into Kennedy's administration (more on Kennedy later).
+
+The CIA idea was to arm 1,400 Cuban exiles known as Brigade 2506
+and empower them to establish "`a new government with which the United States can live in peace`".
+On April 15, the brigade got on a boat from Guatemala and landed on Playa Gir\'on,
+initially making some gains.
+Then, everything proceeded to go south.
+During Operation Falcon, the drop of 150 paratroopers failed to take their objective,
+and retreat into the Escambray Mountains was impossible.
+So, most of the brigade was captured and interrogated.
+
+Kennedy took full responsibility for the failure,
+and the invasion was a contributing factor to the dismissal
+of Allen Dulles as director of the CIA in late 1961.
+Following the Bay of Pigs, the Kennedy administration began Operation Mongoose,
+a more covert sabotage campaign against Castro, making Castro hate the US even more.
+
+Castro was fairly closely allied with Khrushchev at this point, them both being Communists.
+After the failure of the Bay of Pigs invasion,
+Khrushchev agreed to Castro's request for nuclear missiles on the island.
+Khrushchev was pleased with the arrangement,
+especially in light of the fact that the US had missiles in Italy and Turkey within range of Moscow.
+
+This was October 1962, so a US election was underway,
+The US confirmed missile preparations when Richard Heyser flew a U-2 plane over Cuba,
+taking pictures of new bases under construction at San Cristobal.
+Kennedy's administration was criticized
+about the nuclear missiles sitting 90 miles off the Florida coast.
+At this point,
+the US blockaded Cuba and demanded that all the existing missiles there should be dismantled.
+
+Negotiations in the United Nations Security Council were mediated by Secretary General U Thant,
+and Ambassador **Adlai Stevenson**
+discussed the situation in Cuba with Soviet Ambassador Valerian Zorin:
+[quote]
+  Do you, Ambassador Zorin, deny that the USSR has placed
+  and is placing medium and intermediate range missiles and sites in Cuba?
+  Yes or no?
+  Don't wait for the translation: yes or no?
+  **I am prepared to wait for my answer until hell freezes over, if that's your decision.**
+
+Stevenson then proceeded to present a series of pictures taken by the U-2 to the Security Council.
+During the Cuban Missile Crisis, Kennedy put together EXCOMM,
+a group of National Security Council members and friends, to help advise him during the situation.
+The crisis was resolved by the Hotline Agreement,
+in which the US agreed to dismantle the Jupiter Missiles threatening Moscow,
+and a new hotline was set up between Kennedy's and Khrushchev's offices.
+
+==== Brezhnev in Power
+
+When the Soviets got tired of Khrushchev in 1964,
+they ousted him and placed **Leonid Brezhnev** in his place as First Secretary.
+He'd previously been in charge of the Virgin Lands Campaign, and now he took full power.
+Brezhnev would consolidate power, setting up his Brezhnev Doctrine,
+allowing intervention if socialist countries decided to turn to capitalism.
+A prime example of the use of his doctrine is the invasion of Czechoslovakia during Prague Spring
+(more on the Czech situation later).
+He also ordered the Soviet invasion of Afghanistan,
+and he would participate in the SALT (Strategic Arms Limitation Talks) agreements.
+
+When Brezhnev took over, the "`Era of Stagnation`" began.
+The economy, politics, and social change all more or less came to a standstill,
+and they would stay that way until Gorbachev took over in the mid-80s.
+
+=== Vietnam War
+
+Before we get to how this proxy war was fought,
+let's first take a look at history in southeast Asia.
+France had begun to conquer Indochina in the 1850s, and in 1888,
+**French Indochina** was colonized in present-day Cambodia and Vietnam.
+Vietnamese forces tried to oppose French rule for quite a while,
+but the most successful were the **Viet Minh**, founded in 1941,
+and controlled by the Communist Party.
+While France was occupied by Germany, the Indochinese government sided with the Vichy regime.
+The Viet Minh opposed French occupation,
+and they fought the Japanese who tried to take over as well.
+
+When Japan lost World War II, Japanese forces in Vietnam were inactive,
+and Viet Minh forces took over the country in the **August Revolution**.
+**Ho Chi Minh** led meetings to create the independent Democratic Republic of Vietnam in Hanoi.
+At this point, the Viet Minh were fairly popular.
+However, all the Allies who had won World War II thought the area should belong to France.
+British and Nationalist Chinese forces took the country and then ceded control to France.
+Ho Chi Minh wasn't particularly happy with this development,
+and the Viet Minh began a guerrilla campaign, resulting in the **First Indochina War**.
+The war fanned out, including Laos and Cambodia,
+home to the Pathet Lao and the Khmer Serei respectively.
+
+By 1950,
+the People's Republic of China and the USSR were helping the Viet Minh take back their country.
+The French and Americans began to seriously consider using tactical nuclear weapons,
+but Eisenhower decided against it.
+During negotiations,
+the US sailed recon flights over Dien Bien Phu based off carriers in the Gulf of Tonkin.
+
+The **Battle of Dien Bien Phu** would signal the end of French occupation of Indochina.
+Viet Minh commander Vo Nguyen Giap served up a decisive defeat against the French,
+partly because the French underestimated the Viet Minh following a French victory at Na San.
+Following a good amount of trench warfare, Giap ordered a full assault, capturing 10,000 prisoners.
+
+After Dien Bien Phu, Vietnam was partitioned at the **17th parallel**,
+and under the Geneva Accords,
+people were allowed to move between the two new countries for a short period of time.
+North Vietnam instituted agrarian reform, setting up a campaign against land owners.
+
+In the south, **Bao Dai** was instituted as emperor (he would be the last one),
+and **Ngo Dinh Diem** was appointed prime minister.
+Diem quickly moved to crush all his opponents in his pursuit of the destruction of communism,
+and he set himself up to win elections by the end of 1955.
+Winning as much as 133\% of the vote in some places\footnote{Yes, he rigged the election.},
+Diem was elected president of a new independent Republic of Vietnam on October 26, 1955.
+Supported by the Americans (Eisenhower had no real alternative),
+Diem instituted his "`Denounce the Communists`" campaign,
+killing and torturing communists across the country.
+
+By 1957, insurgency was starting to take root.
+People were getting fed up with Diem's government, but they were disorganized.
+In late 1960, the National Liberation Front, aka Viet Cong,
+was created in an attempt to organize the activists.
+The Viet Cong wanted American influence out of Vietnam.
+By 1960, North Vietnam decided to start helping, and they invaded Laos.
+In 1962, multiple countries got together and agreed to respect Laos's neutrality.
+
+The South Vietnamese ARVN army was more or less incompetent in the face of the Viet Cong.
+At the Battle of Ap Bac, the Viet Cong defeated the ARVN, despite having many disadvantages.
+In the middle of 1963, the US started discussing a change of leadership in South Vietnam.
+The CIA looked the other way when some generals overthrew Diem and killed him.
+After the coup, chaos reigned supreme.
+Military regimes in South Vietnam came and went quickly.
+
+In August 1964, USS __Maddox__ fired on some torpedo boats in the Gulf of Tonkin.
+Later, USS __Turner Joy__ and __Maddox__ were both fired on in gulf.
+This **Gulf of Tonkin incident** led to some debate in Congress.
+In response to the incident,
+the US began Operation Pierce Arrow, in which the Navy engaged North Vietnamese ships.
+Johnson also used the incident to pass the **Gulf of Tonkin Resolution** on August 7,
+giving the president power to conduct military operations there without actually declaring war.
+The only person who opposed the bill in the House was Eugene Siler.
+
+The bombing in North Vietnam escalated in three stages.
+It included Operation Flaming Dark, Operation Rolling Thunder, and Operation Arc Light.
+Operation Commando Hunt targeted places such as the Ho Chi Minh trail,
+a supply route through Laos and Cambodia.
+The war proceeded to escalate,
+with the incompetence of the South Vietnamese military becoming more apparent.
+**William Westmoreland**, deputy commander of Military Assistance Command Vietnam said:
+[quote]
+  I am convinced that U.S. troops with their energy, mobility, and firepower
+  can successfully take the fight to the NLF.
+
+
+In late 1967, Communists baited American troops out at Dak To
+and at **Khe Sanh Marine Base** on the border with Laos.
+Americans, perfectly willing to take their massive military might into the middle of nowhere,
+where they didn't have to worry about civilian collateral casualties, obliged.
+But, at the end of January 1968, the Viet Cong broke the truce that went along with the Tet (New Year),
+and they began the **Tet Offensive**.
+Enemy troops attacked over 100 cities,
+including Westmoreland's headquarters and the US Embassy in Saigon.
+Initially staggered by the surprise and scale of the assault, the Americans responded in kind.
+At the Battle of Hue, the US recaptured a former capital from Viet Cong forces.
+
+Many civilians died in the Tet Offensive,
+but the US was able to take out lots of Viet Cong troops as well.
+In fact, it was a military victory for US forces.
+However, the Tet Offensive was notable for its side effects.
+Westmoreland, who had been well known back home,
+having been featured on the cover of __Time__ and named Person of the Year,
+suddenly found himself losing all his popularity.
+American support for the war started to wane,
+and people started to turn on the Johnson administration.
+This was an intelligence failure,
+some say, as big as not seeing the Japanese attack on Pearl Harbor.
+In an editorial, Walter Cronkite said:
+[quote]
+  To say that we are closer to victory today is to believe, in the face of the evidence,
+  the optimists who have been wrong in the past.
+  To suggest we are on the edge of defeat is to yield to unreasonable pessimism.
+  To say that we are mired in stalemate seems the only realistic, yet unsatisfactory, conclusion.
+
+Westmoreland was promoted out of Vietnam and succeeded by **Creighton Abrams**.
+Peace talks started in Paris, and the US stopped bombardment of North Vietnam.
+
+When Nixon was elected, he started to withdraw US military from the area.
+The idea behind his "`Nixon Doctrine`" was to make sure the ARVN could hold on their own,
+a policy known as "`Vietnamization`".
+Nixon also worked to try and make peace with the USSR and China.
+
+On March 16, 1968, Army soldiers raped and killed hundreds of unarmed civilians in South Vietnam.
+The **My Lai massacre** occurred in a supposed Viet Cong stronghold in the area,
+codenamed Pinkville --- the incident was originally called the Pinkville massacre.
+Air support flown by Warrant Officer Hugh Thompson, Lawrence Colburn, and Glenn Andreotta
+helped stop the massacre,
+earning themselves the Soldier's Medal in the process.
+Public awareness of the carnage was stirred up when Ron Ridenhour wrote a letter to Mo Udall;
+Ridenhour also investigated the event.
+Second Lieutenant William Calley was court martialed
+and was the only person convicted of any crimes in the aftermath of My Lai.
+
+Incidents such as My Lai really helped to spur opposition to the war in the US.
+The situation was bad enough that Governor of Ohio Jim Rhodes threatened martial law.
+In 1970, students at **Kent State** protested Nixon's decisions regarding the war.
+In the Prentice Hall parking lot near Blanket Hill,
+the Ohio National Guard fatally shot four students.
+The Scranton Commission was assembled to investigate the Kent State shootings.
+
+The **Paris Peace Accords** on "`Ending the War and Restoring Peace in Vietnam`"
+were signed in January 1973,
+having been negotiated by **Henry Kissinger** and Le Duc Tho,
+who both won the Nobel Peace Prize for their efforts (though Tho declined it).
+A ceasefire was declared, and elections were to be held in both North and South Vietnam.
+
+During the ceasefire, the North Vietnamese kept building infrastructure,
+preparing for one final massive invasion of the south.
+The success of a dry season offensive in 1973-1974 inspired the North Vietnamese to try again.
+In 1975, they launched Campaign 275,
+prompting President of South Vietnam Nguyen Van Thieu to order a retreat.
+By the end of March, Hue and fallen, and Da Nang and its airport were in ruins.
+
+The North Vietnamese then pushed for Saigon.
+The Ho Chi Minh campaign aimed to take the city by May 1.
+On April 27, they encircled the city.
+The NVA shelled the airport, closing it.
+Martial law was declared.
+Operation **Frequent Wind** was launched for evacuation.
+The signal was the playing of "`White Christmas`".
+On April 30, NVA troops entered Saigon.
+They took Independence Palace.
+President Duong Van Minh surrendered.
+
+=== Space Race
+
+The goal of annihilating the enemy with planes and guns and bombs
+fueled an initiative on both sides of the Cold War to get things further up into the sky.
+The German scientist **Wernher von Braun** had been director of Nazi Germany's missile program,
+and during the 1950s, he came over to the United States to help the Americans make rockets.
+His team went to White Sands Proving Ground in New Mexico and started working on rockets
+that would eventually become the basis for the Jupiter and Saturn rocket family.
+
+The Soviets decided to try building a satellite.
+Sergei Korolev founded the Soviet space program and he got permission in 1957
+to put a __sputnik__ in the air.
+On October 4, 1957, the new **Sputnik 1** satellite was launched into orbit.
+In light of this new development, Eisenhower ordered the US Vanguard project to launch early.
+However, when Project Vanguard failed to launch and exploded,
+newspapers called it Flopnik, Stayputnik, Kaputnik, Dudnik, etc.
+By the end of January 1958, von Braun and his team launched Explorer 1 successfully into orbit.
+
+On April 12, 1961, the USSR launched **Yuri Gagarin** into orbit in **Vostok 1**.
+Gagarin, the first cosmonaut, was the first human to make it into space.
+He became a hero of the Soviet Union.
+When the US created NASA,
+the Air Force's attempts to put a man in space was renamed **Project Mercury**.
+On May 5, 1961, they launched **Alan Shepard** into space.
+Shepard didn't achieve orbit, but he did manage to exercise control over his attitude and rockets.
+The Mercury suborbital flight was repeated in July by **Virgil "`Gus`" Grissom**.
+In February 20, 1962, **John Glenn** became the first American to orbit the Earth.
+Meanwhile, the Soviets launched more Vostok flights, including Vostok 6,
+which launched **Valentina Tereshkova**, the first woman in space.
+
+The Americans were fairly humiliated that they had been beaten twice in a row at this point.
+Kennedy decided to look into the space program himself, with the new goal being the moon.
+On September 12, 1962, he gave a speech at Rice University:
+[quote]
+  **We choose to go to the Moon** in this decade and do the other things,
+  not because they are easy, but because they are hard,
+  because that goal will serve to organize and measure the best of our energies and skills,
+  because that challenge is one that we are willing to accept,
+  one we are unwilling to postpone, and one which we intend to win\dots{}
+  It is for these reasons that I regard the decision last year
+  to shift our efforts in space from low to high gear
+  as among the most important decisions that will be made during my incumbency
+  in the office of the Presidency.
+
+
+NASA then announced **Project Gemini**,
+a two-man craft that would help develop technologies for the future three-man Apollo program.
+Gemini ran for 10 piloted missions.
+The Soviets worked on the Soyuz spacecraft and the Voskhod program.
+
+As we know, eventually Apollo 11 was successful.
+Crewed by **Neil Armstrong**, **Buzz Aldrin** and **Michael Collins**,
+the mission landed on the moon on July 21, 1969.
+There's more space travel stuff that can be talked about, but let's move on for now.
+
+=== Last Days of War
+
+==== Mikhail Gorbachev
+
+Brezhnev left office in 1982.
+He was succeeded by Yuri Andropov, former head of the KGB, and Konstantin Chernenko.
+Their leadership didn't last very long,
+and in 1985, **Mikhail Gorbachev** was elected General Secretary by the Politburo.
+Gorbachev had a big wine-colored birthmark on his forehead
+that cartoonists were quite fond of mocking.
+
+Gorbachev began to turn around the stagnant economy.
+His agenda was called **perestroika**, or restructuring.
+It relaxed the production quota system
+and let people own their own businesses through the Law on Cooperatives.
+He also started **glasnost**, or openness,
+which introduced transparency and improved freedom of the press.
+Gorbachev implemented the "`Sinatra Doctrine`",
+which let Warsaw Pact nations determine for themselves how they would work
+(the name's an allusion to the song "`My Way`").
+
+An August 1991 Communist coup tried to target Gorbachev after the Cold War ended,
+and it was suppressed by **Boris Yeltsin**, who then gave a speech while standing on a tank.
+
+==== Raising the Iron Curtain
+
+Because of the fact that the USSR was giving in a bit,
+Reagan decided that it would be OK to start talks with the Russians on thawing the Cold War.
+The first meeting was held in Geneva,
+and the second Reykjavik Summit was set up in Iceland.
+The third summit resulted in the Intermediate-Range Nuclear Forces Treaty (INF).
+
+In 1987, Reagan gave a speech at the Brandenburg Gate.
+In challenge to Gorbachev, Reagan said:
+[quote]
+  We welcome change and openness; for we believe that freedom and security go together,
+  that the advance of human liberty can only strengthen the cause of world peace.
+  There is one sign the Soviets can make that would be unmistakable,
+  that would advance dramatically the cause of freedom and peace.
+  General Secretary Gorbachev, if you seek peace,
+  if you seek prosperity for the Soviet Union and Eastern Europe,
+  if you seek liberalization:
+  Come here to this gate!
+  Mr. Gorbachev, open this gate!
+  **Mr. Gorbachev, tear down this wall!**
+
+
+In 1989, the Berlin Wall fell, and the iron curtain across the continent was lifted.
+With the end of the Cold War, the 1989 revolutionary wave washed over Central and Eastern Europe.

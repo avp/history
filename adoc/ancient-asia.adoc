@@ -1,0 +1,212 @@
+== Asian Dynasties
+
+[quote.epigraph, Wang Xizhi]
+When future generations look back to my time,
+it will probably be similar to how I now think of the past.
+
+=== Ancient India
+
+Recall that there was some burgeoning civilization in India.
+Around the 4th century BC, more centralized dynasties with influential impact started taking power.
+Here we go over some of the more important ones.
+
+==== Maurya Dynasty (324 -- 184 BC)
+
+The dynasty was founded by **Chandragupta Maurya**.
+He defeated the Nanda Empire and the Macedonian Seleucid Empire,
+and having defeated Alexander the Great, he was able to unify India.
+The Iron Pillar of Delhi is sometimes attributed to him, but that theory was probably discredited.
+
+Chandragupta's grandson, Bindasura's son,
+**Ashoka** (273--232 BC), is considered perhaps the greatest ruler of ancient India.
+He took the throne after killing some of his relatives (but spared his brother, Tissa).
+He conquered the Kalinga empire, an action that changed him forever,
+since he adopted Buddhism as his new religion.
+After his conversion,
+he put up edicts on columns all over the place to promote non-violence and animal rights,
+and he became mostly a pacifist ruler.
+One of those columns at Sarnath has four lions on it,
+along with a 24 spoke wheel of righteousness, a symbol which would be placed on the Indian flag.
+
+==== Gupta Dynasty (240 -- 550)
+
+**Chandra Gupta II** was the most important ruler during this time,
+and the Gupta Empire was biggest under him.
+Besides that, not a lot of hugely notable things happened around this time.
+There would follow periods of India being invaded repeatedly by people from
+all over the place, including Persia, Scythia, Parthia, and more.
+
+Until we get to a point in history where India starts to interact with the rest of the world more,
+let's move up a little bit and take a look at China.
+
+=== Chinese Dynasties
+
+The history of China until modern times is largely one of dynasties.
+Here are the most important ones.
+
+==== Shang Dynasty (1600 -- 1046 BC)
+
+The Shang is the first real Chinese dynasty with written records,
+succeeding the lesser known Xia dynasty.
+The writings are found on "`oracle bones`",
+which were bones that were heated and used to tell the future in a practice called pyromancy.
+Their capital was near Anyang.
+The emperor Wu Yi was killed by a bolt of lightning,
+because he was quite vocal about not liking the god of lightning and thunder very much.
+Other notable emperors include Wu Ding and Fu Hao.
+Then, the emperor Xi Din lost the battle of Muye and killed himself,
+leading to the Zhou dynasty ruling.
+
+==== Zhou Dynasty (1046 -- 256 BC)
+
+The Zhou was the longest lasting period of Chinese history.
+During the Zhou, the use of iron began.
+When the Zhou capital was sacked, the Eastern Zhou and the **Spring and Autumn period** began.
+Intellectualism flourished at this point;
+Sun Tzu wrote __The Art of War__
+and the Hundred Schools of thought (one of which was **Confucianism**) were introduced.
+
+However, during the Zhou dynasty, real power rested with the feudal lords, so
+by the end of this really long dynasty,
+everything fell apart into seven separate warring states.
+When the fighting had settled, the state of Qin was victorious.
+
+==== Qin Dynasty (221 -- 206 BC)
+
+A short, but important dynasty,
+consisting almost entirely of one important emperor: **Qin Shi Huangdi**.
+He burned a lot of books, so people tend to not think too highly of him.
+He also standardized weights, unified Chinese writing,
+and begin building a Great Wall which you may have heard of.
+Along with his minister Li Si, he implemented **Legalism**.
+When he died, he was buried near Xi'an with a massive and famous terra cotta army.
+
+Qin Shi Huangdi had created the first truly unified China,
+but his death, the dynasty was mismanaged into failure, and it collapsed quickly.
+
+==== Han Dynasty (206 BC -- AD 220)
+
+A golden age of China that had a lasting impact,
+the Han dynasty names China's predominant ethnic group today.
+The emperor **Gaozu** (aka Liu Bang) founded the dynasty, even though he was born as a peasant.
+He reunited China and made a new capital at Chang'an (now Xi'an).
+
+One of the greatest rulers of China was **Wudi**, who expanded China greatly.
+He reformed government and he made Confucianism the new official doctrine.
+An official named **Wang Mang** temporarily overthrew the Han dynasty
+to try and make a new Xin dynasty, but it didn't take.
+Wang Mang died at Chang'an, and Emperor Guangwu took back the throne.
+
+By the end, the Han dynasty had faced the **Yellow Turban Rebellion**,
+a Taoist peasant revolt during the reign of Emperor Ling.
+The Yellow Turban Rebellion was the opening to the Period of the Three Kingdoms.
+
+==== Period of the Three Kingdoms (184 -- 280)
+
+A short and violent period in history.
+The classic novel __Romance of the Three Kingdoms__ ensured that it's still well known today.
+The three kingdoms were Wei, Shu, and Wu:
+Cao Wei north of the Yangtze,
+Eastern Wu in the lower Yangtze,
+and Shu Han in Sichuan.
+
+The **Battle of Red Cliffs** (208) was fought between Liu Bei and Sun Quan,
+(although admittedly it overlapped a bit with the Han dynasty).
+It set up the basis for the states of Shu and Wu.
+
+Eventually, Cao Wei managed to defeat the other kingdoms, but failed to reunify China.
+China ended up going through a short period of Southern and Northern dynasties,
+but not a lot of things I care about happened during that time, so let's skip to the Tang dynasty.
+
+==== Tang Dynasty (618 -- 907)
+
+The Tang dynasty succeeded in reuniting China after the Sui dynasty (very short dynasty) fell.
+It brought another golden age in China:
+important people such as **Li Po** and Du Fu worked and the printing press was invented.
+
+The Tang dynasty moved the capital back to Chang'an and was also ruled by **Gaozu**.
+His son, emperor Taizong (aka Li Shimin), deposed him and became a great ruler,
+consolidating power fairly effectively and conquering a lot more of western China.
+He was succeeded by Empress **Wu**, the only woman to be emperor of China,
+presiding over the "`second Zhou dynasty`".
+The Tang also fought three wars against the Three Kingdoms of Korea (Gorguyeo, Beakje, and Silla).
+
+Later, during the reign of Xuanzong, the **An Lushan** rebellion tore apart the Tang.
+Even though it was quelled, the revolt had lasting effects that ended up beginning the
+periods of the five dynasties and the Ten Kingdoms.
+
+==== Song Dynasty (960 -- 1279)
+
+Soon afterwards, the Song dynasty began.
+This was a time dedicated to culture, not warfare; to engineering, not killing.
+Gunpowder was discovered, the first compass was made,
+a standing navy was established, and paper money was circulated.
+
+The first ruler was **Taizu**, and he realized that he could save his own neck if he
+asked all the generals and military people around China to retire.
+This resulted in scholars being far more dominant during the Song dynasty.
+
+The capital was moved to Kaifeng, which was captured by the Jin dynasty from the north.
+So, the Song fled down south and made a new Southern Song dynasty with capital at Hangzhou,
+and the Jin didn't bother them any more.
+But then the Mongols came down and destroyed the Jin,
+with the help of the Song (more on that later).
+The Song didn't realize that the Mongols wanted their territory too,
+so even though they lasted a while under Mongol attacks, they eventually were defeated.
+
+==== Yuan Dynasty (1271 -- 1368)
+
+The Mongols established the Yuan dynasty, most notable for the emperor **Kublai Khan**.
+The dynasty was created after the Battle of Yamen, and the capital was at Dadu.
+We'll talk more about the Mongols and the Khans later in the book.
+
+In the 1350's, the White Lotus Society (Buddhists) created an army to go against the Yuan dynasty.
+This **Red Turban Rebellion**, led by Zhu Yuanzhang,
+would bring about the demise of the Yuan and the rise of the Ming within a few years.
+
+==== Ming Dynasty (1368 -- 1644)
+
+The rulers of the Ming dynasty were the Zhu family.
+Everyone knows about their porcelain work, notably their vases.
+This dynasty originated the use of the word "`china`" to describe high quality porcelain.
+
+The emperor **Hongwu**, who had led the Red Turbans, founded the dynasty.
+The eunuch Zheng He led fleets on treasure voyages to show off how rich they were.
+
+This is also when China's capital was moved to Beijing,
+and Yongle built the **Forbidden City**.
+The Ming dynasty collapsed as a result of a failing economy
+coupled with the invasion of the Manchu people from the north.
+
+==== Qing Dynasty (1644 -- 1911)
+
+The Manchurian Qing dynasty was the last dynasty of China.
+They created the banner system, and the emperor Kangxi quelled the Revolt of the Three Feudatories.
+The dowager empress Cixi weakened the dynasty, and at one point,
+they were also threatened by a **White Lotus Rebellion** against Emperor Chia Ch'ing;
+the rebellion was almost successful because of a corrupt government under Ho-shen.
+The three great emperors were Kangxi, Yongzheng, and Qianlong.
+Other notable emperors include Guangxu.
+However, the dynasty ended because the later emperors weren't very effective.
+
+The **Taiping Rebellion** lasted from 1850 to 1864.
+The Christian Hong Xiuquan led a fairly bloody revolt against the Qing,
+aided by his God Worshiper's Society.
+Hong Xiuquan said that he was Jesus's younger brother
+(the genealogy might not side with him on that particular issue).
+The rebels set up a base at Nanking.
+The Qing were aided by foreign powers,
+which helped create the **Ever Victorious Army**,
+under the command of Frederick Townsend Ward, and later Charles George "`Chinese`" Gordon.
+The rebellion ended with the fall of Nanking and a Qing victory.
+
+In 1899, foreign spheres of influence were growing in China.
+Locals such as the Society of Righteous and Harmonious Fists ("`Boxers`")
+weren't particularly thrilled.
+They decided to fight back against the Unequal Treaties and the Open Door policy
+that other countries had created in China, starting the **Boxer Rebellion**.
+During the rebellion, Boxers killed foreign missionaries during the Taiyuan Massacre.
+Boxers converged on Beijing and laid siege to the Legation Quarter,
+and the Empress Dowager Cixi decided to support them.
+Thus began a conflict between Cixi and the Boxers and the Eight-Nation Alliance against them.
+The siege of the legations was lifted in 1900 and the Boxer Protocol was implemented.

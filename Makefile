@@ -1,4 +1,4 @@
-DEPS=history.tex tex/*.tex
+DEPS=history.adoc adoc/*.adoc themes/*.yml
 
 all: epub pdf
 .PHONY: all
@@ -17,11 +17,16 @@ upload-pdf: pdf
 epub: $(DEPS) pdf
 	convert history.pdf[0] pdfcover.jpg
 	pandoc -f latex history.tex -t epub3 -o history.epub --epub-cover-image pdfcover.jpg
-.PHONY: upload-epub
+.PHONY: epub
 
 pdf: $(DEPS)
-	latexmk -pdf -quiet -pdflatex=pdflatex --shell-escape history.tex
-.PHONY: upload-pdf
+	asciidoctor-pdf -a pdf-themesdir=themes/ -a pdf-theme=history.yml -a pdf-fontsdir=fonts/ history.adoc
+.PHONY: pdf
+
+html: $(DEPS)
+	asciidoctor -a pdf-themesdir=themes/ -a pdf-theme=history.yml -a fontsdir=fonts/ history.adoc
+.PHONY: pdf
+
 
 clean:
 	$(RM) history.epub

@@ -1,0 +1,740 @@
+== Medieval Times
+
+[quote.epigraph, Alfred the Great]
+
+  In prosperity a man often destroys the good he has done;
+  amidst difficulties he often repairs what he long since did in the way of wickedness.
+
+
+After the fall of the Western Roman Empire, the Middle Ages started.
+They would last until the start of the Renaissance in the 15th century,
+and they were full of massive population growth and war in Europe.
+Let's look at some areas of Europe in particular.
+
+=== England: A New Monarchy
+
+==== Anglo-Saxon England
+
+Near the beginning of the Middle Ages, the Anglo-Saxons lived in England,
+a result of Germanic tribes moving north across the English Channel.
+Anglo-Saxon England was traditionally considered a heptarchy, consisting of
+Northumbria, Mercia, East Anglia, Essex, Kent, Sussex, and Wessex.
+By the 7th century, many of the Anglo-Saxons had converted to Christianity.
+The Venerable **Bede** chronicled the era, earning him the title "`Father of English History`".
+
+The kingdom of Mercia rose to prominence in the 7th century,
+building massive earthworks like Offa's Dyke,
+which separated modern-day Wales from the rest of England.
+By the late 8th century, Viking raiders began to invade the island.
+These Danes were led by **Guthrum**,
+whom we don't know much about before he seized control of the Danes.
+Other Viking leaders of the invading forces included Ivar the Boneless, son of Ragnar Lodbrok.
+They subdued East Anglia, capturing York.
+
+**Alfred the Great**, king of **Wessex**, son of &AElig;thelwulf,
+fought back against Guthrum.
+He created a network of fortified towns called burhs
+(these would be turned into boroughs eventually)
+to defend Wessex and defeat the invaders, who had formed the **Great Heathen Army**.
+Alfred was victorious at battles such as Eddington and Ashdown.
+He then confined Guthrum in a region thenceforth known as the Danelaw
+and he proclaimed himself king of all the English.
+His coronation was performed by Pope Leo IV,
+and he compiled a census of England called the Doom Book
+(not to be confused with the Domesday Book that would be made later).
+He introduced a system of shires, hundreds, and tithings to divide England into governable portions.
+Alfred remains the only English king to ever be called "`the Great`".
+
+Alfred was eventually succeeded by **Edgar the Peaceful**, and by the end of Edgar's reign,
+Wessex had taken control of the rest of England, including York and the Danelaw.
+When Edgar died only two years after being crowned at Bath,
+the issue of who should succeed to the throne was thrown into doubt.
+Edgar's son Edward was crowned king, but he was quickly assassinated.
+
+He was followed by Edgar's half-brother, **&AElig;thelred the Unready**.
+As his name may suggest, his reign didn't go very well, even though he did rule for a long time.
+It's been written that he defecated in his baptismal font,
+leading to a prophecy that the English crown would fall under his reign;
+however, that story is probably entirely fake (entertaining, though).
+It's now believed that he was simply the victim of bad counsel, and wasn't actually particularly "`unready`".
+He married Emma, a princess of Normandy.
+While he was king, England was invaded by Danes again, led by Sweyn Forkbeard,
+provoked by &AElig;thelred's St Brice's Day massacre.
+The Vikings pillaged through Essex, an action that resulted in the **Battle of Maldon**,
+where the Vikings easily crushed the English.
+From that point forward, the Vikings roamed the countryside,
+apparently free to take whatever they pleased,
+while &AElig;thelred simply hid in his basement.
+Sweyn found &AElig;thelred and forced him into exile.
+Soon after, though, Sweyn died, and &AElig;thelred was able to come back to England.
+
+Angered at &AElig;thelred, **Cnut**, son of Sweyn, invaded England.
+&AElig;thelred's son, Edmund Ironside, abandoned his father,
+and multiple English nobles took Cnut's side.
+But &AElig;thelred died and Edmund was forced to fight the Danes.
+At the battle of Ashingdon, the Danes overpowered the English and Cnut and Edmund split England;
+Edmund took Wessex, and Cnut took everything else.
+When Edmund died (probably murdered), the English witan council declared Cnut king of England.
+Cnut married &AElig;thelred's widow Emma,
+who agreed only because he agreed to allow her children to be heirs to the throne.
+However, Cnut had had a previous wife, and her children also wanted the throne.
+
+When Cnut died in 1035, the throne was disputed.
+The claimants were Harold Harefoot (Harold I, son of Cnut) and Emma's son by Cnut, Harthacnut.
+Emma's son by &AElig;thelred, Edward, tried to raid Southampton, but failed,
+and his brother Alfred was killed later.
+Harthacnut became king on the death of Harold Harefoot, but he was unpopular,
+and nobody wanted his heirs to become king.
+When he died, Edward came back from exile and was recognized as king.
+
+Edward, known to us as **Edward the Confessor**,
+married the daughter of Earl Godwin of Wessex in order to secure an alliance.
+When the citizens of Dover killed Edward's relative Eustace of Bolougne
+(probably a response to Edward's appointment of Robert of Jumieges as Archbishop of Canterbury)
+and Godwin refused to punish some people who killed Edward's relatives,
+Edward had a falling out with Godwin, and the Godwins ran away to Normandy.
+During the conflict, Edward was regularly working with and for the earls Siward and Leofric.
+At this point, Edward might have offered the succession to his cousin, William, duke of Normandy.
+However, the king reconciled with Godwin some time later, so when Godwin died in 1053,
+his son, **Harold Godwinson**, acceded to the earldom in Wessex.
+Godwin's other sons were given East Anglia, Mercia, and Northumbria.
+
+In 1066, Edward died, and Harold Godwinson was declared king of England.
+For the following year, England was in turmoil because even though Harold had taken the crown,
+there were those who believed it wasn't his to take.
+Recall that Edward had likely given a promise of succession to his cousin,
+William, Duke of Normandy.
+**Harald Hardrada** of Norway, descendant of Cnut, also staked a claim to the throne,
+because that's what Vikings had been doing for a few years at this point.
+
+Harold's brother Tostig, leader in Northumbria, allied himself with Hardrada.
+Hardrada invaded Northern England, fighting the Battle of Fulford near York,
+but he was killed at the **Battle of Stamford Bridge** by Harold Godwinson's forces.
+
+While Harold was celebrating his victory,
+William of Normandy sailed for England and landed at Pevensey.
+Harold marched back south, where he met William at the **Battle of Hastings**,
+near Senlac Hill and Telham Hill.
+Harold tried to use housecarls and shield walls to defend from William's archers.
+William crushed Harold's forces at Hastings, and Harold himself got an arrow in the eye.
+The battle was chronicled on the **Bayeux Tapestry**,
+which notably shows Halley's comet in the sky.
+The site of the battle is now home to a church called Battle Abbey.
+As a result of his achievement, William is known to us as **William the Conqueror**.
+
+==== Anglo-Norman England
+
+William the Conqueror, now William I, king of England, quickly moved to consolidate his power.
+His people were revolting all over the place, and he crushed each uprising,
+building a set of castles to control them.
+These revolts included one led by the Earls Edwin and Morcar.
+He led a massive and bloody expedition through the north of England,
+killing those who stood in his way, called the **Harrying of the North**.
+He commissioned a census of the country, and recorded it in the **Domesday Book**.
+At the **Trial of Penenden Heath**, William investigated Odo of Bayeux for stealing lands.
+His archbishop was Lanfranc, and he stopped Edward &AElig;theling, Harold Godwinson's successor.
+Orderic Vitalis, when chronicling William's rule, says that William admitted to being a "`barbarous murderer`"
+when he died in 1087 after falling off his horse at the Siege of Mantes.
+
+**William Rufus** (William II) inherited his father's throne,
+but he also faced revolts from his brother Robert and his cousin Stephen.
+When William II died in a hunting accident (he may have been murdered),
+his brother Henry I quickly moved to take the crown.
+
+**Henry I**, "`Beauclerc`",
+defeated his brother Robert Curthose, duke of Normandy, at Tinchebrai.
+He recalled St. Anselm as Archbishop of Canterbury, but exiled him again.
+His son William Atheling drowned in the **White Ship** disaster of 1120.
+This was particularly problematic,
+because even though Henry had at least twenty children, they were almost all illegitimate.
+The only reasonable heir was his daughter,
+the **Empress Matilda** (married to Henry V, Holy Roman Emperor),
+who was unpopular because she was a woman.
+On Henry's death in 1128, yet another power struggle broke out;
+Matilda disputed the claim of **Stephen of Blois**, Henry's nephew.
+This civil war was called the **Anarchy**, and it resulted in the rise of a new dynasty.
+
+==== The Plantagenets
+
+===== Henry II
+
+Eventually, **Henry II**, Matilda's son by Geoffrey Plantagenet of Anjou, was crowned king.
+Henry had been born in Anjou, making him the first of the Angevins,
+and the first member of the **House of Plantagenet** to be king.
+Henry married Eleanor of Aquitaine after her marriage to Louis VII of France was annulled.
+
+He got into disputes with the Church, and wanted power over them.
+To do this,
+he appointed his good friend **Thomas Becket** to the position of Archbishop of Canterbury,
+believing that Becket was a man that would be loyal to him.
+The Church wasn't pleased with this decision,
+as Becket had been a political rather than religious figure for most of his life.
+So, Becket went about changing their mind.
+He ended up becoming a thorn in Henry's side,
+fighting to give the Church unrestricted power and freedom.
+Obviously Henry didn't like this at all,
+and he issued the **Constitutions of Clarendon** to restrict the power of Church courts
+and the power of the pope (Alexander III) in England.
+Becket resisted, and Henry exiled him to France.
+
+In 1169 Henry wanted to crown his son (Young Henry) as king along with himself.
+This required Becket to agree, so Henry tried to reconcile with him and he failed.
+Henry crowned his son by himself, and Becket laid an interdict on England,
+stopping useful Church activity like weddings.
+Eventually, Henry got fed up with Becket and he got really mad, saying things like,
+``What miserable drones and traitors have I nourished and brought up in my household,
+who let their lord be treated with such shameful contempt by a low-born cleric?''
+(often misquoted as "`Will no one rid me of this turbulent priest?`").
+Perhaps in response to this, four knights went secretly to Canterbury and killed Becket,
+resulting in Becket being declared a martyr and a saint.
+
+Henry wanted some more territory for his sons, so he invaded Ireland, conquered it,
+and set up local fiefdoms to rule over the island.
+He then faced the Great Revolt in which elder sons supported by France's Louis VII rebelled.
+John was the only son that didn't rebel against Henry.
+
+===== Richard I
+
+Henry II was succeeded by **Richard I, the Lionheart** in 1189,
+because Henry's three eldest children (William, Henry, and Geoffrey) had died.
+Richard spent his reign mostly protecting his territory and fighting the Third Crusade in the East.
+He married Berengaria of Navarre
+and was killed by a crossbow fired from Chateau de Chalus-Chabrol in 1199.
+
+===== King John
+
+Richard's youngest brother **John Lackland** inherited the throne.
+King John negotiated the Treaty of Le Goulet with Philip Augustus of France in 1200,
+giving away a large chunk of the land in France
+that his predecessors had spent so much time putting together.
+When he abandoned Isabel of Gloucester in order to marry Isabella of Anguleme,
+the peace was broken.
+John had claimed that he hadn't obtained papal consent to marry Isabel in the first place.
+
+John took William de Roches, his seneschal, and defended his lands in Normandy,
+and won the Battle of Mirebeau.
+However, Philip later won the chaotic **Battle of Bouvines** against John and his allies.
+Perhaps victory in France would have sparked the nobles' confidence in John,
+but his loss just made people even less satisfied with his annoying rule.
+
+The nobles eventually lost faith in John, and at Runnymede,
+they forced him to sign **Magna Carta**,
+which gave them permission to overpower him if they didn't like what he did.
+Magna Carta also ensured that raising taxes for scutage (ability to raise ransom)
+and other acts could not be done without "`common counsel of the realm`".
+John eventually reneged on Magna Carta, so the barons gave up and decided to revolt.
+Pope Innocent III excommunicated John and John lost at Poitou.
+This resulted in the First Barons' War, and John was succeeded by his son Henry.
+
+===== Henry III
+
+**Henry III** came to power as a child, and his reign was filled with rebellion.
+The barons reformed government under the **Provisions of Oxford**
+Simon de Montfort became a de facto ruler, drastically reducing the power of the king,
+going into the Second Barons' War as well as establishing a more modern Parliament.
+When Henry invaded France, he lost at the Battle of Taillebourg.
+Henry's son, Edward, stopped the rebellion and restored Henry to power.
+
+===== Edward I
+
+**Edward I, Longshanks**, rebuilt the monarchy,
+which had fallen into shambles as a result of the ineffective reigns of John and Henry III.
+Edward aimed to consolidate his power in Scotland,
+which had previously had a slightly fuzzy relationship with the English crown.
+He made **John Balliol** king in Scotland, thinking that John would be loyal to him.
+He was wrong.
+Balliol was succeeded by John Comyn, and Edward invaded Scotland.
+
+At the Battle of Stirling Bridge, he was repulsed by the Scots,
+who were led at that point by **William Wallace**.
+But he struck back and the English defeated the Scots at the **Battle of Falkirk**.
+When Edward captured and killed Wallace, **Robert the Bruce** rose to power in Scotland.
+Robert killed John Comyn by stabbing him to death on an altar.
+Edward would be known to posterity as "`The Hammer of the Scots`",
+and when he died, he was succeeded by his son.
+
+===== Edward II
+
+**Edward II** would proceed to have a fairly pathetic time as king.
+He married Isabella of France, daughter of Philip the Fair.
+His favorite, Piers Gaveston,
+was so heavily favored by him that the populace forced Gaveston into exile.
+Edward tried to continue his father's subjugation of Scotland,
+but he failed when Robert the Bruce completely humiliated English forces
+at the **Battle of Bannockburn**.
+
+===== Edward III
+
+**Edward III** was a courageous and great ruler of England.
+He defeated the Scots at Halidon Hill, and took back a substantial portion of Scotland.
+He started the Hundred Years' War with France following the Battle of Sluys,
+and through outmaneuvering, won the **Battle of Cr\'ecy** in 1346.
+Edward also set up the Order of the Garter and won the Battle of Poitiers.
+The English lost at the disastrous naval Battle of La Rochelle.
+
+Edward's sons were Edward the Black Prince and John of Gaunt.
+The Black Prince won the Battle of Poitiers, and he was the father of Richard II, who would be king.
+The prince's death prevented him from ever becoming king himself.
+
+===== Richard II
+
+When **Richard II** came to power, he was only ten years old.
+He faced a **Peasants' Revolt** led by **Wat Tyler** for taxes that were too high.
+The rebellion was stopped when the Lord Mayor William Walworth killed Tyler.
+
+===== Henry IV
+
+**Henry IV** of Bolingbroke claimed that he was descended through Edmund Crouchback,
+who may have been the oldest son of Henry III.
+Not a lot of people really believed him.
+He decided to go on the offensive and took the crown by force, imprisoning Richard.
+Richard would later die for some unknown reason.
+Henry restarted the Hundred Years War and he stopped rebellions
+in Scotland (by the Percys) and in Wales (by Owain Glyndwr).
+Henry IV died in 1413.
+
+===== Henry V
+
+He was succeeded by **Henry V**, a ruthless king who really liked war.
+He invaded France, taking advantage of Charles VI of France's illness,
+and took Caen, Rouen, and went to Calais.
+He participated in the Siege of Harfleur, and after that,
+his army, outnumbered three to one,
+won the **Battle of Agincourt** on St. Crispin's Day in 1415.
+At Agincourt, the Duke of Brabant showed up late but he was killed quickly.
+The French were led by Charles d'Albert, and they stole a crown from the English during the battle.
+D'Albert then led the French straight into a line of pikes
+that the English had driven into the ground for defense.
+The English won in large part because of their Welsh longbows.
+The battle led to the Treaty of Troyes.
+Henry took back Normandy, and he married Catherine of Valois.
+He died in 1422 and was succeeded by his infant son.
+
+==== Wars of the Roses
+
+Henry IV, Henry V, Henry VI were members of the **House of Lancaster**,
+which would come to fight the **House of York** in the Wars of the Roses,
+so named because of the roses
+that were the insignia of the warring houses (red and white respectively).
+
+**Henry VI** started his reign young, but even when he grew up, he would be a weak king.
+Many people would rise up against him,
+including Richard Neville, Earl of Warwick, "`the Kingmaker`".
+Warwick's cousin was a naval commander --- Thomas Neville, the Bastard of Fauconberg.
+Henry had a mental breakdown, and Richard, Duke of York, was named regent in his stead.
+
+When Henry became sane again, Richard of York and the Nevilles decisively defeated
+him and the House of Lancaster at the **First Battle of St. Albans**.
+It wasn't a big battle and few men died, but some of those killed were fairly important people.
+However, popular support wasn't really with York, and they fled.
+When they returned, they won the Battle of Northampton and captured Henry.
+They reached an agreement called the Act of Accord, according to which Henry would stay king,
+and when he died, the House of York would take the crown.
+
+**Edward IV** of York took the throne after he won the Battle of Towton.
+However, his marriage would lead to him being deposed and Henry VI being restored to the throne.
+Edward returned and his victory as the Battle of Tewkesbury
+and subsequent murder of Henry wiped out the Lancastrians.
+
+At this point, the House of York seemed to be fairly solidly set as the new ruling family.
+When Edward IV died, he was succeeded by his brother Richard,
+who took the throne and became **Richard III**, under the __Titulus Regius__ statute.
+Richard had supposedly imprisoned Edward's children (Edward V and his brother).
+Richard had married Anne Neville after an argument with George, Duke of Clarence, and Edward IV.
+Edward's sons were never seen again, leading to the legend of the "`Princes in the Tower`".
+
+By 1483, Lady Margaret Beaufort of the House of Tudor was actively promoting her son Henry
+as a better alternative to Richard III.
+Henry tried to take England, but his plans fell apart and he ran away to France,
+living in exile in Brittany for a year.
+He put together an army, getting help from the Welsh by using a dragon flag to show his ancestry.
+In 1485, he landed at Milford Haven to try again,
+realizing his best chance was to attack Richard and defeat him quickly.
+
+Henry met Richard at the **Battle of Bosworth Field** near Ambion Hill.
+The Yorkist army deployed on the hilltop so that Richard could see the whole area.
+Henry's army had very few Englishmen in it --- many were Scottish and French.
+His army was commanded by the Earl of Oxford, who was assisted by the Lords Stanley
+(who initially hung back but then decided to join when they felt like it).
+When the battle began, Henry was maneuvering around trying to get into a better position.
+The first charge was led by John Howard, Duke of Norfolk.
+
+At one point, when Henry rode to join the Stanleys, Richard decided to charge and kill him quickly.
+He killed Henry's standard-bearer Sir William Brandon and unhorsed John Cheyne,
+but Henry was still very well guarded.
+Richard had come close to Henry,
+but his group was surrounded gradually and Henry's Welshmen hacked him to death.
+After the battle, Richard was buried at Grey Friars monastery.
+Richard's circlet was brought to Crown Hill,
+where Henry Tudor was crowned **Henry VII**, king of England.
+
+Henry VII was the first of the Tudors to rule England,
+and we'll see more of him and his wild and crazy descendants later.
+
+=== France: The Capetians
+
+When we looked at France last time, Charlemagne was in power.
+In 814, he died, and his heirs were incompetent, so the empire started to break.
+In 843, the grandsons of Charlemagne (the sons of Louis the Pius)
+signed the **Treaty of Verdun**.
+The treaty split the Carolingian empire between Louis the German, Charles the Bald, and Lothair.
+Louis the German received the east, which would eventually become the kingdom of Germany,
+Charles the Bald got modern-day France,
+and Lothair took the Low Countries and Italy.
+
+==== Capetians
+
+Viking advances and infighting amongst French royals
+would result in the downfall of the Carolingians.
+In 987, an assembly in Reims elected **Hugh Capet** to the position of King of the Franks.
+The dynasty he founded, the **Capetians**, would rule France for over eight centuries,
+along with its friends the Valois and Bourbons.
+Hugh's son, Robert the Pious, was elected king before Hugh died, in order to ensure succession.
+
+In the land of the Franks, **Philip I** came to power in 1060 and ruled until 1108.
+His reign included the First Crusade, which I'll talk about in another section soon.
+This was also the time that William the Conqueror was invading England.
+
+Starting with the reign of **Louis VI**, royal authority in France became more accepted.
+Louis liked war, and he was assisted by Abbot Suger regarding non-military things.
+He was succeeded by his son **Louis VII**, who people tended to like.
+He married Eleanor of Aquitaine, and also saw a crusade.
+However, his marriage was annulled, and Eleanor would marry Henry II of England.
+
+**Philip II Augustus** recovered much of Normandy from England (under John's rule at the time);
+recall the Battle of Bouvines, England was mostly ousted from France.
+He founded the Sorbonne, and he made Paris a more intellectual city.
+
+In 1218, on Sicily, the bad rule of Charles I of Anjou forced a rebellion,
+in favor of **Peter III of Aragon**.
+This revolt was known as the **Sicilian Vespers**.
+A phase of the War of the Sicilian Vespers was the Aragonese Crusade.
+After the war, the Sicilians won and Angevin rule was kicked off the island.
+
+France would become even more centralized under **Louis IX** (1226--1270).
+His mother was was Blanche of Castile.
+He fought Henry III in the Saintonge War, in which Henry tried to take back England's old territory.
+Louis defeated Hugh of Lusignan and Henry III of England at the Battle of Taillebourg.
+On completion of the war, he supported new forms of art,
+and he commissioned the Saint-Chapelle, a Gothic building.
+He participated in the Seventh and Eighth Crusades.
+Louis's nephew was **Robert of Artois**,
+an experienced soldier who participated in the Aragonese Crusade.
+He also won the Battle of Furnes against the Flemings,
+and in 1302, he went into Flanders and won the Battle of the Golden Spurs.
+On his death in 1270, he became the only canonized king of France, St. Louis.
+
+Philip III and **Philip IV** (Philip the Fair) followed Louis IX.
+Philip IV tried to invade Aragon, and failed miserably because of an epidemic.
+The latter elevated his monarchy to a glorious position.
+He focused on the north of France, and he forced England out of Gascony.
+He got into an argument with Pope Boniface VIII for taxing the clergy in 1296.
+Eventually he would put his own pope into the papacy that got moved to Avignon.
+He also destroyed the Knights Templar; we'll deal with them more during the Crusades section.
+Philip IV died in 1314, and his son Louis X ruled shortly before he died of sickness.
+
+The throne then passed to his brother **Philip V**.
+He made peace with Flanders, and he continued to fight with Edward II of England regarding Gascony.
+He put down the Pastoreux uprising when his hand was forced by Pope John XXII.
+He was succeeded by his brother, Charles IV.
+
+==== Hundred Years' War
+
+When Charles died in 1328, it signaled the end of the main line of the Capetians.
+Thus, the crown passed down to Philip VI, son of Charles of Valois.
+The standing enmity between England and France turned into the Hundred Years' War, discussed above.
+Just as England experienced a peasant revolt in 1381,
+France experienced the **Jacquerie** in 1358.
+
+France was pushed back in the beginning of the war (1337--1360), and they began to push back later.
+However, when Henry V of England won at Agincourt, France fell into chaos.
+Seven years later, Henry VI was declared king in Paris by the Treaty of Troyes,
+and the Valois were pushed back.
+
+In 1429, **Joan of Arc** was seemingly given instructions
+from Saints Michael, Catherine, and Margaret.
+She went and met the Dauphin Charles VII at Orleans, and he was impressed by her.
+She then went to the siege of Orleans, and she helped lift the siege (claiming she had seen a sign),
+leading to her being known as "`the Maid of Orleans`".
+The victory helped crown **Charles VII** king in Rheims.
+She went on to rout John Fastolf at the Battle of Patay, aided by La Hire.
+She wielded an old sword that was found behind St. Catherine's altar.
+However, she was captured by Burgundians at the Compiegne, due to a mistimed drawbridge.
+Then, she was sold to the English John of Luxembourg,
+tried by Bishop Chaucon, and burned at the stake for witchcraft.
+She would be sainted in 1920.
+
+The French went on to drive England back out of France.
+Other notable battles during the Hundred Years' War included:
+Bauge, where the French won;
+Poitiers, where the British crushed the French;
+and Formigny, where the French won.
+The last battle of the war is considered to have been the Battle of Castillon.
+
+==== House of Valois
+
+The first king of France of the House of Valois was **Francis I**,
+son of Charles of Angouleme.
+He succeeded Louis XII, who had died without an heir.
+Francis fought in the **War of the League of Cambrai** during the Italian Wars.
+During the final stage of that war, Francis routed the Papal States and the Old Swiss Confederacy
+at the Battle of Marignano.
+Other important battles include Agnadello,
+and France was placed under interdict by Julius II during this time.
+Pope Clement VII became a big ally of Francis.
+
+=== Germany: Holy Roman Empire
+
+The Germans were slowly being united under such leaders as Henry the Fowler.
+In 936, Henry's son **Otto I, the Great** was crowned as king at Aachen.
+He led Burchard III of Swabia and Conrad the Red of Lorraine into battle
+against the Magyars at the Battle of Lechfeld in 955.
+Note that the Magyars had previously lost the Battle of Pressburg.
+After receiving a plea for help,
+Otto led the First Italian Expedition to defend Adelaide, queen of Italy,
+who was imprisoned on Lake Garda by the usurper Berengar II,
+Otto married Adelaide and took Italy, becoming King of the Lombards.
+In 962, he was declared Holy Roman Emperor by Pope John XII.
+
+Later, **Henry IV** (1050--1106) began a clash with the Church.
+He disagreed with **Pope Gregory VII** over appointments to Catholic offices
+in what came to be known as the lay **Investiture Controversy**.
+After the pope decided to excommunicate him,
+Henry famously walked to and did penance for three days in the snows before Canossa in 1077.
+A cycle of excommunication and opposition continued between church and emperor,
+until 1122, when the **Concordat of Worms** between Callixtus II and Henry V
+was confirmed at the First Lateran Council,
+resulting in a temporarily cease of dispute.
+The Investiture Controversy resulted in a strengthening of the Church,
+helping increase piety in the lay population and setting up a climate for continuing the Crusades.
+
+At this point, trading in the Baltic Sea increased, and the **Hanseatic League** formed.
+The League was a set of major trading towns
+led by **Lubeck** which would dominate trade across the coast.
+The cities also included Cologne, Hamburg, Bremen, and Visby.
+The League established trading posts called __kontors__,
+and it forced the Treaty of Stralsund on Valdemar IV of Denmark.
+Members of the League were raided by privateers
+hired by Albrecht von Mecklenburg called the Victual brothers.
+
+In 1226, the **Teutonic Knights** began their conquest of Prussia.
+Prussia would evolve from the set of towns that the Knights established after their war.
+The knights' greatest enemies were probably a society called the Lizard League.
+They lost the Thirteen Years War, and their leaders included Hermann Von Salza.
+The knights fought against the Cumans for Andrew II of Hungary.
+They remained in power in Prussia until the Battle of Tannenberg in 1410.
+
+Eventually, the Hohenstaufen dynasty under **Frederick Barbarossa** (1152--1190)
+gave Bavaria to Henry the Lion, duke of Saxony.
+Austria became a separate entity, and Frederick tried to take Italy.
+
+Starting in 1438, the **Habsburgs** from the south and east parts of the empire
+would maintain a grip on the position of the Holy Roman Emperor.
+We'll see a lot more of the Habsburgs as time goes on.
+
+=== Scandinavia: Kalmar Union
+
+In 1397, the kingdoms of Denmark, Norway, and Sweden formed the **Kalmar Union**.
+The intent was to unite the three kingdoms under a single ruler,
+while still leaving the countries as separate states.
+
+The union was conceived by **Margaret I**, daughter of **Valdemar IV** of Denmark.
+She married into Norwegian royalty, and after she was recognized as regent in both countries,
+she adopted Bogislav of Pomerania and renamed him **Erik of Pomerania**.
+After defeating the unpopular Albert of Mecklenburg, king of Sweden, at the Battle of Asle,
+Erik was made ruler of all three kingdoms.
+
+The Union often came into conflict with the concurrent Hanseatic League.
+In the 1420s and 1430s, the Danes became embroiled in the Dano-Hanseatic War,
+after Erik introduced a tax on ships passing through the &Ouml;resund.
+
+The union began to fall apart, having to deal with insurrections like the Engelbrecht Rebellion.
+Erik was deposed, and succeeded by Christopher of Bavaria.
+On Christopher's death, the power vacuum was filled by **Charles VIII** in Sweden,
+who was subsequently also elected as king in Norway.
+However, the Danish Privy Council decided to put **Christian I** of Oldenburg in power,
+resulting in a few (seventy) years of war between the Danes and the Swedes.
+
+Eventually, **Christian II** reconquered Sweden,
+killing the anti-unionist Sten Sture the Younger at the Battle of Bogesund.
+Along with Archbishop Gustavus Trolle,
+Christian started the **Stockholm Bloodbath**, killing many Sture supporters in late 1520.
+Trolle is now considered one of the great traitors of Sweden.
+The Swedes then rose up, and by the next year,
+they had reclaimed their country, and the Danish occupation surrendered Stockholm in 1523.
+The election of **Gustav Vasa** to the Swedish throne
+put the final nail in the coffin of the Kalmar Union.
+
+=== Crusades
+
+The **Crusades** were religious military campaigns with the goal of restoring Christianity.
+
+==== First Crusade
+
+The **First Crusade** (1096--1099) was declared by **Pope Urban II**
+in 1095 at the **Council of Clermont**.
+The main goal originally was to help **Alexius I Komnenos**, the Byzantine emperor at the time.
+At the Council of Piacenza, he asked Urban II for help repelling the Seljuk Turks in Anatolia.
+However, it quickly became about regaining Jerusalem and the Holy Land,
+and the crusaders expected help from Alexius.
+Anna Komnena, daughter of Alexius I, wrote the __Alexiad__,
+detailing his reign and his role in letting the Crusade go through the Byzantine empire.
+
+During the crusade, the Byzantine general Tatikios won a victory at Dorylaeum.
+Walter the Penniless (aka Walter Sans Avoir) and Peter the Hermit were defeated at Nicea.
+Other leaders in the conflict included Raymond of Toulouse, Bohemond, and Godfrey of Bouillon.
+It was ultimately successful in taking back the Holy Land.
+The prelude to the First Crusade was known as the People's Crusade.
+
+==== Second Crusade
+
+The **Second Crusade** (1145--1149) started as a reaction to Zengi's capture of Edessa.
+It was encouraged by Pope Eugenius III in the bull __quantum praedecessores__
+and it was championed by the preacher St. Bernard of Clairvaux
+(called in by the Archbishop of Mainz).
+The major generals in the crusade were Louis VII of France and Conrad III of Germany.
+The crusade ended when the siege of Damascus failed and it failed to take back the Holy Land.
+
+==== Third Crusade
+
+The **Third Crusade** (1189--1192) was another attempt to take the Holy Land.
+It was also known as the Kings' Crusade,
+since Philip II of France, **Frederick Barbarossa**,
+and **Richard the Lionheart** all led forces.
+Frederick died when he decided to ride his horse across the Saleph River,
+because the horse couldn't handle it and his armor was too heavy to swim with.
+The major leader for the Muslim side was **Saladin**.
+
+Saladin had previously defeated the **Assassins** at Masyaf
+(he covered the ground around his tent with chalk so he could see their footprints).
+The assassins were led by the "`old man of the mountain`",
+and their opiate-abusing ways would be stopped by Hulagu Khan.
+
+Richard and Saladin made peace at the Treaty of Ramla after the Battle of Arsuf,
+mostly because they were tired of fighting and they didn't feel like continuing.
+The crusade ended mostly successfully, capturing Acre and Jaffa, but failed to take Jerusalem.
+On the way home, Richard's disguises failed and he was captured by **Leopold V of Austria**,
+and was kept in various states of captivity for a couple years.
+
+==== Fourth Crusade
+
+The **Fourth Crusade** (1202--1204) tried to take Jerusalem by way of Egypt.
+Pope **Innocent III** called for the crusade, but nobody really cared.
+So Theobald III of Champagne held a tournament where various people, such as Fulk of Neuilly,
+attended and took the cross, to go on the crusade.
+Before the crusade started, the Venetians had been in deep debt.
+Doge Enrico Dandolo wanted to pay it off, and Alexius IV, the Byzantine prince, offered to do so.
+
+Boniface of Montferrat and Philip of Swabia met
+and agreed to take down the Byzantine emperor Alexius III.
+Because of this, the crusade ended up going to Constantinople.
+The crusaders attacked Galata Tower to break the chain across the Golden Horn.
+Eventually, they were able to enter the city and they sacked it for three days.
+At the end, Alexius III had been toppled and Alexius IV was in power.
+Only about a tenth of the crusaders ever made it to the Holy Land,
+so the very Christian intentions of the crusade simply turned into
+the extremely non-Christian sacking of Constantinople.
+
+After the Fourth Crusade,
+Innocent III called the **Fourth Lateran Council** of 1215
+to discuss papal involvement in the crusades.
+The most important result of the meeting
+was the establishment of the doctrine of transubstantiation,
+but it also made one confession a year mandatory and planned the Fifth Crusade.
+
+==== Later Crusades
+
+The **Albigensian Crusade** (1209--1229), also called the Cathar Crusade, didn't go east.
+Pope Innocent III called for this one to eliminate Catharism in Languedoc in the south of France.
+The Cathars were a sect of Christians that became known as the Albigensians.
+This crusade ended in far less Cathars being alive and the French crown growing in power.
+The crusade ended with a Treaty of Paris.
+
+The **Children's Crusade** (1212) tried to take Jerusalem peacefully.
+It failed pretty badly because it recruited children and some of them were sold into slavery.
+Notable leaders included Stephen of Cloyes,
+and the crusade was sent home by Philip II after reaching Saint-Denis.
+
+The **Fifth Crusade** (1213--1221) tried to take Jerusalem through Egypt (again).
+They lost to the Ayyubid state in Egypt and failed.
+
+The **Sixth Crusade** (1228) tried to take Jerusalem (do you see a pattern?).
+Holy Roman Emperor Frederick II delayed the start of the crusade;
+when they did set out, there was an outbreak of malaria.
+Very little fighting actually occurred, and the crusaders won a diplomatic victory.
+Pope Gregory IX, an enemy of Frederick,
+didn't like that Frederick declared himself king in Jerusalem.
+
+Louis IX of France participated in
+the **Seventh Crusade** (1248--1254) and **Eighth Crusade** (1270).
+The crusaders didn't take Jerusalem.
+
+The last crusade was the **Ninth Crusade**.
+
+=== Khans & Conquerors
+
+==== Mongol Empire
+
+The Mongolian plateau was home to the
+Khereid, Khamag Mongol, Naiman, Mergid, and Tatar tribal confederations.
+The Jin dynasty emperors worked to keep them feuding among themselves.
+During the 13th century,
+the harsh, dry, and cold steppes of central Asia would have very mild, wet conditions,
+which would contribute to a rise of Mongol military strength.
+One of the sons of the Mongol chieftain Yesugei was Temujin,
+whose family was killed in Tatars, leading him to swear revenge on those who would oppose him.
+By 1206, Temujin was crowned as the Khan of the Mongol Nation and he became **Genghis Khan**.
+
+According to legend, Genghis had been born holding a clot of blood in his hand,
+which meant that he would become a leader.
+Genghis Khan married Borte
+and he appointed his brother Shigi-Khuthugh to the position of supreme judge
+to oversee the Yassa law code that he made.
+He also was tolerant of religious freedom and he didn't tax those who couldn't take it.
+He encouraged literacy and adopted the use of the Uyghur script.
+Genghis's life was documented by Rashid al-Din and Juvaini.
+
+Genghis united the warring Mongol tribes into a single mighty force.
+His army was divided into arbans, zuuns, Mingghans, and tumens.
+He forbade looting of the enemy without permission and he set up a system to share spoils of war;
+he also set up a practice of holding victory feasts on a platform on top of captured nobles.
+Genghis expanded the Mongol empire,
+and pushed into central Asia, with the help of his general Subotai.
+In 1220, he sacked Samarkand.
+Before he died fighting the Tangut peoples in 1227,
+he named his son **Ogedei** heir to his empire in place of his other son Tolui,
+
+During Ogedei's reign, a grandson of Genghis, **Batu Khan**,
+overran the Bulgars and other peoples of southern Russia.
+When Ogedei died in 1241, his widow Toregene Khatun took over control of his empire.
+She was able to control most of it for a long while,
+but Batu's **Golden Horde** did not show up to the
+__kurultai__ that was held to choose the next khan,
+and the empire was thrown into imbalance.
+
+The Golden Horde was composed of the Blue and White Hordes,
+named for the colors of tents that they used.
+There was much more turmoil between the khans that I won't get into right now,
+but other leaders of the Golden Horde included Nogai, Uzbek, Berke, Jani Beg, and Hulagu Khan.
+Also recall that Kublai Khan invaded China and set up the Yuan dynasty in the mid-late 13th century.
+
+==== Tamerlane
+
+Some time in the 1320s, a man called Timur the Lame, or **Tamerlane**, was born.
+He founded the Timurid dynasty in Central Asia
+and referred to himself as the "`Sword of Islam`".
+He led his army around Asia,
+wrecking and plundering all towns he saw and creating pyramids of skulls outside of places he sacked.
+His capital was at Samarkand, he put down a tax revolt in Isfahan,
+and he built the White Palace in his birthplace of Shahrisabz.
+At Ankara, he captured Bayezid the Thunderbolt and he defeated Mahmud Tughluq and sacked Delhi.
+Tokhtamysh of the Golden Horde, one of Tamerlane's biggest rivals,
+lost Sarai to him at the Battle of Kur River.
+Tamerlane's other victories include the Battle of the Terek River and the Battle of Ankara.
+
+Tamerlane's life was chronicled by Ruy Gonzales de Clavijo,
+and he was buried in a tomb called Gur-e-Amir,
+which would be opened before Operation Barbarossa (see the World War II chapter).
+Tamerlane was be succeeded by his son, Shah Rukh.
+His grandson was Ulugh Beg,
+and one of his descendants was Babur, who would found the Mughal Empire.
