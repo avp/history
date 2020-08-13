@@ -114,21 +114,21 @@ Hoover's failure to deal with the situation correctly led to people not to like 
 Small shantytowns called "`Hoovervilles`" sprung up all over the place.
 As the Depression grew worse,
 feelings toward Hoover were summed up by a poem:
-[quote, E.J. Sullivan, The 1932nd Psalm]
-  Hoover is my Shepherd, I am in want, +
-  He maketh me to lie down on park benches, +
-  He leadeth me by still factories, +
-  He restoreth my doubt in the Republican Party. +
-  He guided me in the path of the Unemployed for his party's sake, +
-  Yea, though I walk through the alley of soup kitchens, I am hungry. +
-  I do not fear evil, for thou art against me; +
-  Thy Cabinet and thy Senate, they do discomfort me; +
-  Thou didst prepare a reduction in my wages; +
-  In the presence of my creditors thou anointed my income with taxes, +
-  So my expenses overrunneth my income. +
-  Surely poverty and hard times will follow me +
-  All the days of the Republican administration. +
-  And I shall dwell in a rented house forever. +
+[verse, E.J. Sullivan, The 1932nd Psalm]
+  Hoover is my Shepherd, I am in want,
+  He maketh me to lie down on park benches,
+  He leadeth me by still factories,
+  He restoreth my doubt in the Republican Party.
+  He guided me in the path of the Unemployed for his party's sake,
+  Yea, though I walk through the alley of soup kitchens, I am hungry.
+  I do not fear evil, for thou art against me;
+  Thy Cabinet and thy Senate, they do discomfort me;
+  Thou didst prepare a reduction in my wages;
+  In the presence of my creditors thou anointed my income with taxes,
+  So my expenses overrunneth my income.
+  Surely poverty and hard times will follow me
+  All the days of the Republican administration.
+  And I shall dwell in a rented house forever.
   Amen.
 
 
