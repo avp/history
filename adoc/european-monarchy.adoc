@@ -1,12 +1,11 @@
 == European Monarchy
 
-[quote.epigraph, Louis XIV]
-
-  I am the state.
-
+[quote.epigraph, "Louis XIV, maybe"]
+I am the state.
 
 The 17th century was full of war and crisis.
-The monarchs were powerful, and there's no question history from now on gets a bit more complicated.
+The monarchs were powerful, and history from now on gets a bit more complicated
+as this is really the heart of early modern history.
 
 === Thirty Years' War
 
