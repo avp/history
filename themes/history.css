@@ -733,6 +733,7 @@ b.conum * { color: inherit !important; }
 .quoteblock blockquote::before { content: ''; display: none; }
 
 .quoteblock:not(.epigraph), .verseblock:not(.epigraph) { padding: 0 20% 0 3%; border-left: 3px solid rgba(0, 0, 0, 0.3); }
+.quoteblock:not(.epigraph) blockquote, .verseblock:not(.epigraph) blockquote { font-size: 1.1rem; line-height: 1.4; }
 
 .quoteblock.epigraph { border: none; width: 100%; padding: 0 40% 0 10%; }
 .quoteblock.epigraph > blockquote { font-size: 1.05rem; text-align: left; }
