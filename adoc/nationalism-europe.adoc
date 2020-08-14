@@ -294,7 +294,7 @@ so let's examine the last of the Romanovs.
 
 ==== Alexander I
 
-**Alexander I** (1801--1825), the Blessed, son of Paul I, was around during the Napoleonic Era.
+**Alexander I** (1801{n-}1825), the Blessed, son of Paul I, was around during the Napoleonic Era.
 Some claim that he knew about the plot to assassinate his father and bring himself to power.
 
 He signed the Treaty of Tilsit with Napoleon on a raft in the Niemen River,
@@ -305,7 +305,7 @@ and he became King of Poland due to the Congress of Vienna, and Napoleon's fall.
 
 ==== Decembrist Revolt
 
-Alexander I was succeeded by **Nicholas I** (1825--1855).
+Alexander I was succeeded by **Nicholas I** (1825{n-}1855).
 Most notably, he faced the **Decembrist Revolt** in 1825.
 The Decembrists aimed to put either Sergey Trubetskoy or Constantine Pavlovich in charge.
 Trubetskoy ran away, and Pavlovich didn't show.
@@ -318,7 +318,7 @@ After the revolt, the Chernigov Regiment tried to mutiny.
 
 ==== Crimean War
 
-Nicholas I also was tsar when Russia entered into the **Crimean War** (1853--1856),
+Nicholas I also was tsar when Russia entered into the **Crimean War** (1853{n-}1856),
 on the namesake peninsula on the Black Sea,
 against the allied forces of Britain, France, the Ottoman Empire, and Sardinia.
 Causes of the war included religion in the Holy Land,
@@ -424,7 +424,7 @@ Later, Rasputin's body was dug up and burned.
 Nicholas and the Russians had been moving east for a while,
 and war with Japan was a natural consequence.
 When the Japanese attacked Port Arthur in 1904, they preemptively declared war on Russia.
-The ensuing **Russo-Japanese War** (1904--1905)
+The ensuing **Russo-Japanese War** (1904{n-}1905)
 was of particular importance to this part of Nicholas's rule.
 
 Now, the part of the Russian fleet
@@ -519,13 +519,13 @@ Queen Victoria held Gladstone responsible.
 
 ==== Scramble for Africa
 
-The **Berlin Conference** (1884--1885) was the formalization of the Scramble for Africa.
+The **Berlin Conference** (1884{n-}1885) was the formalization of the Scramble for Africa.
 Europeans got together and carved up the continent in a manner that they felt suited them.
 It was organized by Otto von Bismarck, and it resulted in the General Act of the Berlin Conference.
 
 ===== Leopold and Congo
 
-**Leopold II** of Belgium (1865--1909) was given some land in south central Africa,
+**Leopold II** of Belgium (1865{n-}1909) was given some land in south central Africa,
 and he established the **Congo Free State**.
 The Casement Report went over the Rubber Atrocities that Leopold inflicted
 on workers who weren't able to produce enough rubber for him, including things like hand amputation.

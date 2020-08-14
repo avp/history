@@ -82,7 +82,7 @@ After this, the Persians finally gave up and decided that Greece wasn't worth it
 **Athens** was a very forward-thinking Greek city-state.
 Democracy originated in Athens, pioneered by reformers like **Solon** and Cleisthenes.
 Another notable leader of Athens was **Draco**, who was quite strict in his laws.
-They practiced ostracism, a practice started by Cleisthenes ---
+They practiced ostracism, a practice started by Cleisthenes --
 every year, the citizens would vote to exile someone for five years.
 They built the Parthenon on their Acropolis, where the Elgin Marbles would be taken from years later.
 Notably, Athens's harbor and port was **Piraeus**, where the ships that won at Salamis were built.
@@ -101,7 +101,7 @@ Philip II and his son Alexander never tried to conquer the city.
 ==== Peloponnesian War
 
 After the thwarted invasion of Persia and the ensuing Greco-Persian wars,
-Athens and Sparta fought during the **Peloponnesian War** (431--404 BC).
+Athens and Sparta fought during the **Peloponnesian War** (431{n-}404 BC).
 Athens brought in some allies in the form of the **Delian League**.
 Briefly during the war, the Council of Four Hundred took power in Athens.
 At another time, **Pericles**, the leader of Athens, delivered a funeral oration.
@@ -318,7 +318,7 @@ The Lex Manilia gave him command of the war against Mithridates VI of Pontus,
 taking command from Lucullus.
 He quickly drove Mithridates back, and Mithridates decided to commit suicide.
 Pompey's wife was Julia,
-and his was the first permanent theater in Rome --- where Caesar would later be killed.
+and his was the first permanent theater in Rome -- where Caesar would later be killed.
 
 **Marcus Crassus** was a very rich person.
 He'd made lots of money through his building and firefighting empires;

@@ -386,7 +386,7 @@ The next day,
 Roosevelt went in front of a Joint Session of Congress to ask for a declaration of war.
 He gave his famous Infamy Speech:
 [quote]
-  Yesterday, December 7, 1941 --- **a date which will live in infamy** ---
+  Yesterday, December 7, 1941 -- **a date which will live in infamy** --
   the United States of America
   was suddenly and deliberately attacked by naval and air forces of the Empire of Japan.
 

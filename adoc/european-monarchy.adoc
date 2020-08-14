@@ -42,7 +42,7 @@ Protestant leaders moved the war to western Germany, and Philip IV of Spain was 
 The Ottoman Empire decided to help out the Bohemian Protestants
 after they elected **Frederick V** as king,
 because the Ottomans were never particularly fond of Catholics in the first place.
-This triggered the minor Polish-Ottoman War (1620--1621),
+This triggered the minor Polish-Ottoman War (1620{n-}1621),
 and the Ottomans defeated the Poles at the Battle of Cecora.
 But, the Ottomans didn't help the Bohemians at the **Battle of White Mountain** (near Prague)
 where Christian of Anhalt
@@ -343,7 +343,7 @@ in which he fought with Habsburgs in the Spanish Netherlands.
 The war was ended by the Treaty of Aix-la-Chapelle.
 
 Louis was also involved in the **War of the League of Augsburg**,
-also called the Nine Years' War (1688--1697).
+also called the Nine Years' War (1688{n-}1697).
 In 1685, the Elector Palatine Charles II died,
 and Maximilian of Bavaria, an ally of France, died in 1688.
 In order to stop Louis from becoming too powerful,
@@ -361,7 +361,7 @@ giving the entirety of the empire to Philip, Duke of Anjou.
 Louis XIV decided to accept the new will, and Philip became King **Philip V** of Spain.
 
 Naturally, this triggered some tensions in Europe,
-starting the **War of the Spanish Succession** (1701--1714).
+starting the **War of the Spanish Succession** (1701{n-}1714).
 The French started winning,
 but the work of John Churchill, Duke of Marlboro, and Eugene of Savoy repelled him.
 The Austrians and the Palatinate took Bavaria after the **Battle of Blenheim**,
@@ -382,7 +382,7 @@ He was succeeded by his great-grandson, the five year old Louis XV.
 
 ==== Louis XV
 
-**Louis XV** (1710--1774), the Beloved, took the throne when he was only five.
+**Louis XV** (1710{n-}1774), the Beloved, took the throne when he was only five.
 While he was a child, his great-uncle Philippe II, Duke of Orleans, was regent,
 and **Cardinal Fleury** was his chief minister.
 Philippe dealt with the Mississippi bubble,

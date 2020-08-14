@@ -46,7 +46,7 @@ The Russian Orthodox Church also moved to Moscow, leading to it being known as a
 (the first two were Rome and Constantinople, the previous centers of Orthodox Christianity).
 
 By the 15th century, princes of Moscow were going around and taking as much land as they could.
-Most successful among these was **Ivan III, the Great** (1462--1505), Grand Prince of Moscow,
+Most successful among these was **Ivan III, the Great** (1462{n-}1505), Grand Prince of Moscow,
 who began the foundations for the Russian state itself.
 He annexed Novgorod and Tver', and defeated the Lithuanian armies at the Battle of Verdosha River,
 tripling the size of the Grand Duchy of Moscow.
@@ -56,7 +56,7 @@ His attacks would begin the eventual complete destruction of the once great Gold
 ==== Tsardom and Troubles
 
 The power that had been centralizing in Moscow became truly great during the time of
-Tsar **Ivan IV, the Terrible** (1547--1584).
+Tsar **Ivan IV, the Terrible** (1547{n-}1584).
 He was the first to be called "`tsar`", and he made his position stronger than ever before.
 He was advised by a "`Chosen Council`".
 He set up a new code of laws (the Sudebnik),
@@ -85,7 +85,7 @@ Russia descended into the **Time of Troubles**.
 
 Russia would end up mostly surviving the Time of Troubles,
 despite the Russo-Polish war and the Ingrian war.
-We'll look at the reemergence of the Tsars later ---
+We'll look at the reemergence of the Tsars later --
 Russia will be more a part of European history from now on.
 
 === Japan: Rise of the Shogun
@@ -99,14 +99,14 @@ so we'll start with classical Japan, for which we'll go back in time a bit.
 
 Classical Japanese periods are named after their capital cities.
 
-During the Asuka period (538--710), the Japanese polities began to become a truly centralized state,
+During the Asuka period (538{n-}710), the Japanese polities began to become a truly centralized state,
 and the three kingdoms of Korea were still in conflict.
 Buddhism moved to Japan.
 
 The Asuka period was succeeded by the Nara period of the 8th century.
 Nara was generally considered a golden age of prosperity and progress.
 
-The final period of classical Japan is the **Heian period** (794--1185).
+The final period of classical Japan is the **Heian period** (794{n-}1185).
 It's noted for art and literature, and Lady Murasaki Shikibu wrote the __Tale of Genji__.
 Notable aristocratic families included the Fujiwara clan, who took control of the imperial family.
 They faced the Hogen Rebellion, Heiji Rebellion, and Gempei War.
@@ -124,9 +124,9 @@ Recall that the Mongols tried to invade Japan in 1274 and 1281.
 They were deterred by the __kamikaze__, the famous typhoon that saved Japan.
 
 Fast forward a bit past a bunch of mildly important stuff,
-and we get to the Azuchi-Momoyama period (1569--1603).
+and we get to the Azuchi-Momoyama period (1569{n-}1603).
 
-The first great unifier of Japan was **Oda Nobunaga** (1534--1582).
+The first great unifier of Japan was **Oda Nobunaga** (1534{n-}1582).
 Oda introduced musketeers into the Japanese military,
 and he allowed Jesuits into the country to combat the Ikko and Tendai monasteries.
 
@@ -232,7 +232,7 @@ overthrowing Constantine XI.
 By the 16th century, the empire was expanding fast.
 Selim I defeated Safavid Persia at the Battle of Chaldiran, and he established rule in Egypt.
 
-**Suleiman the Magnificent** (1494--1566), son of Selim I, "`Kanuni`", the Lawgiver,
+**Suleiman the Magnificent** (1494{n-}1566), son of Selim I, "`Kanuni`", the Lawgiver,
 was the longest-reigning Sultan.
 During the Safavid wars, he signed the Peace of Amasya with the Shah of Iran.
 In 1521, Suleiman captured Belgrade.
@@ -243,7 +243,7 @@ At the Siege of Guns (1532), he was stopped from taking Vienna again.
 
 ==== Modernization to Decline
 
-During the Tanzimat period (1839--1876),
+During the Tanzimat period (1839{n-}1876),
 the government created a more modern army and reformed many things.
 The Sultan Abdulmecid I issued the Rescript of Gulhane (Rosehouse or Rose Chamber),
 which stopped tax farming.
