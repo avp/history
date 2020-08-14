@@ -51,17 +51,17 @@ This document is available in other formats.
 
 [horizontal]
 ifndef::env-html[]
-http://history.avp42.com/[HTML]::
+https://history.avp42.com/[HTML]::
 For the definitive experience.
 endif::[]
 
 ifndef::env-pdf[]
-http://history.avp42.com/history.pdf[PDF]::
+https://history.avp42.com/history.pdf[PDF]::
 For those who crave a paper-like format.
 endif::[]
 
 ifndef::env-epub[]
-http://history.avp42.com/history.epub[EPUB]::
+https://history.avp42.com/history.epub[EPUB]::
 For ease of reading on mobile devices.
 endif::[]
 ====
