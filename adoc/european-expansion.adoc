@@ -34,11 +34,11 @@ In 1667, the Cossacks, free settlers of South Russia, led by Stenka Razin,
 went up the Volga River, but eventually Stenka was caught and killed.
 Later, Stepan Razin would be supported by the streltsy in a 1670s uprising.
 It's probably useful to note that of the four great Russian rebellions at this time,
-all were led by Cossacks --- we mostly care about Razin and Pugachev (we'll see him later)
+all were led by Cossacks -- we mostly care about Razin and Pugachev (we'll see him later)
 
 ==== Peter the Great
 
-**Peter the Great** (1672--1725) was an important part of modernizing Russia.
+**Peter the Great** (1672{n-}1725) was an important part of modernizing Russia.
 When he was a child, he got military experience from playing with his "`toy army`" in war games.
 He originally shared power with his brother Ivan V, who had severe mental and physical disabilities.
 By the time he became tsar, Russia was the biggest country in the world.
@@ -119,7 +119,7 @@ stating that Habsburg domains in Austria would be inherited by his daughter, **M
 
 Frederick disputed the claim because he wanted the money in Silesia.
 He won the First Silesian War, which ended with the Treaty of Breslau.
-The three Silesian Wars were part of the **War of the Austrian Succession** (1740--1748),
+The three Silesian Wars were part of the **War of the Austrian Succession** (1740{n-}1748),
 known in the Americas as King George's War.
 Frederick was worried that Augustus III of Poland would take Silesia.
 As is often the case with wars of succession, a lot of other countries were drawn into the conflict.
@@ -138,7 +138,7 @@ It confirmed Maria Theresa as ruler of Austria and Hungary, while Prussia kept S
 The treaty also reasserted Britain's right to the __asiento__ (slave trade),
 which was a big part of their motivation for war.
 
-Later, Frederick was involved in the 1778--79 **War of the Bavarian Succession**,
+Later, Frederick was involved in the 1778{n-}79 **War of the Bavarian Succession**,
 the "`Potato War`", against the Austrians.
 Frederick wanted to prevent the Habsburgs from taking control of Bavaria.
 The Treaty of Teschen ended the war without any major battles;
@@ -146,7 +146,7 @@ however, about 10,000 soldiers on each side died of starvation and disease.
 
 === Seven Years' War
 
-The **Seven Years' War** (1756--1763)
+The **Seven Years' War** (1756{n-}1763)
 was one of the most important conflicts of modern history.
 It involved much of the world, and it shaped history in all of its theaters.
 It was composed of:
@@ -226,7 +226,7 @@ Under Catherine, Russia started the colonization of Alaska.
 
 She continued to modernize Russia in the style of Peter the Great,
 but serfdom was still an important part of the economy.
-Catherine faced **Pugachev's Rebellion** (1773--1775),
+Catherine faced **Pugachev's Rebellion** (1773{n-}1775),
 a large scale uprising of Cossacks and peasants
 which she had to have her general Suvorov put down.
 The rebellion was led by Yemelyan Pugachev, a Cossack pretender to the throne.
@@ -237,7 +237,7 @@ __The History of Pugachev__ and __The Captain's Daughter__.
 
 Partially because of the Enlightenment, Catherine's Russia was in a golden age.
 She defined her rule in much the same way Elizabeth I had done in England.
-Catherine is a notable example of an **enlightened despot** ---
+Catherine is a notable example of an **enlightened despot** --
 she spent time with the ideas of the Enlightenment,
 frequently corresponding with Diderot and Voltaire,
 who called her the "`Star of the North`" and the "`Semiramis of Russia`".
@@ -269,7 +269,7 @@ He was succeeded by **George II**, who in turn was followed by George III.
 In 1721, **Robert Walpole** became the first Prime Minister of Great Britain.
 He'd previously been Chancellor of the Exchequer,
 during which time he'd created a "`sinking fund`" to try and reduce national debt.
-He managed to keep the position of prime minister for 20 years straight ---
+He managed to keep the position of prime minister for 20 years straight --
 some people call the period the "`Robinocracy`".
 He covered up a bunch of scandals including the South Sea Bubble (during which he came to power),
 leading to his sometimes being called the "`Screenmaster General`".

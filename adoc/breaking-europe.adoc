@@ -78,7 +78,7 @@ and he invaded Gaul in 451 to get his "`dowry`", half of the Western Roman Empir
 The invasion was stopped by Flavius Aetius and the Visigoths
 under Ostrogoth king **Theodoric the Great**
 at battles at the **Catalunian Plains** and at **Chalons**.
-Allegedly, Pope Leo I convinced Attila not to attack Rome ---
+Allegedly, Pope Leo I convinced Attila not to attack Rome --
 soon after, Attila died of a nosebleed in his sleep.
 
 By 439, the Vandals had crossed the Strait of Gibraltar, moved east, and taken Carthage from Rome.
@@ -144,7 +144,7 @@ but there's perhaps a slight chance that's just a fabrication.
 When Childeric died, he was buried in Saint Brice in Tournai,
 with a golden bull's head and lots of golden insects (bees, cicadas, etc.).
 
-Childeric's son was **Clovis I** (481--511), the greatest of the Merovingian rulers.
+Childeric's son was **Clovis I** (481{n-}511), the greatest of the Merovingian rulers.
 He was married to Clotilde, and he adopted Christianity, being baptized in 496.
 He united Gaul under his rule, and he defeated the remaining Romans
 (led by Syagrius, the last Roman official of Gaul),
@@ -209,7 +209,7 @@ was set to play a major role in history for centuries to come.
 **Muhammad** of Mecca united a large portion of the world under Islam.
 Muslims believe that he was a prophet of God and he died in Medina in 632.
 
-==== Rashidun (632--661)
+==== Rashidun (632{n-}661)
 
 The Rashidun were the "`rightly-guided caliphs`".
 **Abu Bakr**, the first caliph to succeed Muhammad, named Umar as his rightful successor,
@@ -226,7 +226,7 @@ It was in fact the largest empire ever built up to that point in history.
 After Ali's reign, his son Hasan was elected as caliph,
 but he gave the caliphate to Mu'awiyah instead.
 
-==== Umayyad (661--750)
+==== Umayyad (661{n-}750)
 
 **Mu'awiyah** established the Umayyad caliphate,
 which expanded across all of northern Africa
@@ -253,7 +253,7 @@ In 750, Marwan fought an Abbasid army at the **Battle of the Zab**
 on the banks of the Great Zab river.
 The Abbasids killed Marwan and ended the rule of the Umayyads.
 
-==== Abbasid (750--1517)
+==== Abbasid (750{n-}1517)
 
 The **Abbasid** set up Baghdad as a major city until it was sacked in 1258.
 In the 9th century, they created an army that was meant only to fight for them.

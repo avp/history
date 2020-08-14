@@ -78,7 +78,7 @@ In January 1961, Eisenhower gave his farewell address,
 written by himself, his brother Milton, and his speechwriter Malcolm Moos:
 [quote]
   As we peer into society's future,
-  we --- you and I, and our government --- must avoid the impulse to live only for today,
+  we -- you and I, and our government -- must avoid the impulse to live only for today,
   plundering for, for our own ease and convenience, the precious resources of tomorrow.
   We cannot mortgage the material assets of our grandchildren
   without asking the loss also of their political and spiritual heritage.
@@ -190,9 +190,9 @@ The 1960 Democratic primary resulted in **John Fitzgerald Kennedy**
 defeating Hubert Humphrey and Lyndon B. Johnson.
 At the convention, Kennedy gave his "`New Frontier`" speech:
 [quote]
-  For the problems are not all solved and the battles are not all won ---
+  For the problems are not all solved and the battles are not all won --
   and we stand today on the edge of a New Frontier...
-  But the New Frontier of which I speak is not a set of promises --- it is a set of challenges.
+  But the New Frontier of which I speak is not a set of promises -- it is a set of challenges.
   It sums up not what I intend to offer the American people, but what I intend to ask of them.
 
 Upon winning, Kennedy asked Johnson to be his running mate.
@@ -504,7 +504,7 @@ Incumbent Vice President **George Herbert Walker Bush** and **Dan Quayle** of In
 won the 1988 election in a landslide,
 defeating Democratic candidate **Michael Dukakis**.
 On accepting the nomination, Bush had given his "`thousand points of light`" speech.
-Bush campaigned largely on his economic policy: "`Read my lips --- no new taxes.`"
+Bush campaigned largely on his economic policy: "`Read my lips -- no new taxes.`"
 This made Bush the first sitting vice president to be elected to the presidency
 since Van Buren back in 1836.
 

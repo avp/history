@@ -320,7 +320,7 @@ that were the insignia of the warring houses (red and white respectively).
 **Henry VI** started his reign young, but even when he grew up, he would be a weak king.
 Many people would rise up against him,
 including Richard Neville, Earl of Warwick, "`the Kingmaker`".
-Warwick's cousin was a naval commander --- Thomas Neville, the Bastard of Fauconberg.
+Warwick's cousin was a naval commander -- Thomas Neville, the Bastard of Fauconberg.
 Henry had a mental breakdown, and Richard, Duke of York, was named regent in his stead.
 
 When Henry became sane again, Richard of York and the Nevilles decisively defeated
@@ -353,7 +353,7 @@ realizing his best chance was to attack Richard and defeat him quickly.
 
 Henry met Richard at the **Battle of Bosworth Field** near Ambion Hill.
 The Yorkist army deployed on the hilltop so that Richard could see the whole area.
-Henry's army had very few Englishmen in it --- many were Scottish and French.
+Henry's army had very few Englishmen in it -- many were Scottish and French.
 His army was commanded by the Earl of Oxford, who was assisted by the Lords Stanley
 (who initially hung back but then decided to join when they felt like it).
 When the battle began, Henry was maneuvering around trying to get into a better position.
@@ -411,7 +411,7 @@ This revolt was known as the **Sicilian Vespers**.
 A phase of the War of the Sicilian Vespers was the Aragonese Crusade.
 After the war, the Sicilians won and Angevin rule was kicked off the island.
 
-France would become even more centralized under **Louis IX** (1226--1270).
+France would become even more centralized under **Louis IX** (1226{n-}1270).
 His mother was was Blanche of Castile.
 He fought Henry III in the Saintonge War, in which Henry tried to take back England's old territory.
 Louis defeated Hugh of Lusignan and Henry III of England at the Battle of Taillebourg.
@@ -446,7 +446,7 @@ The standing enmity between England and France turned into the Hundred Years' Wa
 Just as England experienced a peasant revolt in 1381,
 France experienced the **Jacquerie** in 1358.
 
-France was pushed back in the beginning of the war (1337--1360), and they began to push back later.
+France was pushed back in the beginning of the war (1337{n-}1360), and they began to push back later.
 However, when Henry V of England won at Agincourt, France fell into chaos.
 Seven years later, Henry VI was declared king in Paris by the Treaty of Troyes,
 and the Valois were pushed back.
@@ -496,7 +496,7 @@ who was imprisoned on Lake Garda by the usurper Berengar II,
 Otto married Adelaide and took Italy, becoming King of the Lombards.
 In 962, he was declared Holy Roman Emperor by Pope John XII.
 
-Later, **Henry IV** (1050--1106) began a clash with the Church.
+Later, **Henry IV** (1050{n-}1106) began a clash with the Church.
 He disagreed with **Pope Gregory VII** over appointments to Catholic offices
 in what came to be known as the lay **Investiture Controversy**.
 After the pope decided to excommunicate him,
@@ -524,7 +524,7 @@ They lost the Thirteen Years War, and their leaders included Hermann Von Salza.
 The knights fought against the Cumans for Andrew II of Hungary.
 They remained in power in Prussia until the Battle of Tannenberg in 1410.
 
-Eventually, the Hohenstaufen dynasty under **Frederick Barbarossa** (1152--1190)
+Eventually, the Hohenstaufen dynasty under **Frederick Barbarossa** (1152{n-}1190)
 gave Bavaria to Henry the Lion, duke of Saxony.
 Austria became a separate entity, and Frederick tried to take Italy.
 
@@ -571,7 +571,7 @@ The **Crusades** were religious military campaigns with the goal of restoring Ch
 
 ==== First Crusade
 
-The **First Crusade** (1096--1099) was declared by **Pope Urban II**
+The **First Crusade** (1096{n-}1099) was declared by **Pope Urban II**
 in 1095 at the **Council of Clermont**.
 The main goal originally was to help **Alexius I Komnenos**, the Byzantine emperor at the time.
 At the Council of Piacenza, he asked Urban II for help repelling the Seljuk Turks in Anatolia.
@@ -588,7 +588,7 @@ The prelude to the First Crusade was known as the People's Crusade.
 
 ==== Second Crusade
 
-The **Second Crusade** (1145--1149) started as a reaction to Zengi's capture of Edessa.
+The **Second Crusade** (1145{n-}1149) started as a reaction to Zengi's capture of Edessa.
 It was encouraged by Pope Eugenius III in the bull __quantum praedecessores__
 and it was championed by the preacher St. Bernard of Clairvaux
 (called in by the Archbishop of Mainz).
@@ -597,7 +597,7 @@ The crusade ended when the siege of Damascus failed and it failed to take back t
 
 ==== Third Crusade
 
-The **Third Crusade** (1189--1192) was another attempt to take the Holy Land.
+The **Third Crusade** (1189{n-}1192) was another attempt to take the Holy Land.
 It was also known as the Kings' Crusade,
 since Philip II of France, **Frederick Barbarossa**,
 and **Richard the Lionheart** all led forces.
@@ -618,7 +618,7 @@ and was kept in various states of captivity for a couple years.
 
 ==== Fourth Crusade
 
-The **Fourth Crusade** (1202--1204) tried to take Jerusalem by way of Egypt.
+The **Fourth Crusade** (1202{n-}1204) tried to take Jerusalem by way of Egypt.
 Pope **Innocent III** called for the crusade, but nobody really cared.
 So Theobald III of Champagne held a tournament where various people, such as Fulk of Neuilly,
 attended and took the cross, to go on the crusade.
@@ -644,7 +644,7 @@ but it also made one confession a year mandatory and planned the Fifth Crusade.
 
 ==== Later Crusades
 
-The **Albigensian Crusade** (1209--1229), also called the Cathar Crusade, didn't go east.
+The **Albigensian Crusade** (1209{n-}1229), also called the Cathar Crusade, didn't go east.
 Pope Innocent III called for this one to eliminate Catharism in Languedoc in the south of France.
 The Cathars were a sect of Christians that became known as the Albigensians.
 This crusade ended in far less Cathars being alive and the French crown growing in power.
@@ -655,7 +655,7 @@ It failed pretty badly because it recruited children and some of them were sold 
 Notable leaders included Stephen of Cloyes,
 and the crusade was sent home by Philip II after reaching Saint-Denis.
 
-The **Fifth Crusade** (1213--1221) tried to take Jerusalem through Egypt (again).
+The **Fifth Crusade** (1213{n-}1221) tried to take Jerusalem through Egypt (again).
 They lost to the Ayyubid state in Egypt and failed.
 
 The **Sixth Crusade** (1228) tried to take Jerusalem (do you see a pattern?).
@@ -666,7 +666,7 @@ Pope Gregory IX, an enemy of Frederick,
 didn't like that Frederick declared himself king in Jerusalem.
 
 Louis IX of France participated in
-the **Seventh Crusade** (1248--1254) and **Eighth Crusade** (1270).
+the **Seventh Crusade** (1248{n-}1254) and **Eighth Crusade** (1270).
 The crusaders didn't take Jerusalem.
 
 The last crusade was the **Ninth Crusade**.

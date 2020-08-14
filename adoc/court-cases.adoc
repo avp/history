@@ -46,7 +46,7 @@ __Chief Justice: Roger Taney__
 Commonly known as the "`Dred Scott case`".
 Scott had been taken from the South into free states and territories (Illinois and Wisconsin)
 by John Emerson, so he figured he should be free.
-In a 7--2 decision, Taney denied this request,
+In a 7{n-}2 decision, Taney denied this request,
 saying that the Missouri Compromise was unconstitutional
 (this was the second time a federal statute had been struck down by the court).
 Taney said that because Scott wasn't a citizen, he couldn't sue for freedom.
@@ -67,7 +67,7 @@ __Chief Justice: Melville Fuller__
 Louisiana had passed the Separate Car Act, which required segregation on rail cars.
 Homer Plessy bought a ticket on a train and boarded a whites-only car.
 He was asked to leave, refused, and was arrested.
-His case made it to the court, where the 7--1 vote went against Plessy,
+His case made it to the court, where the 7{n-}1 vote went against Plessy,
 with the dissent being written by John Marshall Harlan,
 who claimed that the law was essentially a "`badge of servitude`".
 The majority decision, written by Henry Billings Brown,
@@ -119,7 +119,7 @@ __Chief Justice: Harlan F. Stone__
 Commonly just called **Korematsu**.
 Fred Korematsu was an Oakland florist who tried to stay out of WWII-era internment camps.
 This led to a case having to do with the constitutionality of Executive Order 9066.
-Hugo Black's majority opinion in the 6--3 decision stated that internment was based
+Hugo Black's majority opinion in the 6{n-}3 decision stated that internment was based
 on "`pressing public necessity`", not racism, so internment was legal.
 
 === Brown v. Board of Education (1954)
@@ -148,7 +148,7 @@ Later, they decided to prosecute for
 pictures, and photographs in violation of 2905.34 of Ohio's Revised Code''.
 She never served any of the sentence, and appealed to the Supreme Court.
 
-The court ruled in a 6--3 decision in favor of Mapp.
+The court ruled in a 6{n-}3 decision in favor of Mapp.
 They then overturned a previous ruling, __Wolf v. Colorado__.
 The Boyd and Weeks decisions were cited and precedent,
 and the case affirmed the "`fruit of the poisonous tree`" doctrine.
@@ -176,6 +176,6 @@ __Chief Justice: Earl Warren__
 Ernesto Miranda was arrested in Phoenix and linked to the rape of an eighteen-year-old girl.
 He signed a confession, but Miranda was never informed of his right to counsel.
 The case went to the Supreme Court.
-The court, in a 5--4 ruling,
+The court, in a 5{n-}4 ruling,
 expanded on the rights previously given in __Escobedo v. Illinois__,
 and said that officers need to read apprehended suspects their rights.
