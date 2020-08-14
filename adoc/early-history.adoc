@@ -46,13 +46,75 @@ Nebuchadnezzar also put together the Ishtar Gate, Entemananki, Ezika, and Esagil
 
 === Ancient Egypt
 
-In Egypt, pharaohs were building pyramids and other big things.
-Here are some notables:
+From c. 7000 BC to 3000 BC, the Nile Valley was being settled and generally
+consisted of disjointed groups which eventually coalesced into
+**Upper Egypt** and **Lower Egypt**.
+Upper Egypt was to the south ("`up`" the Nile), while Lower Egypt was to the north.
 
-**Djoser** was a king of the 3rd dynasty (Old Kingdom),
-and he was buried in a notable namesake pyramid.
+[sidebar]
+Some of the early Egyptian history here is fairly sketchy;
+there tends to be some debate amongst historians regarding certain dates and identities.
+A nontrivial amount of information regarding the chronology of rules
+eventually ends up tracing back to the **Turin King List** (aka the Turin Royal Canon),
+a papyrus ostensibly created during the reign of Rameses II and now housed in Turin.
+The information contained therein is dubious for early Egyptian history,
+and half of it is missing anyway.
+
+==== Early Dynastic Period
+
+Circa 3100 BC, the two kingdoms began to intertwine in both culture and economics.
+Thus began the **First Dynasty** of Egypt.
+The first pharoah post-unification was likely **Narmer**,
+a king often identified as **Menes** in the Greek classical tradition
+(there's still some debate around this).
+
+An important archaeological find from this period is the **Narmer Palette**,
+which depicts the White Crown of Upper Egypt along with the Red Crown of Lower Egypt.
+
+==== Old Kingdom (c. 2686{n-}2181 BC)
+
+**Djoser** of the Third Dynasty was the first King of the Old Kingdom,
+and he was buried in a notable namesake step pyramid at Saqqara, near Memphis.
 He worked with his vizier **Imhotep** (the guy from __The Mummy__)
 to make it, and Imhotep was one of the most important people during that time.
+
+During the Third Dynasty, independent Egyptian states became called **nomes**,
+with each ruled by a nomarch.
+Each nome was under the ultimate rule of the king.
+
+That brings us to the Fourth Dynasty,
+which began with Snefru (known sometimes as Soris),
+who became a prolific pyramid commissioner.
+Snefru ordered the building of three pyramids:
+the Meidum pyramid, the Bent Pyramid at Dahshur, and the Red Pyramid.
+
+Snefru was succeeded by **Khufu** (known to the Greeks as Cheops),
+who most famously built the Great Pyramid at Giza.
+Not much else is documented about his reign,
+but he is the main character in the Westcar Papyrus
+(a collection of some stories about miracles).
+
+Later kings of the Fourth Dynasty included **Menkaure**,
+who also built a pyramid in Giza.
+
+The Fourth Dynasty gave way to the Fifth,
+which ended in the First Intermediate Period.
+At this point, pharaonic power was greatly diminshed and power became decentralized.
+
+==== Middle Kingdom (c. 2050{n-}1710 BC)
+
+That all ended when the Eleventh Dynasty reunited under Mentuhotep II.
+The Middle Kingdom gave rise to old styles of government,
+resulting in the readoption of the vizier as a position of great power.
+
+However, by the end of the Thirteenth Dynasty,
+dynastic chaos began to once again take hold of the Kingdom.
+Thus begins the full disintegration of unity once again,
+resulting in the Second Intermediate Period.
+
+==== New Kingdom (c. 1550{n-}1069 BC)
+
+The Eighteenth Dynasty was home to perhaps the most famous figures of Egypt.
 
 **Akhenaten** (1353{n-}1336 BC), formerly Amenhotep IV,
 completely reorganized all the religion in Egypt.

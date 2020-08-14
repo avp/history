@@ -1,9 +1,7 @@
 == Cold War
 
 [quote.epigraph, Winston Churchill]
-
-  From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the Continent.
-
+From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the Continent.
 
 === Germany Divided
 
