@@ -3,9 +3,10 @@ page:
   layout: portrait
   margin: 1in
 base:
-  font-family: EBGaramond
+  font-family: NotoSerif
 title_page:
   title:
+    font-family: EBGaramond
     top: 30%
     font_color: 202020
     font_size: 1in
@@ -15,7 +16,6 @@ heading:
   h2-align: center
   h2-margin-page-top: 3in
 blockquote:
-  margin: 5in
   font-size: 10
 footer:
   columns: =100%
@@ -28,6 +28,11 @@ footer:
 font:
   catalog:
     merge: false
+    NotoSerif:
+      normal: NotoSerif-Regular.ttf
+      italic: NotoSerif-Italic.ttf
+      bold: NotoSerif-Bold.ttf
+      bold_italic: NotoSerif-BoldItalic.ttf
     EBGaramond:
       normal: EBGaramond-Regular.ttf
       italic: EBGaramond-Italic.ttf
