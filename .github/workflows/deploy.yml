@@ -24,7 +24,7 @@ jobs:
         ruby-version: '2.6'
     - name: Install asciidoc
       run: |
-        gem install asciidoc asciidoc-epub3 asciidoc-pdf
+        gem install asciidoctor asciidoctor-epub3 asciidoctor-pdf
     - name: Build HTML
       run: make html
     - name: Build EPUB
