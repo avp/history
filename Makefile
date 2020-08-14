@@ -1,4 +1,4 @@
-DEPS=history.adoc adoc/*.adoc themes/*.yml
+DEPS=history.adoc adoc/*.adoc themes/*.yml themes/*.css
 
 all: epub pdf
 .PHONY: all
@@ -15,18 +15,22 @@ upload-pdf: pdf
 .PHONY: upload-pdf
 
 epub: $(DEPS)
-	asciidoctor-epub3 history.adoc
+	asciidoctor-epub3 -a env-epub history.adoc
 .PHONY: epub
 
 pdf: $(DEPS)
-	asciidoctor-pdf -a pdf-themesdir=themes/ -a pdf-theme=history.yml -a pdf-fontsdir=fonts/ history.adoc
+	asciidoctor-pdf -a env-pdf history.adoc
 .PHONY: pdf
 
 html: $(DEPS)
-	asciidoctor history.adoc
+	asciidoctor -a env-html history.adoc
 .PHONY: html
+
+watch: $(DEPS)
+	watch make html
 
 clean:
 	$(RM) history.epub
 	latexmk -C
 .PHONY: clean
+

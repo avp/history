@@ -11,11 +11,60 @@
 :toc: left
 :toclevels: 2
 :toc-title: Contents
+:pdf-fontsdir: fonts/
+:pdf-themesdir: themes/
+:pdf-theme: history.yml
 
 :AE: &#198;
 :Ouml: &#246;
 :aflex: &#226;
 :n-: &#8211;
+
+[preface]
+== Preface
+
+Herein is a collection of notes on history I have taken, rendered into prose of varying quality.
+I have paid particular attention to those topics which tend to be more popular
+as questions and answers in knowledge and trivia games (e.g. quiz bowl).
+To facilitate ease of reading,
+**bolded** terms are typically those which have appeared as answer lines
+or are likely to appear as answer lines.
+
+There will necessarily be sections of this
+document which are lacking the depth or detail they rightly deserve.
+The goal of this document is not to present a complete and thorough retelling of human history,
+but to provide a starting point for history enthusiasts to quickly
+learn a wide variety of information.
+
+As with any collection of information,
+there is obvious bias towards those topics which interest me or which I had prior knowledge of,
+but I am always working to add depth to those sections which are underdeveloped.
+
+This document is a work in progress.
+It may contain errors or misleading information.
+If you find problems or wish to bring something to my attention,
+please file an issue on the https://github.com/avp/history[GitHub repository].
+
+[TIP]
+====
+This document is available in other formats.
+
+[horizontal]
+ifndef::env-html[]
+http://history.avp42.com/[HTML]::
+For the definitive experience.
+endif::[]
+
+ifndef::env-pdf[]
+http://history.avp42.com/history.pdf[PDF]::
+For those who crave a paper-like format.
+endif::[]
+
+ifndef::env-epub[]
+http://history.avp42.com/history.epub[EPUB]::
+For ease of reading on mobile devices.
+endif::[]
+====
 
 include::adoc/early-history.adoc[]
 
