@@ -23,7 +23,7 @@ jobs:
       with:
         ruby-version: '2.6'
     - name: Install libxslt
-      run: sudo apt-get install libxslt1.1 libxslt1-dev libxslt-ruby
+      run: sudo apt-get install libxslt1.1 libxslt1-dev libxml2-dev
     - name: Install asciidoc
       run: |
         gem install asciidoctor
