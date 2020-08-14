@@ -24,7 +24,9 @@ jobs:
         ruby-version: '2.6'
     - name: Install asciidoc
       run: |
-        gem install asciidoctor asciidoctor-epub3 asciidoctor-pdf
+        gem install asciidoctor
+        gem install asciidoctor-pdf
+        NOKOGIRI_USE_SYSTEM_LIBRARIES=1 gem install asciidoctor-epub3 --pre
     - name: Build HTML
       run: make html
     - name: Build EPUB
