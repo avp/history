@@ -1,0 +1,49 @@
+name: Deploy
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  deploy:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    - name: Install libxslt
+      run: sudo apt-get install libxslt1.1 libxslt1-dev libxml2-dev
+    - name: Install asciidoc
+      run: |
+        gem install asciidoctor
+        gem install asciidoctor-pdf
+        NOKOGIRI_USE_SYSTEM_LIBRARIES=1 gem install asciidoctor-epub3 --pre
+    - name: Build HTML
+      run: make html
+    - name: Build EPUB
+      run: make epub
+    - name: Build PDF
+      run: make pdf
+    - name: Prepare deployment
+      run: |
+        mkdir build/
+        cp history.html build/index.html
+        cp history.pdf build/history.pdf
+        cp history.epub build/history.epub
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@3.5.9
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: build
