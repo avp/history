@@ -64,7 +64,7 @@ and half of it is missing anyway.
 
 Circa 3100 BC, the two kingdoms began to intertwine in both culture and economics.
 Thus began the **First Dynasty** of Egypt.
-The first pharoah post-unification was likely **Narmer**,
+The first pharaoh post-unification was likely **Narmer**,
 a king often identified as **Menes** in the Greek classical tradition
 (there's still some debate around this).
 
@@ -153,15 +153,28 @@ He was married to **Nefertiti**, a daughter of Ay who didn't come from royal blo
 and his son was **Tutenkhamen** (who was a very young king).
 He constructed Amarna and was succeeded by Smenkhare.
 
+The Eighteenth Dynasty fell into division and decline,
+and by 1292 BC the reigning pharaoh Horemheb died childless.
+He appointed his vizier as his successor.
+
+That vizier became Rameses I,
+the first pharaoh of the Nineteenth Dynasty.
+He was succeeded by his son **Seti I**.
+
+Seti fought wars in the east, claiming large portions of the east for Egypt again.
+In particular, he managed to take Kadesh from the Hittites,
+though that particular victory was short-lived as the Hittites recaptured the city.
+Seti was succeeded by his son.
+
 **Rameses II, The Great** (1279{n-}1213 BC) fought the Hittites at the **Battle of Kadesh**,
 near the Orontes River, where over 6,000 chariots were used;
-the battle was fought to a draw.
+the battle was fought to a draw and the two kingdoms formed a treaty.
 Rameses also suppressed the Shardana pirates in a naval battle.
 His father was Seti I, who did some military things.
 Rameses built the **Abu Simbel** temples and a temple at Luxor that houses the House of Life.
 His wife was **Nefertari**, daughter of Hattusilis, and the Greeks called him Ozymandias.
-He built the Karnak complex
-and he was succeeded by Merneptah I when he was buried in the Valley of the Kings.
+He added large sections to the Karnak temple complex
+and was succeeded by Merneptah I when he was buried in the Valley of the Kings.
 
 === Indus River Valley
 
