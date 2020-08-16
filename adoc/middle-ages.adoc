@@ -671,9 +671,40 @@ The crusaders didn't take Jerusalem.
 
 The last crusade was the **Ninth Crusade**.
 
-=== Khans & Conquerors
+=== Khans {amp} Conquerors
 
-==== Mongol Empire
+==== Bulgarian Empire
+
+The **Bulgars** were Turkic nomads
+who started to settle down along the north shores of the Black Sea
+during the 7th century.
+In 679, a group of Bulgars led by Khan **Asparuh** established
+the **First Bulgarian Empire** in the northeastern Balkans.
+
+In the beginning, relations with the Byzantines were pretty good.
+A peace treaty signed with the Byzantines resulted in settlement south of the Danube.
+When the Umayyad beseiged Constantinople in 717,
+Khan Tervel sent Bulgarian forces to assist the city and kill Arabs.
+This alliance formed an effective bulwark against Arab incursion into Europe proper.
+
+Unfortunately by the 750s the cohesion of Bulgaria was faltering.
+Internal instability (potentially regarding how to coexist with the Byzantine Empire)
+led to the rise of multiple factions.
+When Constantine V came to power in Constantinople, he launched invasions into Bulgaria.
+Of course, actively invading a country which is debating whether or not to support you
+will make your staunchest allies in that country stop supporting you.
+Bulgaria became united against the Byzantine threat,
+and the war continued until Bulgarian victory in 803.
+
+In 803, **Krum** came to power and launched an expansion campaign
+which increased the size of Bulgaria twofold.
+In 808, he brought Bulgaria to war with the Byzantines once again.
+Emperor Nicephorus I managed to attack and capture Pliska, the Bulgarian capital,
+but was defeated decisively shortly thereafter at the Battle of Varbitsa Pass.
+Nicephorus was killed,
+and Krum supposedly lined his skull with silver and used it as a wine cup.
+
+==== Mongols of the Steppe
 
 The Mongolian plateau was home to the
 Khereid, Khamag Mongol, Naiman, Mergid, and Tatar tribal confederations.
