@@ -623,7 +623,7 @@ Hood also coordinated an invasion of Tennessee, led by Beauregard.
 
 Longstreet, Lee's "`Old War Horse`", was wounded at the Battle of the Wilderness.
 He also led Pickett's Charge, albeit quite reluctantly, because it wasn't a very good idea.
-After the war, he became a scalawag (more on that later).
+After the war, he became a <<scalawag>>.
 He helped calm civil unrest in New Orleans in 1875, and was later Ambassador to the Ottoman Empire.
 
 ===== JEB Stuart
@@ -723,6 +723,7 @@ The bill was pocket vetoed by Lincoln, who instead supported the **Ten Percent P
 Lincoln's plan was more lenient,
 only requiring that 10% of the vote count from a state had to swear an oath to the Union.
 
+[[scalawag, scalawag]]
 Lots of Northerners came South in an attempt to profit.
 Because of their luggage, angry Southerners called them **carpetbaggers**.
 Southerners who tried to do the same thing

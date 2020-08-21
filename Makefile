@@ -15,15 +15,15 @@ upload-pdf: pdf
 .PHONY: upload-pdf
 
 epub: $(DEPS)
-	asciidoctor-epub3 -a env-epub history.adoc
+	asciidoctor-epub3 -v -a env-epub history.adoc
 .PHONY: epub
 
 pdf: $(DEPS)
-	asciidoctor-pdf -a env-pdf history.adoc
+	asciidoctor-pdf -v -a env-pdf history.adoc
 .PHONY: pdf
 
 html: $(DEPS)
-	asciidoctor -a env-html history.adoc
+	asciidoctor -v -a env-html history.adoc
 .PHONY: html
 
 watch: $(DEPS)

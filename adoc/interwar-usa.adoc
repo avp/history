@@ -190,4 +190,6 @@ the change of opinion is called "`the switch in time that saved nine`".
 Another piece of important New Deal era legislation is the **National Labor Relations Act**,
 or Wagner Act.
 It set up the National Labor Relations Board and was quite pro-union.
-However, the act eventually was gutted by the later Taft-Hartley Act (more on that later).
+However, the act eventually was gutted by the later Taft-Hartley Act,
+passed over Truman's veto, which allowed states to pass right-to-work laws
+and generally greatly reducing the power of unions.

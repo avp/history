@@ -84,7 +84,7 @@ Ferdinand II would have Wallenstein assassinated.
 France was a Catholic state; recall their difficulties with the Protestant Huguenots.
 However, their hatred of the Holy Roman Empire, the Habsburgs,
 and Spain transcended religious boundaries.
-**Cardinal Richelieu**, Chief Minister (more on him later),
+<<richelieu, Cardinal Richelieu>>, Chief Minister,
 had already subsidized Gustavus Adolphus's invasion.
 
 Emperor Ferdinand II died in 1637, and was succeeded by Ferdinand III.
@@ -269,6 +269,7 @@ Jacobite rebellions continued until the forces of
 
 === France: Louis, Louis, and Louis
 
+[[richelieu]]
 ==== Louis XIII and Cardinal Richelieu
 
 When Henry IV was killed in 1610, **Louis XIII** succeeded him.

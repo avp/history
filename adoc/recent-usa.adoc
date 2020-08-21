@@ -474,7 +474,7 @@ Congress didn't want to fund the Contras,
 so they passed the **Boland Amendment** preventing sending government money to them.
 
 Seven Americans were taken hostage in Lebanon by Hezbollah.
-Iran was currently involved in the Iran-Iraq War (more on that later).
+Iran was currently involved in the <<iran-iraq-war>>.
 In order to free them, Israel was meant to send weapons to Iran, with the US resupplying Israel.
 So, this was a fairly straightforward arms-for-hostages situation,
 with the Americans using Israel as a proxy.
@@ -513,7 +513,7 @@ Bush had been the RNC chairman during Watergate and he'd directed the CIA.
 As president, he signed the Americans with Disabilities Act into law.
 He launched Operation Restore Hope to give aid to Africa.
 Bush also launched **Operation Just Cause**,
-which ousted Manuel Noriega from his position in Panama (more on that later).
+which ousted Manuel Noriega from his position in Panama.
 While in office, he appointed David Souter and Clarence Thomas to the Supreme Court.
 When Saddam Hussein invaded Kuwait in 1991, a coalition was put together to free the country,
 and we'll talk the resulting Operation Desert Storm when we get to recent Middle Eastern history.

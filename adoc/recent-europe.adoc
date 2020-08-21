@@ -12,7 +12,7 @@
 On October 13, 1946, a new **Fourth Republic** established itself in France.
 The French Colonial Empire proceeded to fall apart.
 French Indochina was lost at the Battle of **Dien Bien Phu**,
-falling into Viet Minh hands, led by Ho Chi Minh (more on that later).
+falling into Viet Minh hands, led by <<ho-chi-minh, Ho Chi Minh>>.
 
 In 1956, France faced the **Suez Crisis**.
 France had built the Suez Canal, and therefore owned the Canal.
@@ -131,6 +131,7 @@ who'd wanted an excuse for the CIA to help the people resist Soviet control.
 The 1960 Constitution proclaimed the victory of socialism,
 and created the Czechoslovak Socialist Republic.
 
+[[prague-spring, Prague Spring]]
 In January 1968, **Alexander Dubcek**, a Slovak reformer,
 was elected first secretary of the KSC (Communist Party of Czechoslovakia).
 He replaced Antonin Novotny as Novotny also ceded the presidency to Ludvik Svoboda.
@@ -297,7 +298,7 @@ Tito took down the Chetnik (opposing party) leader Draa Mihailovic,
 and he set up the UDBA secret police.
 Yugoslavia was expelled from Cominform in 1948 following Tito's notable **split with Stalin**,
 and he became the First Secretary General of the Non-Aligned Movement,
-which he helped created with Gamal Abdel Nasser and Jawaharlal Nehru (more on that later).
+which he helped created with Gamal Abdel Nasser and <<A New India, Jawaharlal Nehru>>.
 Tito signed the Treaty of Vis with Ivan Ubaic, and his British liaison was Fitzroy Maclean.
 After imprisoning Aloysius Stepinac for helping the Ustashi movement against him,
 Tito was excommunicated by the pope.

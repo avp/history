@@ -227,7 +227,7 @@ She was Catholic and she wanted England to be more like before the English Refor
 so Mary burned almost 300 Protestants (recorded in John Foxe's Book of Martyrs),
 resulting in her being called "`Bloody Mary`".
 She imprisoned Thomas Cranmer, forced him to recant Protestantism, and burned him anyway.
-Notably, she married Philip II of Spain, son of Charles V, Holy Roman Emperor (more on him later).
+Notably, she married Philip II of Spain, son of <<charles-v, Charles V>>, Holy Roman Emperor.
 When Mary died in 1558, English people rejoiced.
 
 ==== Elizabeth I
@@ -367,6 +367,7 @@ because she probably had to be forcibly removed from the corpse of her husband w
 and she didn't let any women approach his coffin.
 Joanna had six children, and the eldest became Charles V.
 
+[[charles-v, Charles V]]
 By the time **Charles V** came to the throne in 1500,
 the Habsburgs had gotten themselves a whole lot of power,
 but the 1.5 million square miles of family domains resulted in a pretty bad overextension modifier
@@ -535,6 +536,7 @@ and he thought he was in the West Indies.
 He founded the settlement of __La Navidad__ in modern-day Haiti,
 kidnapped some natives, and brought them back to Spain with him.
 
+[[tordesillas]]
 After Columbus came back,
 the Spanish and Portuguese decided that they needed to stay out of each others' way.
 Pope Alexander VI sent a bull to Ferdinand and Isabella dividing the lands.

@@ -238,7 +238,7 @@ For more information on the incident, watch __Bridge of Spies__.
 In April 1961, the CIA executed a plan to take down the Castro regime.
 The idea for the **Bay of Pigs invasion** (Operation Zapata)
 had been created under the Eisenhower administration,
-but it was executed four months into Kennedy's administration (more on Kennedy later).
+but it was executed four months into Kennedy's administration.
 
 The CIA idea was to arm 1,400 Cuban exiles known as Brigade 2506
 and empower them to establish "`a new government with which the United States can live in peace`".
@@ -293,8 +293,8 @@ they ousted him and placed **Leonid Brezhnev** in his place as First Secretary.
 He'd previously been in charge of the Virgin Lands Campaign, and now he took full power.
 Brezhnev would consolidate power, setting up his Brezhnev Doctrine,
 allowing intervention if socialist countries decided to turn to capitalism.
-A prime example of the use of his doctrine is the invasion of Czechoslovakia during Prague Spring
-(more on the Czech situation later).
+A prime example of the use of his doctrine
+is the invasion of Czechoslovakia during <<prague-spring>>.
 He also ordered the Soviet invasion of Afghanistan,
 and he would participate in the SALT (Strategic Arms Limitation Talks) agreements.
 
@@ -315,6 +315,7 @@ While France was occupied by Germany, the Indochinese government sided with the 
 The Viet Minh opposed French occupation,
 and they fought the Japanese who tried to take over as well.
 
+[[ho-chi-minh, Ho Chi Minh]]
 When Japan lost World War II, Japanese forces in Vietnam were inactive,
 and Viet Minh forces took over the country in the **August Revolution**.
 **Ho Chi Minh** led meetings to create the independent Democratic Republic of Vietnam in Hanoi.
