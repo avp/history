@@ -45,6 +45,7 @@ declared the **First Italian Independence War** on Austria.
 Radetzky won at the Battle of Custoza and took Lombardy,
 except for Venice, where the Republic of San Marco was established.
 
+[[cavour]]
 The **Second Italian Independence War** started in 1859.
 The Sardinian Prime Minister, **Camillo Benso, Count of Cavour** (colloquially Camillo Cavour),
 allied with Napoleon III.
@@ -175,7 +176,7 @@ In 1851, Louis Napoleon wasn't allowed to run for president again.
 Naturally, he decided to stage a coup and make himself President for Life.
 By the following year,
 he had created the **Second Empire** and made himself **Napoleon III** of France.
-As noted in the other section,
+As noted <<cavour, previously>>,
 Napoleon III colluded with Cavour in Italy and signed the Treaty of Villafranca,
 following heavy losses at Magenta and Solferino.
 
