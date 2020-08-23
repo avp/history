@@ -1,1 +1,2 @@
-themes/history.css linguist-vendored
+*.adoc linguist-detectable
+themes/history.css linguist-generated
