@@ -1,2 +1,4 @@
 *.adoc linguist-detectable
+themes/asciidoctor.css linguist-vendored
 themes/history.css linguist-generated
+themes/styles.css linguist-detectable
