@@ -451,7 +451,21 @@ The reason I'm going ahead with this attempt now is because I cannot wait any lo
 All targets survived.
 Hinckley was found not guilty by reason of insanity.
 
-In 1983, Reagan ordered US forces to invade Grenada.
+Reagan did not believe that the US and the Soviets were both equally culpable
+in the manifestation of the Cold War.
+In March 1983, he stood in front of the National Association of Evangelicals
+and delivered the **"`Evil Empire`"** speech,
+decrying the USSR as directly opposed to all that is good in the world:
+
+[quote]
+I urge you to beware the temptation of pride --
+the temptation of blithely declaring yourselves above it all
+and label both sides equally at fault,
+to ignore the facts of history and the aggressive impulses of an evil empire,
+to simply call the arms race a giant misunderstanding
+and thereby remove yourself from the struggle between right and wrong and good and evil.
+
+In October 1983, Reagan ordered US forces to invade Grenada.
 Codenamed **Operation Urgent Fury**,
 the goal was to intervene with the Marxist-Leninist government
 under Maurice Bishop that had taken control in 1979.
