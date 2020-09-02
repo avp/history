@@ -85,10 +85,10 @@ written by himself, his brother Milton, and his speechwriter Malcolm Moos:
   We want democracy to survive for all generations to come,
   not to become **the insolvent phantom of tomorrow**.
 
+=== Civil Rights
 
-=== The Sixties
-
-==== Civil Rights
+To contextualize the modern civil rights movement,
+we must trace a certain amount of social history from the Civil War period.
 
 After the Civil War, the Reconstruction amendments fixed some big problems, such as slavery.
 However, into the 1950s,
@@ -96,7 +96,76 @@ segregation was still rampant and racism was common, especially in the South.
 Segregation was sanctioned by the government, as shown by the **Jim Crow system**.
 The Supreme Court upheld it in the "`separate but equal`" doctrine
 established in __Plessy v. Ferguson__ (1896).
-But, real crux of the Civil Rights Movement takes place between 1954 and 1968:
+
+==== Washington & DuBois
+
+**Booker T. Washington** was one of the last American leaders who were born as slaves.
+He was the first leader of the **Tuskegee Institute**,
+a newly formed educational institution for Black Americans.
+Washington built the college from scratch, from premises to curricula.
+He also founded the National Negro Business League.
+Later, he wrote his autobiography __Up From Slavery__.
+
+Washington gave the Atlanta Address of 1895,
+at which he announced the **Atlanta Compromise**.
+The idea was that southern African Americans would accept white political rule,
+provided that they were given basic education and due process.
+
+[quote]
+A ship lost at sea for many days suddenly sighted a friendly vessel.
+From the mast of the unfortunate vessel was seen a signal:
+"Water, water; we die of thirst!"
+The answer from the friendly vessel at once came back:
+**"Cast down your bucket where you are."**
+A second time the signal,
+"Water, water; send us water!" ran up from the distressed vessel,
+and was answered:
+Cast down your bucket where you are."
+And a third and fourth signal for water was answered:
+"Cast down your bucket where you are."
+The captain of the distressed vessel,
+at last heeding the injunction, cast down his bucket,
+and it came up full of fresh, sparkling water from the mouth of the Amazon River.
+
+A few years after Washington gave his speech,
+leaders such as **W.E.B. Du Bois** and a group he called "`The Talented Tenth`"
+spoke out against the compromise.
+Du Bois explicitly campaigned for full civil rights and better representation in politics.
+He founded the **Niagara Movement**,
+an activist group which became the foundation for his future organization:
+the **National Association for the Advancement of Colored People (NAACP)**.
+Du Bois was a prolific author: he wrote
+__The Souls of Black Folk__,
+__Black Reconstruction in America__,
+his autobiography __Dusk of Dawn__,
+as well as many pieces for NAACP's journal __The Crisis__.
+
+==== 20th Century Developments
+
+During the **Great Migration**,
+a large percentage of African American populations moved out of the South
+into urban centers in the north and the west.
+This led to cultural flourishings such as the **Harlem Renaissance** in New York,
+as well as political and economic prosperity in locations such as the south side of Chicago.
+The founding of the **NAACP** led to increased opposition to violence against Black people,
+particularly regarding lynching as it was practiced in the south.
+
+The **Ku Klux Klan** had come back thanks to the extreme popularity of __Birth of a Nation__,
+a film directed by D.W. Griffith in 1915 which glorified the terrorist activities
+the Klan had engaged in during the Civil War era.
+
+Racial tensions were high in Oklahoma,
+where Native American relocation had brought slaves to the territory.
+Once freed, the oil economy in cities such as Tulsa
+housed an unusually large number of wealthy and educated African American residents.
+One location with a particularly dense concentration of money was the Greenwood District,
+which was known as "`Black Wall Street`".
+In 1921, white residents of Tulsa perpetrated the **Tulsa race massacre**,
+in which hundreds of Black residents were killed and Greenwood was utterly destroyed.
+
+==== Modern Civil Rights
+
+The crux of the Civil Rights Movement that comes up takes place between 1954 and 1968:
 
 In May 1954, the Supreme Court rules on __Brown v. Board of Education of Topeka, Kansas__.
 A more detailed overview of the important case is in the appendix,
@@ -104,10 +173,10 @@ but the decision overturns __Plessy__.
 
 On March 2, 1955, a black woman in Alabama is arrested for not giving up her seat on the bus to a white man.
 The ACLU and civil rights leaders quickly mobilize, but then they stop.
-The fifteen year old is pregnant and her name is **Claudette Colvin**.
+She is fifteen years old, pregnant, and her name is **Claudette Colvin**.
 A pending bus boycott is called off,
 and leaders decide not to publicize Colvin's story because it doesn't play well,
-even though her court case will eventually end segregation on the buses.
+even though her court case will eventually end segregation on the buses (Browder v. Gale).
 
 On December 1, **Rosa Parks**, a seamstress and secretary for the NAACP,
 doesn't listen to James Edwards's instructions to leave her seat on a bus and gets arrested.
@@ -183,6 +252,8 @@ He is struck by a bullet fired into his jaw, and he dies an hour later at St. Jo
 The FBI investigation finds the fingerprints of
 **James Earl Ray** at the origin of the gunfire.
 Two months later, Ray is captured at Heathrow Airport and confesses to having killed King.
+
+=== The Sixties
 
 ==== JFK
 
