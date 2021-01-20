@@ -160,7 +160,7 @@ Because so many people were trying to end the monarchy, it began to rule more ha
 By 1848, it fell apart as people revolted against the king.
 Louis Philippe abdicated and the **Second Republic** was formed.
 
-==== Republic and Empire
+==== The Second French Empire
 
 By the end of 1848,
 **Louis Napoleon Bonaparte** was overwhelmingly elected president of the Republic.
@@ -196,8 +196,43 @@ also containing his wife Eugenie de Montijo, with three bombs.
 
 Napoleon III was captured at the Battle of Sedan during the Franco-Prussian War,
 which we'll look at in detail later on.
-After the war, the monarchy was overthrown, and the **Third Republic** began,
-with Adolphe Thiers as the new president.
+His wife Empress Eugenie fled Paris and the Second Empire fell apart.
+
+==== Paris Commune
+
+So, the **Third Republic** began in February 1871, with Thiers as the new president.
+
+Radical factions led by men such as **Louis Auguste Blanqui** quickly seized the National Guard in Paris,
+taking control of 400 bronze cannons and stationing them in neighborhoods around Paris.
+Thiers decided to send the actual army to seize control of the cannons in Montmartre,
+but failed due to popular support for the National Guard.
+The army retreated to Versailles and Blanquists took control of various important government buildings.
+Elections in the city during March 1871 chose 92 councilmembers and created the **Paris Commune**.
+
+The Paris Commune shed the tricolor (using a red flag in its stead)
+and re-adopted Robespierre's Republican Calendar.
+They intended to enact a set of forward-thinking social democratic reforms.
+Notably, the Commune toppled the Vendôme Column, a monument to Napoleon I.
+Though they couldn't vote, there were many prominent Communard women,
+including Louise Michel, "`The Red Virgin of Montmartre`", who led various insurrectionary fights.
+
+Thiers was regrouping in Versailles, but he had not the manpower to retake Paris.
+The Commune decided of their own volition to march on Versailles,
+convinced that soldiers of the French army would not fire on members of the National Guard.
+They were wrong.
+
+The Commune took the failed attack on Versailles personally.
+They declared that anyone who aided the government in Versailles would be killed,
+and brought back a new incarnation of the <<public-safety, Committee of Public Safety>>.
+
+On May 21, the army attacked Paris and began the **Bloody Week**.
+They fought through the newly widened streets of the city (courtesy of the aforementioned Haussmann),
+and outflanked the Communards.
+For a week, the army marched through Paris, capturing and summarily executing members of the Commune.
+Many survivors such as Louise Michel were sent to French New Caledonia (in the South Pacific),
+where they oppressed the indigenous Kanak people.
+
+==== The Third French Republic
 
 In 1894, Jewish artillery captain **Alfred Dreyfus** was convicted of treason
 and imprisoned on Devil's Island.
@@ -268,7 +303,7 @@ He would be succeeded as Chancellor by Leo Caprivi.
 ==== Franco-Prussian War
 
 When Prussia defeated Austria in the Seven Weeks' War, France got scared.
-Nap-oleon III didn't want Germany to tip the balance of power.
+Napoleon III didn't want Germany to tip the balance of power.
 Bismarck wanted war with France,
 but he needed it to be France's fault so Germany would be behind him.
 
