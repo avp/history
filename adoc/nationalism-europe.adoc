@@ -244,7 +244,7 @@ The incident and the cover-up began to spread,
 prompting outrage, such as in Emile Zola's __J'accuse__.
 By 1906, Dreyfus was exonerated.
 
-=== Prussia Under The Iron Chancellor
+=== Prussia: The Iron Chancellor
 
 ==== Otto von Bismarck
 
@@ -322,6 +322,39 @@ and the rest of the war was mostly a siege of Paris, but it didn't work very wel
 The war provided Bismarck with what he needed to unify Germany.
 By the end of the war, Wilhelm I was declared German Emperor and the new German Empire was created.
 The end of the war also saw France surrender Alsace-Lorraine, and they had to pay an indemnity.
+
+=== Hungarian Revolution
+
+The kingdom of Hungary had been ruled by the Habsburgs ever since <<suleiman, Suleiman>>'s victory
+at Mohacs in 1526.
+However, it largely remained able to operate without entangling with the broader Austrian Empire,
+being governed by the legislative institution known as the Diet of Hungary.
+After the Napoleonic Wars, Emperor Francis II reconvened the Diet and started the Reform Period.
+
+**Istvan Szechenyi** became a leader who wanted to modernize Hungary based on the advances of western countries
+such as England.
+His ideas found a rival in **Lajos Kossuth**, who wanted to expand democracy, enact tax reform, and abolish serfdom.
+Liberal reformers' ideas divided between Szechenyi and Kossuth, but they put forth "`Twelve Points`".
+
+When news of the 1848 revolution in France came to Hungary, Kossuth capitalized.
+He made a speech in Vienna and Metternich was deprived of his powers.
+Combined with a bloodless revolution in Buda and Pest,
+this led to Ferdinand V expanding Hungarian autonomy
+and appointing **Lajos Batthyany** first Prime Minister of Hungary.
+The new government enacted the **April laws**, which created a modern democratic system.
+
+Batthyany tried to reconcile the new Hungarian system with the primary Habsburg powers in Vienna.
+He failed, resigning in October 1848.
+By March 1849, the Austrians passed the Stadion Constitution and attempted to abolish the Diet of Hungary.
+A new government came to be in Hungary, headed by Kossuth (appointed by new Prime Minister Bertalan Szemere).
+Desire for reform grew into revolution and a war for independence when Croatian Viceroy **Josip Jelacic**
+crossed the border to restore Habsburg control.
+After over a year of war, the Austrians appealed to Russia,
+and Tsar Nicholas I marched into Hungary and Kossuth abdicated, fleeing west.
+
+Following the defeat of Austria in the Austro-Prussian war in 1866,
+the two nations came to the Austro-Hungarian Compromise of 1867,
+which established the dual monarchy: Austria-Hungary.
 
 === Twilight of the Tsars
 
