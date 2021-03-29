@@ -215,6 +215,26 @@ Brutus was also the only person in Rome to coin money with his own face on it,
 The Republic lasted quite a long time, and lots of important things happened.
 I'll talk about some of them, but this probably won't end up being a complete account.
 
+Rome began to expand following the creation of the Republic.
+Latin and Etruscan towns and cities fell at such battles as Lake Regillus (496 BC).
+
+Roman society was split between **plebeians** and **patricians**, the commoners and nobles respectively.
+Because plebeians couldn't hold high office,
+they would occasionally effectively go on strike (a "`secession of the plebs`").
+The first such secession led to the creation of the office of Tribune,
+which provided the plebeians a way to check the power of the Senate.
+The struggle between the two classes, called the **Conflict of the Orders**,
+lasted until 287 BC, at which point the plebeians were effectively politically equal to patricians,
+though their quality of life was still quite low.
+
+**Marcus Furius Camillus** was one of the first great generals of the Republic.
+He beseiged the Etruscan city of Veii and was given a triumph.
+During the course of the war with the Etruscans, he was named dictator.
+When he attacked Falerii, a local teacher attempted to surrender the children of the city to him.
+Camillus refused to capture the kids, and Falerii made peace with Rome.
+Livy and Plutarch claim he was given four triumphs and was dictator five times.
+Camillus was famously referred to as the "`Second Founder of Rome`".
+
 Rome waged three **Samnite Wars** in Italy intermittently from 343 to 290 BC.
 The Oscan-speaking Samnites were one of Rome's most important rivals on the peninsula;
 the wars were a result of Roman intervention in political affairs that the Samnites took offense to.
@@ -288,7 +308,7 @@ He was elected consul for six years running, and his arch-nemesis was
 thus ending the Jugurthine War.
 
 Marius and Sulla had both fought in the **Social War** from 90 to 88 BC.
-The war was triggered by the murder of tribune Marcus Livius **Drusus**,
+The war was triggered by the murder of tribune **Marcus Livius Drusus**,
 who had wanted to extend citizenship to everyone in Italy.
 On his death, the Marsi and Samnites rebelled against Rome,
 and generals like Marius, Sulla, and Pompeius Strabo (father of the more important Pompey)
