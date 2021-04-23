@@ -1,36 +1,21 @@
 DEPS=history.adoc adoc/*.adoc themes/*.yml themes/*.css
 
-all: epub pdf
+all: history.epub history.pdf history.html
 .PHONY: all
 
-upload: upload-epub upload-pdf
-.PHONY: upload
-
-upload-epub: epub
-	aws s3 cp history.epub s3://history.avp42.com
-.PHONY: upload-epub
-
-upload-pdf: pdf
-	aws s3 cp history.pdf s3://history.avp42.com
-.PHONY: upload-pdf
-
-epub: $(DEPS)
+history.epub: $(DEPS)
 	asciidoctor-epub3 -v -a env-epub history.adoc
-.PHONY: epub
 
-pdf: $(DEPS)
+history.pdf: $(DEPS)
 	asciidoctor-pdf -v -a env-pdf history.adoc
-.PHONY: pdf
 
-html: $(DEPS)
+history.html: $(DEPS)
 	asciidoctor -v -a env-html history.adoc
-.PHONY: html
 
 watch: $(DEPS)
 	watch make html
 
 clean:
 	$(RM) history.epub
-	latexmk -C
-.PHONY: clean
-
+	$(RM) history.pdf
+	$(RM) history.html

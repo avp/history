@@ -30,11 +30,11 @@ jobs:
         gem install asciidoctor-pdf
         NOKOGIRI_USE_SYSTEM_LIBRARIES=1 gem install asciidoctor-epub3 --pre
     - name: Build HTML
-      run: make html
+      run: make history.html
     - name: Build EPUB
-      run: make epub
+      run: make history.epub
     - name: Build PDF
-      run: make pdf
+      run: make history.pdf
     - name: Prepare deployment
       run: |
         mkdir build/
