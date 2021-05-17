@@ -14,8 +14,10 @@ history.html: $(DEPS)
 
 watch: $(DEPS)
 	watch make history.html
+.PHONY: watch
 
 clean:
 	$(RM) history.epub
 	$(RM) history.pdf
 	$(RM) history.html
+.PHONY: clean
