@@ -13,7 +13,7 @@ history.html: $(DEPS)
 	asciidoctor -v -a env-html history.adoc
 
 watch: $(DEPS)
-	watch make html
+	watch make history.html
 
 clean:
 	$(RM) history.epub
