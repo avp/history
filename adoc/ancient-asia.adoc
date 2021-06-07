@@ -129,7 +129,8 @@ His son, emperor Taizong (aka Li Shimin), deposed him and became a great ruler,
 consolidating power fairly effectively and conquering a lot more of western China.
 He was succeeded by Empress **Wu**, the only woman to be emperor of China,
 presiding over the "`second Zhou dynasty`".
-The Tang also fought three wars against the Three Kingdoms of Korea (Gorguyeo, Beakje, and Silla).
+The Tang also fought three wars against the <<three-kingdoms-korea, Three Kingdoms of Korea>>
+(Goguryeo, Beakje, and Silla).
 
 Later, during the reign of Xuanzong, the **An Lushan** rebellion tore apart the Tang.
 Even though it was quelled, the revolt had lasting effects that ended up beginning the
@@ -209,3 +210,25 @@ Boxers converged on Beijing and laid siege to the Legation Quarter,
 and the Empress Dowager Cixi decided to support them.
 Thus began a conflict between Cixi and the Boxers and the Eight-Nation Alliance against them.
 The siege of the legations was lifted in 1900 and the Boxer Protocol was implemented.
+
+=== Early Korea
+
+The first Korean kingdom was **Gojoseon**, which divided the Korean peninsula with the state of Jin to the south.
+The kingdom was well known by the 4th century BC, and its capital was in Pyongyang.
+Dangun was the legendary founder of Gojoseon, said to be the "`son of a bear`".
+The Han dynasty defeated Gojoseon ruler Wiman Joseon in 108 BC
+and established the Four Commanderies of Han in former Gojoseon.
+
+Following the fall of Gojoseon, the Proto-Three Kingdoms period began.
+Various new states coalesced on the peninsula, including Dongbuyeo and Bukbuyeo.
+
+[[three-kingdoms-korea]]
+The **Three Kingdoms of Korea** began in 57 BC
+and consisted of Goguryeo, Baekje, and Silla.
+
+Goguryeo was founded by Jumong and the government was centralized by King Taejo.
+Also known as Goryeo, its name was the source of what we now call Korea.
+By the 5th century, Goguryeo had reached a peak.
+Gwanggaeto the Great and his son Jangsu expanded the kingdom into Manchuria and Russia.
+It was a military state which continually fought for control of the peninsula,
+and had multiple wars with various Chinese dynasties.
