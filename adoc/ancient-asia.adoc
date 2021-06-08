@@ -130,7 +130,7 @@ consolidating power fairly effectively and conquering a lot more of western Chin
 He was succeeded by Empress **Wu**, the only woman to be emperor of China,
 presiding over the "`second Zhou dynasty`".
 The Tang also fought three wars against the <<three-kingdoms-korea, Three Kingdoms of Korea>>
-(Goguryeo, Beakje, and Silla).
+(Goguryeo, Baekje, and Silla).
 
 Later, during the reign of Xuanzong, the **An Lushan** rebellion tore apart the Tang.
 Even though it was quelled, the revolt had lasting effects that ended up beginning the
@@ -223,12 +223,38 @@ Following the fall of Gojoseon, the Proto-Three Kingdoms period began.
 Various new states coalesced on the peninsula, including Dongbuyeo and Bukbuyeo.
 
 [[three-kingdoms-korea]]
+==== Three Kingdoms of Korea
+
 The **Three Kingdoms of Korea** began in 57 BC
 and consisted of Goguryeo, Baekje, and Silla.
 
 Goguryeo was founded by Jumong and the government was centralized by King Taejo.
-Also known as Goryeo, its name was the source of what we now call Korea.
 By the 5th century, Goguryeo had reached a peak.
 Gwanggaeto the Great and his son Jangsu expanded the kingdom into Manchuria and Russia.
 It was a military state which continually fought for control of the peninsula,
 and had multiple wars with various Chinese dynasties.
+
+Baekje was founded by Onjo, a former Goguryeo, in 18 BC.
+Under King Geunchogo, Baekje expanded to control most of the western peninsula.
+Baekje was well known for its naval power and maritime trade.
+
+Silla was univied by Bak Hyeokgeose in 57 BC around southeastern Korea.
+It was the smallest of the three kingdoms.
+
+==== North and South States
+
+Silla drove Chinese Tang forces from the peninsula in the Silla-Tang War,
+and by the end of the seventh century, the North and South States Period began.
+
+In the south was Unified Silla, which facilitated trade with the west (Abbasid Caliphate)
+and continued the maritime traditions of Baekje.
+
+In the north was Balhae, founded after the fall of Goguryeo.
+Balhae was weakened and conquered by the Khitan Liao dynasty in 926.
+We don't know much about Balhae due to a lack of records.
+
+==== Goryeo
+
+**Goryeo** was founded by Wang Geon in 918 and soon came to dominate Korea.
+Its name was the source of what we now call Korea.
+The dynasty continued well into the 1300s, so we'll get back to that later.
