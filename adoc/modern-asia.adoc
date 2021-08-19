@@ -152,6 +152,29 @@ as an excuse to start the attack.
 The Tokugawa would start a period of seclusion (sakoku) because of the Shimabara Rebellion.
 The Tokugawa Shogunate stayed in power for quite a while, so let's go look at India for now.
 
+=== Dynastic Korea
+
+==== Goryeo Revisited
+
+When last we visited <<three-kingdoms-korea, Korea>>, the Goryeo dynasty was founded by Wang Geon.
+
+The Khitan Empire (the **Liao Dynasty**), which controlled what is now eastern Russia and some of China,
+invaded Goryeo in 1018 but were repelled at the Battle of Kuju.
+Victory against the Khitan resulted in a golden age for Goryeo.
+The Tripitaka Koreana, a comprehensive and still intact Buddhist canon carved on wood blocks, was completed.
+
+In 1231, the Mongol leader Őgedei Khan invaded Korea.
+Mongol forces crossed the Yalu and captured the Goryeo capital at Gaesong.
+Goryeo sued for peace and the Mongols retreated.
+The following year, Goryeo evacuated Gaesong and moved the Royal Court south,
+irking the Mongols, who launched a second invasion, but were forced to withdraw again.
+The Mongols invaded again and again, nine times in total, until 1257.
+Driven to desperation, Goryeo swore allegiance to the new Mongol leader, Kublai Khan,
+and the Yuan Dynasty presided over Goryeo for almost the next century.
+
+The Yuan Dynasty fell apart in the 1350s, and the Goryeo were reformed.
+The Goryeo was overthrown in 1392, when Taejo took power in a coup and established a new dynasty.
+
 === Mughals of India
 
 In 1526, **Babur**, a descendant of Tamerlane,
