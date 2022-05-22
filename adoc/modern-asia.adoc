@@ -130,10 +130,11 @@ The first great unifier of Japan was **Oda Nobunaga** (1534{n-}1582).
 Oda introduced musketeers into the Japanese military,
 and he allowed Jesuits into the country to combat the Ikko and Tendai monasteries.
 
+[[toyotomi]]
 He was killed in a revolt in 1582,
 and true unification was completed by his general **Toyotomi Hideyoshi**,
 the second great unifier of Japan.
-He invaded Korea, but he was stopped at the Battle of Noryang by the Korean turtle ships.
+He invaded <<joseon, Korea>>, but he was stopped at the Battle of Noryang by the Korean turtle ships.
 Hideyoshi tried to conquer the Ming dynasty in China, but he died.
 
 **Tokugawa Ieyasu**, a student of Oda Nobunaga, was a regent for Hideyoshi's heir.
@@ -174,6 +175,35 @@ and the Yuan Dynasty presided over Goryeo for almost the next century.
 
 The Yuan Dynasty fell apart in the 1350s, and the Goryeo were reformed.
 The Goryeo was overthrown in 1392, when Taejo took power in a coup and established a new dynasty.
+
+[[joseon]]
+==== Joseon Dynasty
+
+Yi Seong-gye (eventually also called Taejo), founded the Joseon dynasty in 1392.
+He introduced Neo-Confucianism as the main philosophy.
+Taejo built Gyeongbok Palace in modern day Seoul (then called Hanyang).
+Internal conflicts after he died included the Strifes of Princes,
+succession battles between Taejo's heirs.
+
+**Sejong the Great** (r. 1418-1450) ,stablished the Hall of Worthies, a research academy.
+The Hall created Hangul (the Korean alphabet)
+and worked on various other engineering and scientific advancements.
+He presided over a golden age of Korean culture,
+but this period was not to last.
+
+Sejong was suceeded by his son Mujong, who promptly died and was succeeded by the 12-year-old Danjong.
+Danjong's uncle Sejo then deposed Danjong in 1455.
+The so-called "`six martyred ministers`" then attempted to kill Sejo, but they were caught and executed.
+Danjong was then murdered in exile.
+
+In 1494, Yeonsangun came to power and immediately abused it.
+Yeonsangun oversaw multiple literati purges at the turn of the century.
+He banned Hangul because people were using the alphabet to criticize him.
+
+Amidst domestic unrest in the late 1500s, <<toyotomi, Toyotomi Hideyoshi>> invaded over the sea.
+Under the command of Yi Sun-sin, Korean turtle ships repelled the invasion.
+Shortly thereafter, Manchu invasions led to more bloodshed until Joseon came to terms with the Qing dynasty,
+making Korea a tributary of China in 1636.
 
 === Mughals of India
 
