@@ -282,8 +282,6 @@ The Round Table Agreement set up local self government,
 and the legislature (the Sejm) was split based on the new agreement.
 After some work, Lech Walesa was elected president of the Third Polish Republic in November 1990.
 
-=== The Balkans
-
 ==== Yugoslavia
 
 Yugoslavia had been created following the First World War,
@@ -308,6 +306,58 @@ promoting "`brotherhood and unity`" in Yugoslavia.
 Tito died in 1980.
 This led to some internal strife in Yugoslavia,
 and the country dissolved by 1991, leading to the Yugoslav Wars.
+
+==== Bulgaria
+
+Bulgaria had joined the Axis in 1941 as part of the Tripartite pact,
+occupying much of the Balkans (Greece, Yugoslavia).
+However, when the Red Army marched across the border in 1944,
+Bulgaria severed ties with the Axis
+and the Communist Party in the country launched a coup and installed a new government led by the Fatherland Front.
+
+By 1946, the monarchy had been abolished, Tsar Simeon{nbsp}II had been exiled,
+and the Kingdom of Bulgaria became the People's Republic of Bulgaria.
+The Communist Party, led by **Georgi Dimitrov**, became the majority power.
+
+Dimitrov was succeeded on his death in 1949 by Vulko Chervenkov,
+who wasn't popular enough to keep hold of power.
+He was replaced by **Todor Zhivkov** in 1954,
+who would remain General Secretary of the party until 1989
+(making him the longest serving leader under the Iron Curtain).
+
+Among the political complexities the Bulgarian government had to deal with was the matter of Pirin Macedonia.
+A Macedonian region which had been ceded to Yugoslavia after the First World War,
+its fate had been left to the whims of the relationship between Tito and Stalin.
+Bulgaria and Greece had been fighting over Macedonia for many years,
+but now Stalin demanded that cultural autonomy must be given to the people of Pirin Macedonia,
+to create a unified identity within Bulgaria.
+In the 1960s (well after Tito and Stalin stopped being friends),
+Zhivkov would declare that Pirin Macedonia was part of Bulgaria,
+stating that there was no such thing as a Macedonian nation,
+and all accounts to the contrary had been fabricated by the Yugoslav government.
+
+Zhivkov borrowed ideas from the Soviet Union and China,
+being inspired by the Great Leap Forward to create the Third Five-Year Plan (1958-1962),
+which attempted to industrialize and liberalize the country.
+However, due to nearby turmoil (e.g. the USSR invading Czechoslovakia in 1968),
+Bulgaria backed off on the aggressive industrial investment and began to stagnate in the 1970s.
+Zhivkov tried to remedy this in 1981 using the "New Economic Model",
+but the general quality of life stayed low as shelves stayed empty (or filled with mediocre products).
+
+In 1980, the Zhivkov and the Bulgarian government, spurred by Turkey's invasion of Cyprus
+and Kenan Evren's coup in Turkey in 1980,
+decided to wage a culture war on the Turkish minority in Bulgaria.
+Turks were forbidden to speak their language,
+were forced to change their names,
+and in 1989, the Turks were expelled from Bulgaria (resulting in yet more economic decline).
+
+Zhivkov's failure to improve things came to the forefront,
+and he was replaced with Peter Mladenov in 1989.
+That only kept the Communists in power for a short time, though,
+as proper elections were held in 1990,
+ending the Communist lead in government and renaming the country the Republic of Bulgaria.
+
+=== The Balkans
 
 ==== Bosnian War
 
