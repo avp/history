@@ -792,7 +792,49 @@ Mandela offered South Africa as a site for the trial of the Lockerbie Bombers (P
 
 === North America: Mexico and Canada
 
-==== Mexican Revolution
+==== Mexico After Spain
+
+===== Mexican Independence
+
+Spain had ruled Mexico for three centuries,
+but things were thrown into chaos when the Peninsular War and various Napoleonic shenanigans
+resulted in radical restructuring and the creation of a Constitution in the early 1800s.
+On September 16, 1810, Father **Miguel Hidalgo**, a Catholic priest,
+issued the Cry of Dolores, a call for Mexicans to overthrow the Spaniards and claim independence
+(the date is now celebrated as Independence Day in Mexico).
+So began the Mexican War of Independence.
+
+Less than a year later, Hidalgo was captured and executed.
+He was replaced by fellow priest José Maria Morelos,
+who was executed in 1815 (following restoration of the Spanish monarchy in 1814).
+
+The war dragged on.
+In 1820, **Agustin de Iturbide**, a Royalist army officer,
+defected to the insurgency and partnered with Vincente Guerrero to create the Army of the Three Guarantees.
+The guarantees were as follows:
+
+* Religion: Mexico would be a Catholic nation
+* Independence: Spain would no longer have control over Mexico
+* Unity: Mexico would stand together against its enemies
+
+Iturbide quickly turned the tide of the war, coming into control of most of Mexico,
+resulting in the **Treaty of Cordoba** in 1821 which granted Mexico its independence.
+Unfortunately, Juan O'Donojú had signed the treaty for Spain without proper authorization,
+and Spain rejected the treaty.
+
+===== First Mexican Empire
+
+Spain's rejection of the treaty and lack of proper leadership in Mexico led to a problem
+in regards to who should actually be in charge.
+As is customary, the army decided to put an end to this by appointing Iturbide as the first Mexican emperor.
+Unfortunately, without proper support of other nobility throughout the country,
+he had no means to really hold on to power.
+Seeing an opportunity,
+**Antonio López de Santa Anna** decided to call for the removal of the emperor.
+
+The Age of Santa Anna is chronicled in the section on the <<mexican-war, Mexican American War>>.
+
+===== Mexican Revolution
 
 In 1910, a major revolution against Mexican ruler **Porfirio Diaz** broke out.
 The revolution would last for most of the decade, and it evolved from a revolt into a civil war,
@@ -876,7 +918,7 @@ The disastrous scandal led to Macdonald's resignation as Prime Minister.
 ===== Klondike Gold Rush
 
 George and Kate Carmack, along with Skookum Jim Mason,
-hit gold in the Yukon territory discovered gold in 1986.
+hit gold in the Yukon territory in 1986.
 As soon as news hit the United States,
 gold seekers came up through Skagway and Dyea in Southeast Alaska.
 Of course, the long journey meant that most didn't turn up until 1898.
