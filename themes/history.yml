@@ -17,7 +17,7 @@ title_page:
     font_size: 0.3in
 heading:
   h2-align: center
-  h2-margin-page-top: 3in
+  h2-margin-page-top: 2in
 blockquote:
   font-size: 10
 footer:
