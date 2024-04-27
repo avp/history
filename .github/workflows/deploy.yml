@@ -22,7 +22,7 @@ jobs:
     - uses: actions/checkout@v2
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '2.6'
+        ruby-version: '3.3'
     - name: Install libxslt
       run: sudo apt-get install libxslt1.1 libxslt1-dev libxml2-dev
     - name: Install asciidoc
