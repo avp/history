@@ -42,9 +42,11 @@ jobs:
         cp history.html build/index.html
         cp history.pdf build/history.pdf
         cp history.epub build/history.epub
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@v4
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
       with:
-        branch: gh-pages
-        folder: build
-        clean: true
+        # Upload entire repository
+        path: 'build/'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
