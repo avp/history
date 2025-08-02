@@ -1,8 +1,7 @@
 == African Empires
 
 [quote.epigraph, Ghanaian Proverb]
-
-  An army of sheep led by a lion can defeat an army of lions led by a sheep.
+An army of sheep led by a lion can defeat an army of lions led by a sheep.
 
 
 === West Africa
