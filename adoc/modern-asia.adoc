@@ -205,7 +205,9 @@ Under the command of Yi Sun-sin, Korean turtle ships repelled the invasion.
 Shortly thereafter, Manchu invasions led to more bloodshed until Joseon came to terms with the Qing dynasty,
 making Korea a tributary of China in 1636.
 
-=== Mughals of India
+=== Empires in India
+
+==== Mughal Empire
 
 In 1526, **Babur**, a descendant of Tamerlane,
 had tried multiple times to take Samarkand, but had failed and decided to go away.
@@ -247,8 +249,36 @@ Shah Jahan was declared incompetent
 and spent the end of his life locked up by Aurangzeb in the Red Fort.
 Aurangzeb levied the __jizya__ tax, and he killed Tegh Bahadur for not converting to Islam.
 
-Following Aurangzeb's death, **Bahadur Shah I** took power, killing his brothers in the process.
-His policies were often aimed at crushing Sikhs.
+==== Maratha Empire
+
+**Shivaji** (1630-1680) of the Bhonsle clan founded the Maratha state in the western Deccan.
+He organized a revolt against the Bijapur Sultanate and creating a Hindu rule in the area.
+The new Maratha Kingdom crowned him as __Chhatrapati__.
+
+Then, Shivaji began a campaign against the Mughals in the Deccan,
+resulting in an attack on Aurangzeb's general Shaista Khan.
+Shivaji's capture of various forts gave the Maratha dominion over a significant section of the region,
+but when he died in 1680 of dysentery the territories therein were non-contiguous and not well defined.
+The death of Shivaji led to some infighting, but his son Sambhaji took the crown in 1681.
+
+Meanwhile, Aurangzeb's rebel son, Akbar, traveled south to ally himself with some Muslim rebels.
+He attempted to create an alliance with Shivaji, and Aurangzeb traveled south himself to suppress the revolt;
+Prince Akbar fled to Persia and was not seen in India again.
+
+Aurangzeb's campaign against the Maratha's ended up being too costly,
+so he went and completely took over Bijapur.
+In 1689, things seemed to break the Mughal's way when the they captured and executed Sambhaji.
+
+Aurangzeb died in 1707 and his successor **Bahadur Shah I** released Sambhaji's son Shahu.
+The Maratha expanded eastwards.
+
+In 1720, Shahu appointed **Bajirao I** as Peshwa (the second highest office) of the Maratha.
+Bajirao expanded the Kingdom significantly, and in 1737 he led the Maratha raid in the Battle of Delhi.
+The final defeat of the Mughal Empire occurred at the Battle of Bhopal of the same year.
+Combined with invasions and sacks from Iran (Nader Shah), the time of the Mughal Empire was over.
+
+With their capital at Pune, the Marathas controlled a vast section of the subcontinent
+by the mid-1700s.
 
 === Ottomans of Turkey
 
