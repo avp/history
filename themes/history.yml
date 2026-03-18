@@ -4,6 +4,7 @@ page:
   margin: 1in
 base:
   font-family: NotoSerif
+  text-align: left
 title_page:
   background-color: a4671a
   title:
@@ -18,7 +19,7 @@ title_page:
 heading:
   h2-align: center
   h2-margin-page-top: 2in
-blockquote:
+quote:
   font-size: 10
 footer:
   columns: =100%
